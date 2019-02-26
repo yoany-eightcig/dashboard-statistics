@@ -43,9 +43,11 @@ class ReportController extends Controller
 
 
     public function getSalesOrderReport () {
-
-    	$csv = array_map('str_getcsv', file('sales_order_today.csv'));
-
+        $csv = [];
+        if (file_exists(storage_path().'/sales_order_today.csv')) {
+            $csv = array_map('str_getcsv', file(storage_path().'/sales_order_today.csv'));
+        }
+    	
 
     	$read = false;
     	$sales = array();
@@ -65,8 +67,11 @@ class ReportController extends Controller
     }
 
     public function getPackReport() {
-    	$csv = array_map('str_getcsv', file('pack_today.csv'));
-
+        $csv = [];
+        if (file_exists(storage_path().'/pack_today.csv')) {
+            $csv = array_map('str_getcsv', file(storage_path().'/pack_today.csv'));    
+        }
+    	
     	$read = false;
 
     	$userCount = 0;
@@ -124,16 +129,19 @@ class ReportController extends Controller
     }    
 
     public function getPickReport() {
-    	$csv = array_map('str_getcsv', file('pick_today.csv'));
-
+        $csv = [];
+        if (file_exists(storage_path().'/pick_today.csv')) {
+            $csv = array_map('str_getcsv', file(storage_path().'/pick_today.csv'));    
+        }
+    	
     	$pick = [];
     	$read = false;
 
     	$userCount = 0;
+        $groups_data = [];
         $groups_data['r'] = [];
         $groups_data['w'] = [];
 
-    	$groups_data = [];
     	foreach ($csv as $key => $line) {	
     		if (count($line) == 6 ) {
     			if ($line[0] <> '' && $line[1] == '') {
@@ -235,7 +243,7 @@ class ReportController extends Controller
     		'format'=>'csv')
     	);
 
-    	$result = file_put_contents('sales_order_today.csv', $response);
+    	$result = file_put_contents(storage_path().'/sales_order_today.csv', $response);
 
     	$report_name = "Pack Statistics";
     	// $report = $this->locateRequest('GET', '/report?name='.urlencode($report_name), $this->sessionToken);
@@ -251,7 +259,7 @@ class ReportController extends Controller
     		'format'=>'csv')
     	);
 
-    	$result = file_put_contents('pack_today.csv', $response);
+    	$result = file_put_contents(storage_path().'/pack_today.csv', $response);
 
     	$report_name = "Pick Statistics";
     	// $report = $this->locateRequest('GET', '/report?name='.urlencode($report_name), $this->sessionToken);
@@ -267,7 +275,7 @@ class ReportController extends Controller
     		'format'=>'csv')
     	);
 
-    	$result = file_put_contents('pick_today.csv', $response);
+    	$result = file_put_contents(storage_path().'/pick_today.csv', $response);
 
     	return response()->json(['status' => 'updated']);
     }
@@ -285,7 +293,7 @@ class ReportController extends Controller
     		'format'=>'csv')
     	);
 
-    	$result = file_put_contents('sales_order_previous.csv', $response);
+    	$result = file_put_contents(storage_path().'/sales_order_previous.csv', $response);
 
     	$report_name = "Pack Statistics";
     	// $report = $this->locateRequest('GET', '/report?name='.urlencode($report_name), $this->sessionToken);
@@ -301,7 +309,7 @@ class ReportController extends Controller
     		'format'=>'csv')
     	);
 
-    	$result = file_put_contents('pack_previous.csv', $response);
+    	$result = file_put_contents(storage_path().'/pack_previous.csv', $response);
 
     	$report_name = "Pick Statistics";
     	// $report = $this->locateRequest('GET', '/report?name='.urlencode($report_name), $this->sessionToken);
@@ -317,13 +325,17 @@ class ReportController extends Controller
     		'format'=>'csv')
     	);
 
-    	$result = file_put_contents('pick_previous.csv', $response);    
+    	$result = file_put_contents(storage_path().'/pick_previous.csv', $response);    
     	return response()->json(['status' => 'OK']);	
     }
 
     public function getYesterdayTopPackReport() {
-        $csv = array_map('str_getcsv', file('pack_previous.csv'));
+        $csv = [];
 
+        if (file_exists(storage_path().'/pack_previous.csv')) {
+            $csv = array_map('str_getcsv', file(storage_path().'/pack_previous.csv'));    
+        }
+        
         $read = false;
 
         $userCount = 0;
@@ -372,8 +384,13 @@ class ReportController extends Controller
     }
 
     public function getYesterdayTopPickReport() {
-        $csv = array_map('str_getcsv', file('pick_previous.csv'));
 
+        $csv = [];
+
+        if (file_exists(storage_path().'/pick_previous.csv')) {
+            $csv = array_map('str_getcsv', file(storage_path().'/pick_previous.csv'));    
+        }
+        
         $pick = [];
         $read = false;
 
