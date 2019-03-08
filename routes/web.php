@@ -22,3 +22,7 @@ define('LOCATE_PASSWORD', 'CopxerKiller8001');
 Route::get('/', 'ReportController@dashboard');
 Route::get('/updatecurrentdata', 'ReportController@updateCurrentData');
 Route::get('/getyesterdaydata', 'ReportController@getYesterdayData');
+
+Auth::routes();
+
+Route::get('/home', 'ReportController@dashboard')->name('home');
