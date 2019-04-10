@@ -41,6 +41,11 @@ class ReportController extends Controller
 		"joccelyn favela",
 	];
 
+    public function __construct()
+    {
+        $this->middleware('auth');
+        parent::__construct();
+    }
 
     public function getSalesOrderReport () {
         $csv = [];

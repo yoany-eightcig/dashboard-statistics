@@ -3,7 +3,7 @@
 <head>
     @include('includes.head')
 </head>
-<body class="">
+<body>
     <div class="container-fluid mt-3">
         <div class="row">
             @include('includes.header')
