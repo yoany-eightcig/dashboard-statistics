@@ -91,7 +91,7 @@ $(document).ready(function() {
 
   	setInterval(function() {
     	refresh_page();
-  	}, (1000 * 60 * 10));
+  	}, (1000 * 60 * 20));
 
   	var d = new Date();
   	var weekday = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
