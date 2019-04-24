@@ -43,37 +43,30 @@ function updateCurrentData($sessionToken)
 {
     set_time_limit(0);
     ini_set('max_execution_time', 0);
-    
+
     $report_name = "Sales Order Dashboard";
+    echo $report_name. "\n";
     $report_id = 629;
 
     $response = locateRequest('GET', "/report/".$report_id."/run", $sessionToken, array(
+        "api_key" => "1a2ff66d04d8179333029bdcc28a21d2",
         'listofpicks' => 0,
         'daterange' => 'Current Day',  
         'daterange2' => 'Current Day', 
         'format'=>'csv'
     ));
 
-    $result = file_put_contents('storage/app/public/sales_order_today.csv', $response);
-    
-    $report_name = "Pack Statistics";
-    $report_id = 636;
+    $result = file_put_contents('storage/sales_order_today.csv', $response);
+    echo var_dump($result);
+    echo "Downloaded \n";
 
-    $response = locateRequest('GET', "/report/".$report_id."/run", $sessionToken, array(
-        'formatassinglepage' => 0,
-        'listofpicks' => 0,
-        'picktime' => 1,
-        'packcompleted' => 'Current Day',  
-        'packcompleted2' => 'Current Day', 
-        'format'=>'csv'
-    ));
-
-    $result = file_put_contents('storage/app/public/pack_today.csv', $response);
     
     $report_name = "Pick Statistics";
+    echo $report_name. "\n";
     $report_id = 627;
 
     $response = locateRequest('GET', "/report/".$report_id."/run", $sessionToken, array(
+        "api_key" => "1a2ff66d04d8179333029bdcc28a21d2",
         'formatassinglepage' => 1,
         'listofpicks' => 0,
         'picktime' => 1,
@@ -82,13 +75,32 @@ function updateCurrentData($sessionToken)
         'format'=>'csv'
     ));
 
-    $result = file_put_contents('storage/app/public/pick_today.csv', $response);
+    $result = file_put_contents('storage/pick_today.csv', $response);
+    echo var_dump($result);
+    echo "Downloaded \n";
 
+    $report_name = "Pack Statistics";
+    echo $report_name. "\n";
+    $report_id = 636;
+
+    $response = locateRequest('GET', "/report/".$report_id."/run", $sessionToken, array(
+        "api_key" => "1a2ff66d04d8179333029bdcc28a21d2",
+        'formatassinglepage' => 1,
+        'listofpicks' => 0,
+        'picktime' => 1,
+        'packcompleted' => 'Current Day',  
+        'packcompleted2' => 'Current Day', 
+        'format'=>'csv'
+    ));
+
+    $result = file_put_contents('storage/pack_today.csv', $response);
+    echo var_dump($result);
+    echo "Downloaded \n";
 }
 
 $locate_base_url = "https://magma.locateinv.com";
-$locate_username = "yoany@eightcig.com";
-$locate_password = "CopxerKiller8001";
+$locate_username = "procurement@eightcig.com";
+$locate_password = "Vape1234";
 
 // Login
 $loginRequest = array(
@@ -101,7 +113,7 @@ $sessionToken = $loginResponse->session_token;
 
 echo "Session Token: ".$sessionToken."\n";
 echo "updating: \n";
-
-echo "Done";
+updateCurrentData($sessionToken);
+echo "Done  \n";
 
 ?>

@@ -236,6 +236,12 @@ class ReportController extends Controller
     }
 
     public function updateCurrentData() {
+        /*
+        $response = $this->locateRequest('GET', "/notification/1864", $this->sessionToken, array());
+        dd($response);
+        exit;
+        */
+
     	$report_name = "Sales Order Dashboard";
     	// $report = $this->locateRequest('GET', '/report?name='.urlencode($report_name), $this->sessionToken);
     	// $report_id = $report->data[0]->id;
