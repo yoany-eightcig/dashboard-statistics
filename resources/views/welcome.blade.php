@@ -91,7 +91,7 @@ $(document).ready(function() {
 
   	setInterval(function() {
     	refresh_page();
-  	}, (1000 * 60 * 20));
+  	}, (1000 * 60 * 10));
 
   	var d = new Date();
   	var weekday = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
@@ -102,6 +102,7 @@ $(document).ready(function() {
 });
 
 function refresh_page() {
+	/*
 	$.ajax ({
 		method: 'GET',
 	    url: '/updatecurrentdata',
@@ -118,6 +119,8 @@ function refresh_page() {
 	        console.error(e);
 	    }
 	 });	
+	 */
+	 window.location.reload(true);
 }	
 
 function getyesterdaydata() {

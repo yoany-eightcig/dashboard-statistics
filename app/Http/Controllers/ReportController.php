@@ -236,6 +236,12 @@ class ReportController extends Controller
     }
 
     public function updateCurrentData() {
+        /*
+        $response = $this->locateRequest('GET', "/notification/1864", $this->sessionToken, array());
+        dd($response);
+        exit;
+        */
+
     	$report_name = "Sales Order Dashboard";
     	// $report = $this->locateRequest('GET', '/report?name='.urlencode($report_name), $this->sessionToken);
     	// $report_id = $report->data[0]->id;
@@ -245,8 +251,8 @@ class ReportController extends Controller
     		'listofpicks' => 0,
     		'daterange' => 'Current Day',  
     		'daterange2' => 'Current Day', 
-    		'format'=>'csv')
-    	);
+    		'format'=>'csv'
+        ));
 
     	$result = file_put_contents(storage_path().'/sales_order_today.csv', $response);
 
@@ -256,13 +262,13 @@ class ReportController extends Controller
     	$report_id = 636;
 
     	$response = $this->locateRequest('GET', "/report/".$report_id."/run", $this->sessionToken, array(
-    		'formatassinglepage' => 1,
+    		'formatassinglepage' => 0,
     		'listofpicks' => 0,
     		'picktime' => 1,
     		'packcompleted' => 'Current Day',  
     		'packcompleted2' => 'Current Day', 
-    		'format'=>'csv')
-    	);
+    		'format'=>'csv'
+        ));
 
     	$result = file_put_contents(storage_path().'/pack_today.csv', $response);
 
@@ -277,8 +283,8 @@ class ReportController extends Controller
     		'picktime' => 1,
     		'pickcompleted' => 'Current Day',  
     		'pickcompleted2' => 'Current Day', 
-    		'format'=>'csv')
-    	);
+    		'format'=>'csv'
+        ));
 
     	$result = file_put_contents(storage_path().'/pick_today.csv', $response);
 
