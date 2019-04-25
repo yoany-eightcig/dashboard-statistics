@@ -36,7 +36,8 @@ function locateRequest($curlRequestType, $endpoint, $sessionToken = null, $postD
         }
     }
     else {
-        throw new Exception($httpCode . ' - ' . $response);
+        // throw new Exception($httpCode . ' - ' . $response);
+        echo ($httpCode . ' - ' . $response);
     }
 }
 
