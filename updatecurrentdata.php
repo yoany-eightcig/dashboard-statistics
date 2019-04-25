@@ -99,8 +99,8 @@ function updateCurrentData($sessionToken)
 }
 
 $locate_base_url = "https://magma.locateinv.com";
-$locate_username = "procurement@eightcig.com";
-$locate_password = "Vape1234";
+$locate_username = "yoany@eightcig.com";
+$locate_password = "CopxerKiller8001";
 
 // Login
 $loginRequest = array(
