@@ -69,7 +69,17 @@ function getNotifications($sessionToken)
 				"notification_ids" => [$notification->id],
 			));
 			echo var_dump($response). "\n";
+		} else if (strpos($filename, "OrderDashboard") !== false) {
+			$filename = "sales_order_today.csv";
+			$response = file_get_contents($url);
+			$result = file_put_contents('storage/'.$filename, $response);
+
+			$response = locateRequest('POST', "/notification/delete", $sessionToken, array(
+				"notification_ids" => [$notification->id],
+			));
+			echo var_dump($response). "\n";
 		}
+
 	}
 
 	return $result;
