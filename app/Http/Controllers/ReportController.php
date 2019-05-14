@@ -43,8 +43,8 @@ class ReportController extends Controller
 
     public function __construct()
     {
-        $this->middleware('auth');
         parent::__construct();
+        // $this->middleware('guest');
     }
 
     public function getSalesOrderReport () {
@@ -236,6 +236,9 @@ class ReportController extends Controller
     }
 
     public function updateCurrentData() {
+        set_time_limit(0);
+        ini_set('max_execution_time', 0);
+        
         /*
         $response = $this->locateRequest('GET', "/notification/1864", $this->sessionToken, array());
         dd($response);
@@ -292,6 +295,9 @@ class ReportController extends Controller
     }
 
     public function getYesterdayData() {
+        set_time_limit(0);
+        ini_set('max_execution_time', 0);
+
     	$report_name = "Sales Order Dashboard";
     	// $report = $this->locateRequest('GET', '/report?name='.urlencode($report_name), $this->sessionToken);
     	// $report_id = $report->data[0]->id;
