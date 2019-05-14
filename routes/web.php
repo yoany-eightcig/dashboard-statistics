@@ -15,8 +15,8 @@
 // define('LOCATE_PASSWORD', 'Vape1234');
 
 define('LOCATE_BASE_URL', 'https://magma.locateinv.com');
-define('LOCATE_USERNAME', 'yoany@eightcig.com');
-define('LOCATE_PASSWORD', 'CopxerKiller8001');
+define('LOCATE_USERNAME', 'dashboard@eightcig.com');
+define('LOCATE_PASSWORD', 'Vape1234');
 
 
 Route::get('/', 'ReportController@dashboard');
