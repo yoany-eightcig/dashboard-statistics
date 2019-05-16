@@ -57,7 +57,7 @@ function updateCurrentData($sessionToken)
         'format'=>'csv'
     ));
 
-    $result = file_put_contents('storage/sales_order_today.csv', $response);
+    $result = file_put_contents(dirname(__FILE__).'/storage/sales_order_today.csv', $response);
     echo var_dump($result);
     echo "Downloaded \n";
 
@@ -76,7 +76,7 @@ function updateCurrentData($sessionToken)
         'format'=>'csv'
     ));
 
-    $result = file_put_contents('storage/pick_today.csv', $response);
+    $result = file_put_contents(dirname(__FILE__).'/storage/pick_today.csv', $response);
     echo var_dump($result);
     echo "Downloaded \n";
 
@@ -94,7 +94,7 @@ function updateCurrentData($sessionToken)
         'format'=>'csv'
     ));
 
-    $result = file_put_contents('storage/pack_today.csv', $response);
+    $result = file_put_contents(dirname(__FILE__).'/storage/pack_today.csv', $response);
     echo var_dump($result);
     echo "Downloaded \n";
 }
