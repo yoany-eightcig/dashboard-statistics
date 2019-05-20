@@ -41,6 +41,23 @@ function locateRequest($curlRequestType, $endpoint, $sessionToken = null, $postD
     }
 }
 
+function saveReport($id, $filename, $sessionToken, $response) 
+{
+    $result = file_put_contents(dirname(__FILE__).'/storage/'.$filename, $response);
+
+    $response = locateRequest('POST', "/notification/delete", $sessionToken, array(
+        "notification_ids" => [$id],
+    ));
+    echo var_dump($response). "\n";
+}
+
+function getReportDate ($basePath, $line, $col)
+{
+    $csv = array_map('str_getcsv', file($basePath));
+    $date = $csv[$line][$col];
+    return $date;
+}
+
 function getNotifications($sessionToken)
 {
 	$result = true;
@@ -59,25 +76,33 @@ function getNotifications($sessionToken)
 		$filename = basename($parts);
 		echo "File: $filename \n";
 
+        //save notification file.
+        $response = file_get_contents($url);
+        $basePath = dirname(__FILE__).'/storage/base.csv';
+        $result = file_put_contents($basePath, $response);
+
+        $response = file_get_contents($basePath);
 
 		if (strpos($filename, "PackStatistics") !== false) {
-			$filename = "pack_today.csv";
-			$response = file_get_contents($url);
-			$result = file_put_contents(dirname(__FILE__).'/storage/'.$filename, $response);
+            $date = "today";
 
-			$response = locateRequest('POST', "/notification/delete", $sessionToken, array(
-				"notification_ids" => [$notification->id],
-			));
-			echo var_dump($response). "\n";
-		} else if (strpos($filename, "OrderDashboard") !== false) {
-			$filename = "sales_order_today.csv";
-			$response = file_get_contents($url);
-			$result = file_put_contents(dirname(__FILE__).'/storage/'.$filename, $response);
+            $reportDate = getReportDate($basePath, 6, 3);
+            $currentDate = "Date Range: ".date('m/j/Y')." - ".date('m/j/Y');
+            $date = ($reportDate == $currentDate) ? "today" : "previous";
 
-			$response = locateRequest('POST', "/notification/delete", $sessionToken, array(
-				"notification_ids" => [$notification->id],
-			));
-			echo var_dump($response). "\n";
+			$filename = "pack_".$date.".csv";
+            saveReport($notification->id, $filename, $sessionToken, $response);
+		} 
+        else if (strpos($filename, "OrderDashboard") !== false) 
+        {
+	        $date = "today";
+
+            $reportDate = getReportDate($basePath, 6, 6);
+            $currentDate = "Issued Date Range: ".date('m/j/Y')." - ".date('m/j/Y');
+            $date = ($reportDate == $currentDate) ? "today" : "previous";
+
+    		$filename = "sales_order_".$date.".csv";
+            saveReport($notification->id, $filename, $sessionToken, $response);
 		}
 
 	}
