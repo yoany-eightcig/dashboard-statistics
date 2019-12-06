@@ -7,44 +7,78 @@ use Illuminate\Http\Request;
 class ReportController extends Controller
 {
 	protected $group_retail_pick = [
-		"brian ngeta-a",
-		"david gallegos",
-		"fan shi",
-		"han jiao",
-		"irving hernandez",
-		"mario cazares",
-		"quishaun manor",
+		"Agustin Gelista",
+        "David Gallegos",
+        "Janice Cruz",
+        "Jesus Gaona",
+        "William Cervantes",
+        "zhiqiang zhou",
+        "cedrick holloway",
+        "Michael Sommermeyer",
 	];
 
 	protected $group_wholesale_pick = [
-		"francisco rosario",
-		"hongxi feng",
-		"janice cruz",
-		"joccelyn favela",
-		"thomas boyd",
+        "Amy Radigan",
+        "Betty Peng",
+        "Chee Leong",
+        "Chuck Zhang",
+        "Francisco Rosario",
+        "irving hernandez",
+        "Keen Lam",
+        "Simon Wu",
+        "Vincent Cuaresma",
+        "wenlong yan",
+        "zhiqiang zhou",
+        "Annie Wang",
+        "Joccelyn Favela",
+        "Bo Lai",
 	];
 
 	protected $group_retail_pack = [
-		"han jiao",
-		"kayla solly",
-		"mario cazares",
-		"qingdong liu",
-		"quishaun manor",
-		"yanchun li",
-		"zhiqiang zhou",
+        "Xinli Wu",
+        "Yanchun Li",
+        "Zhong Li",
+        "Yan Foster",
+        "Freya Fu",
+        "Claudia Ponce",
+        "Shulin Lu",
 	];
 
 	protected $group_wholesale_pack = [
-		"daniela vega",
-		"hongxi feng",
-		"irving hernandez",
-		"joccelyn favela",
+        "Bo Lai",
+        "Cherokee Rimpson",
+        "Joccelyn Favela",
+        "Kalvyn Moreno",
+        "yanchun li",
+        "Daniela Vega",
+        "Janice Cruz",
+        "Kalvyn Moreno",
+        "Peng Goldstein",
+        "Xinli Wu",
+        "Yanchun Li",
+        "zhiqiang zhou",
+        "Amy Radigan",
+        "Betty Peng",
+        "Chee Leong",
+        "Chuck Zhang",
+        "Francisco Rosario",
+        "irving hernandez",
+        "Keen Lam",
+        "Simon Wu",
+        "Vincent Cuaresma",
+        "wenlong yan",
+        "zhiqiang zhou",
+        "Annie Wang",
 	];
 
     public function __construct()
     {
         parent::__construct();
         // $this->middleware('guest');
+        $this->group_retail_pick = array_map('strtolower', $this->group_retail_pick);
+        $this->group_wholesale_pick = array_map('strtolower', $this->group_wholesale_pick);
+        $this->group_retail_pack = array_map('strtolower', $this->group_retail_pack);
+        $this->group_wholesale_pack = array_map('strtolower', $this->group_wholesale_pack);
     }
 
     public function getSalesOrderReport () {
@@ -95,25 +129,25 @@ class ReportController extends Controller
 	    			}
 
 	    			if (in_array((strtolower($line[0])), $this->group_retail_pack)) {
-	    				$groups_data['r'][$_name.": [$line[2]]"] = $line[2];
+	    				$groups_data['r'][$_name.":"] = $line[2];
 	    			}
 	    			if (in_array((strtolower($line[0])), $this->group_wholesale_pack)) {
-	    				$groups_data['w'][$_name.": [$line[4]]"] = $line[4];
+	    				$groups_data['w'][$_name.":"] = $line[4];
 	    			}	    			
     			}
     		}
     	}
 
         if (count($groups_data['r'])) { 
-        	arsort($groups_data['r']);
-        	$groups_data['r'] = array_splice($groups_data['r'], 0, 7);
-        	$this->shuffle_assoc($groups_data['r']);
+        	// arsort($groups_data['r']);
+        	// $groups_data['r'] = array_splice($groups_data['r'], 0, 7);
+        	// $this->shuffle_assoc($groups_data['r']);
         } 
 
         if (count($groups_data['w'])) { 
-        	arsort($groups_data['w']);
-        	$groups_data['w'] = array_splice($groups_data['w'], 0, 7);
-        	$this->shuffle_assoc($groups_data['w']);
+        	// arsort($groups_data['w']);
+        	// $groups_data['w'] = array_splice($groups_data['w'], 0, 7);
+        	// $this->shuffle_assoc($groups_data['w']);
         }
 
     	return $groups_data;
@@ -146,7 +180,7 @@ class ReportController extends Controller
         $groups_data = [];
         $groups_data['r'] = [];
         $groups_data['w'] = [];
-
+        $w = [];
     	foreach ($csv as $key => $line) {	
     		if (count($line) == 6 ) {
     			if ($line[0] <> '' && $line[1] == '') {
@@ -168,17 +202,19 @@ class ReportController extends Controller
     		}
     	}
 
+        // dd($pick, $this->group_retail_pick);
+
         if (count($groups_data['r'])) {
-            arsort($groups_data['r']);
-            $groups_data['r'] = array_splice($groups_data['r'], 0, 7);
-            $this->shuffle_assoc($groups_data['r']);
+            // arsort($groups_data['r']);
+            // $groups_data['r'] = array_splice($groups_data['r'], 0, 7);
+            // $this->shuffle_assoc($groups_data['r']);
 
         }
 
         if (count($groups_data['w'])) {
-        	arsort($groups_data['w']);
-        	$groups_data['w'] = array_splice($groups_data['w'], 0, 7);
-        	$this->shuffle_assoc($groups_data['w']);
+        	// arsort($groups_data['w']);
+        	// $groups_data['w'] = array_splice($groups_data['w'], 0, 7);
+        	// $this->shuffle_assoc($groups_data['w']);
         }
 
     	return $groups_data;
@@ -202,18 +238,50 @@ class ReportController extends Controller
 
     	$pack = [];
     	$pack = $this->getPackReport();
-    	$packBackgroundColor = ["#27ae60", "#e67e22", "#3498db", "#f1c40f", "#c0392b", "#ecf0f1", "#1abc9c"];
+    	$packBackgroundColor = ["#27ae60", "#e67e22", "#3498db", "#f1c40f", "#c0392b", "#ecf0f1", "#1abc9c",
+            "#1abc9c", 
+            "#2ecc71", 
+            "#3498db", 
+            "#9b59b6", 
+            "#34495e", 
+            "#16a085", 
+            "#27ae60",
+            "#2980b9",
+            "#8e44ad",
+            "#2c3e50",
+            "#f1c40f",
+            "#e67e22",
+            "#e74c3c",
+            "#ecf0f1",
+            "#95a5a6",
+            "#f39c12",
+            "#d35400",
+            "#c0392b",
+            "#bdc3c7",
+    ];
 
     	$pick = [];
     	$pick = $this->getPickReport();
     	$pickBackgroundColor = [
-    		"rgb(54, 162, 235)", 
-    		"rgb(153, 102, 255)", 
-    		"rgb(255, 99, 132)", 
-    		"rgb(255, 159, 64)", 
-    		"rgb(255, 205, 86)", 
-    		"rgb(75, 192, 192)", 
-    		"rgb(201, 203, 207)",
+    		"#1abc9c", 
+    		"#2ecc71", 
+    		"#3498db", 
+    		"#9b59b6", 
+    		"#34495e", 
+    		"#16a085", 
+            "#27ae60",
+            "#2980b9",
+            "#8e44ad",
+            "#2c3e50",
+            "#f1c40f",
+            "#e67e22",
+            "#e74c3c",
+            "#ecf0f1",
+            "#95a5a6",
+            "#f39c12",
+            "#d35400",
+            "#c0392b",
+            "#bdc3c7",
     	];
 
         $previous_top_pack = $this->getYesterdayTopPackReport();
@@ -387,14 +455,14 @@ class ReportController extends Controller
 
         if (count($groups_data['r'])) {
             arsort($groups_data['r']);
-            $groups_data['r'] = array_splice($groups_data['r'], 0, 7);
-            $this->shuffle_assoc($groups_data['r']);
+            // $groups_data['r'] = array_splice($groups_data['r'], 0, 7);
+            // $this->shuffle_assoc($groups_data['r']);
         }
 
         if (count($groups_data['w'])) {
             arsort($groups_data['w']);
-            $groups_data['w'] = array_splice($groups_data['w'], 0, 7);
-            $this->shuffle_assoc($groups_data['w']);                
+            // $groups_data['w'] = array_splice($groups_data['w'], 0, 7);
+            // $this->shuffle_assoc($groups_data['w']);                
         }
 
         return $groups_data;

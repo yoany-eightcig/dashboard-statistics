@@ -15,41 +15,55 @@
 		line-height: 1rem;
 	}	
 </style>
-<div class="col-md-5 panels_hight">
-	<div class="text-white clearfix mb-3">
-		<div class="float-left mr-3">
-			<img height="120px" src="/images/eightcig-logo-red.png">
+ <div class="container-fluid">
+ 	<div class="row ">
+		<div class="col-md-3">
+			<div class="text-white clearfix mb-3">
+				<div class="float-left mr-3">
+					<img height="120px" src="/images/eightcig-logo-red.png">
+				</div>
+				<div class="float-left logo_info">
+					<h4 class="text-white">EightCig</h4>
+					<p>3010 E Alexander Rd</p>
+					<p>Ste #1002</p>
+					<p>North Las Vegas, NV 89030</p>
+					<p><a href="tel:702-415-5263">(702) 415-5263</a></p>
+					<p>info@eightcig.com</p>
+				</div>
+			</div>
+
+		{{-- 	<div>
+				<h4 class="text-white">(Yesterday) Top Performance</h4>
+				@include('sessions.top_performer', ['previous_top_pick' => $previous_top_pick, "previous_top_pack" => $previous_top_pack])
+			</div>
+		 --}}	
+			<div>
+				<h4 class="text-white">Sales Order Dashboard</h4>
+				@include('sessions.sales_order_statistics', ['sales' => $sales, "salesBackgroundColor" => $salesBackgroundColor])		
+			</div>
 		</div>
-		<div class="float-left logo_info">
-			<h4 class="text-white">EightCig</h4>
-			<p>3010 E Alexander Rd</p>
-			<p>Ste #1002</p>
-			<p>North Las Vegas, NV 89030</p>
-			<p><a href="tel:702-415-5263">(702) 415-5263</a></p>
-			<p>info@eightcig.com</p>
+
+		<div class="col-md-8">
+			<div class="row flex-column">
+				<div class="col-md">
+					<div class="text-center">
+						<h4 class="text-white mb-0">Pick Statistics</h4>
+						<p class="text-white mb-0">Date: {{ $date }}</p>
+					</div>
+				    @include('sessions.pick', ['pick' => $pick, "pickBackgroundColor" => $pickBackgroundColor])
+				</div>
+				<div class="col-md">
+					<div class="text-center">
+				    	<h4 class="text-white">Pack Statistics</h4>
+				    	<p class="text-white mb-0">Date: {{ $date }}</p>
+					</div>
+				    @include('sessions.pack', ['pack' => $pack, "packBackgroundColor" => $packBackgroundColor])
+				</div>
+				
+			</div>
 		</div>
-	</div>
-	<div>
-		<h4 class="text-white">(Yesterday) Top Performance</h4>
-		@include('sessions.top_performer', ['previous_top_pick' => $previous_top_pick, "previous_top_pack" => $previous_top_pack])
-	</div>
-	<div>
-		<h4 class="text-white">Sales Order Dashboard</h4>
-		{{-- <p class="text-white text-right">Date: {{ $date }}</p> --}}
-		@include('sessions.sales_order_statistics', ['sales' => $sales, "salesBackgroundColor" => $salesBackgroundColor])		
-	</div>
-</div>
-<div class="col-md-7 panels_hight">
-	<div>
-	    <h4 class="text-right text-white mb-0">Pick Statistics</h4>
-	    <p class="text-white text-right mb-0">Date: {{ $date }}</p>
-	    @include('sessions.pick', ['pick' => $pick, "pickBackgroundColor" => $pickBackgroundColor])
-	</div>
-	<div>
-	    <h4 class="text-right text-white">Pack Statistics</h4>
-	    {{-- <p class="text-white text-right">Date: {{ $date }}</p> --}}
-	    @include('sessions.pack', ['pack' => $pack, "packBackgroundColor" => $packBackgroundColor])
-	</div>
+ 		
+ 	</div>
 </div>
 
 <script>
