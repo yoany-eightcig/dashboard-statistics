@@ -89,6 +89,7 @@ function getNotifications($sessionToken)
             $reportDate = getReportDate($basePath, 6, 3);
             $currentDate = "Date Range: ".date('m/j/Y')." - ".date('m/j/Y');
             $date = ($reportDate == $currentDate) ? "today" : "previous";
+            $date = "today";
 
 			$filename = "pack_".$date.".csv";
             saveReport($notification->id, $filename, $sessionToken, $response);
@@ -100,7 +101,8 @@ function getNotifications($sessionToken)
             $reportDate = getReportDate($basePath, 6, 6);
             $currentDate = "Issued Date Range: ".date('m/j/Y')." - ".date('m/j/Y');
             $date = ($reportDate == $currentDate) ? "today" : "previous";
-
+            $date = "today";
+            
     		$filename = "sales_order_".$date.".csv";
             saveReport($notification->id, $filename, $sessionToken, $response);
 		}
