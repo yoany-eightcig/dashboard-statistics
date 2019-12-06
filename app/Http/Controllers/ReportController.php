@@ -7,31 +7,24 @@ use Illuminate\Http\Request;
 class ReportController extends Controller
 {
 	protected $group_retail_pick = [
-		"Agustin Gelista",
-        "David Gallegos",
-        "Janice Cruz",
-        "Jesus Gaona",
-        "William Cervantes",
         "zhiqiang zhou",
         "cedrick holloway",
+		"Agustin Gelista",
+        "William Cervantes",
+        "Jesus Gaona",
+        "Janice Cruz",
         "Michael Sommermeyer",
 	];
 
 	protected $group_wholesale_pick = [
-        "Amy Radigan",
-        "Betty Peng",
-        "Chee Leong",
-        "Chuck Zhang",
         "Francisco Rosario",
-        "irving hernandez",
-        "Keen Lam",
-        "Simon Wu",
-        "Vincent Cuaresma",
-        "wenlong yan",
-        "zhiqiang zhou",
         "Annie Wang",
         "Joccelyn Favela",
         "Bo Lai",
+        "Vincent Cuaresma",
+        "irving hernandez",
+        "Chuck Zhang",
+        "Amy Radigan",
 	];
 
 	protected $group_retail_pack = [
@@ -45,30 +38,14 @@ class ReportController extends Controller
 	];
 
 	protected $group_wholesale_pack = [
-        "Bo Lai",
-        "Cherokee Rimpson",
-        "Joccelyn Favela",
-        "Kalvyn Moreno",
-        "yanchun li",
-        "Daniela Vega",
-        "Janice Cruz",
-        "Kalvyn Moreno",
-        "Peng Goldstein",
-        "Xinli Wu",
-        "Yanchun Li",
-        "zhiqiang zhou",
-        "Amy Radigan",
-        "Betty Peng",
-        "Chee Leong",
-        "Chuck Zhang",
         "Francisco Rosario",
-        "irving hernandez",
-        "Keen Lam",
-        "Simon Wu",
-        "Vincent Cuaresma",
-        "wenlong yan",
-        "zhiqiang zhou",
         "Annie Wang",
+        "Joccelyn Favela",
+        "Bo Lai",
+        "Vincent Cuaresma",
+        "irving hernandez",
+        "Chuck Zhang",
+        "Amy Radigan",
 	];
 
     public function __construct()
