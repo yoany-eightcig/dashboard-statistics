@@ -93,7 +93,16 @@ class ReportController extends Controller
     	$userCount = 0;
     	$groups_data = [];
         $groups_data['r'] = [];
+
+        foreach ($this->group_retail_pack as $_name) {
+            $groups_data['r'][ucwords($_name).":"] = 0;
+        }
+
         $groups_data['w'] = [];
+
+        foreach ($this->group_wholesale_pack as $_name) {
+            $groups_data['w'][ucwords($_name).":"] = 0;
+        }
 
     	foreach ($csv as $key => $line) {	
     		if (count($line) == 6 ) {
@@ -156,7 +165,15 @@ class ReportController extends Controller
     	$userCount = 0;
         $groups_data = [];
         $groups_data['r'] = [];
+        foreach ($this->group_retail_pick as $_name) {
+            $groups_data['r'][ucwords($_name).":"] = 0;
+        }
+
         $groups_data['w'] = [];
+        foreach ($this->group_wholesale_pick as $_name) {
+            $groups_data['w'][ucwords($_name).":"] = 0;
+        }
+
         $w = [];
     	foreach ($csv as $key => $line) {	
     		if (count($line) == 6 ) {
@@ -170,10 +187,10 @@ class ReportController extends Controller
 
 	    			$pick[$_name] = $line[2];
 	    			if (in_array((strtolower($line[0])), $this->group_retail_pick)) {
-	    				$groups_data['r'][$_name.": [$line[2]]"] = $line[2];
+	    				$groups_data['r'][$_name.":"] = $line[2];
 	    			}
 	    			if (in_array((strtolower($line[0])), $this->group_wholesale_pick)) {
-	    				$groups_data['w'][$_name.": [$line[3]]"] = $line[3];
+	    				$groups_data['w'][$_name.":"] = $line[3];
 	    			}
     			}
     		}
