@@ -7,45 +7,60 @@ use Illuminate\Http\Request;
 class ReportController extends Controller
 {
 	protected $group_retail_pick = [
-        "zhiqiang zhou",
-        "cedrick holloway",
-		"Agustin Gelista",
-        "William Cervantes",
-        "Jesus Gaona",
+        "David Gallegos",
+        // "Hongxi Feng",
+        "Agustin Gelista",
+        "Cedrick Holloway",
         "Janice Cruz",
+        "Jesus Gaona",
         "Michael Sommermeyer",
+        "William Cervantes",
+        "zhiqiang zhou"
 	];
+
+    protected $group_retail_pack = [
+        "Hongxi Feng",
+        "Claudia Ponce",
+        "Ferdinand Furino",
+        "Shulin Lu",
+        "xinli wu",
+        "Yan Foster",
+        "yanchun li",
+        "Zhong Li"
+    ];
+
 
 	protected $group_wholesale_pick = [
-        "Francisco Rosario",
-        "Annie Wang",
-        "Joccelyn Favela",
-        "Bo Lai",
-        "Vincent Cuaresma",
-        "irving hernandez",
-        "Chuck Zhang",
+        "Chee Leong",
         "Amy Radigan",
+        "Annie Wang",
+        "Betty Peng",
+        "Bo Lai",
+        "Chuck Zhang",
+        "Francisco Rosario",
+        "Joccelyn Favela",
+        "Keen Lam",
+        "Peng Goldstein",
+        "Simon Wu",
+        "Vincent Cuaresma",
+        "wenlong yan"
 	];
 
-	protected $group_retail_pack = [
-        "Xinli Wu",
-        "Yanchun Li",
-        "Zhong Li",
-        "Yan Foster",
-        "Freya Fu",
-        "Claudia Ponce",
-        "Shulin Lu",
-	];
 
 	protected $group_wholesale_pack = [
-        "Francisco Rosario",
-        "Annie Wang",
-        "Joccelyn Favela",
-        "Bo Lai",
-        "Vincent Cuaresma",
-        "irving hernandez",
-        "Chuck Zhang",
+        "Chee Leong",
         "Amy Radigan",
+        "Annie Wang",
+        "Betty Peng",
+        "Bo Lai",
+        "Chuck Zhang",
+        "Francisco Rosario",
+        "Joccelyn Favela",
+        "Keen Lam",
+        "Peng Goldstein",
+        "Simon Wu",
+        "Vincent Cuaresma",
+        "wenlong yan"
 	];
 
     public function __construct()

@@ -1,11 +1,11 @@
 
 <div class="row">
   <div class="col-md-6">
-    <h4 class="text-white text-center">Retail</h4 >
+    <h4 class="text-white text-center">Pick Retail</h4 >
     <canvas id="canvas_pick_retail"></canvas>
   </div>
   <div class="col-md-6">
-    <h4 class="text-white text-center">Wholesale</h4 >
+    <h4 class="text-white text-center">Pick Wholesale</h4 >
     <canvas id="canvas_pick_whole_sales"></canvas>
   </div>
 </div>

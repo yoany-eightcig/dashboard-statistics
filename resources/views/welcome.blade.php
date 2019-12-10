@@ -47,14 +47,14 @@
 			<div class="row flex-column">
 				<div class="col-md">
 					<div class="text-center">
-						<h4 class="text-white mb-0">Pick Statistics</h4>
+						<h4 class="text-white mb-0">Statistics</h4>
 						<p class="text-white mb-0">Date: {{ $date }}</p>
 					</div>
 				    @include('sessions.pick', ['pick' => $pick, "pickBackgroundColor" => $pickBackgroundColor])
 				</div>
 				<div class="col-md">
 					<div class="text-center">
-				    	<h4 class="text-white">Pack Statistics</h4>
+				    	<h4 class="text-white">Statistics</h4>
 				    	<p class="text-white mb-0">Date: {{ $date }}</p>
 					</div>
 				    @include('sessions.pack', ['pack' => $pack, "packBackgroundColor" => $packBackgroundColor])
