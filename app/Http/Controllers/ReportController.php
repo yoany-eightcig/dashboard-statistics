@@ -8,12 +8,12 @@ class ReportController extends Controller
 {
 	protected $group_retail_pick = [
         "David Gallegos",
-        // "Hongxi Feng",
+        "Hongxi Feng",   
         "Agustin Gelista",
         "Cedrick Holloway",
         "Janice Cruz",
         "Jesus Gaona",
-        "Michael Sommermeyer",
+        // "Michael Sommermeyer",
         "William Cervantes",
         "zhiqiang zhou"
 	];
