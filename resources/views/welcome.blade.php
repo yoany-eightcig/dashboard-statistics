@@ -10,6 +10,9 @@
 
 @section('content')
 <style type="text/css">
+	nav.navbar.navbar-expand-md.navbar-light.navbar-laravel {
+		display: none !important;
+	}
 	.logo_info p {
 		margin: 0;
 		line-height: 1rem;

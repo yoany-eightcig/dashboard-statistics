@@ -43,7 +43,8 @@ class ReportController extends Controller
         "Peng Goldstein",
         "Simon Wu",
         "Vincent Cuaresma",
-        "wenlong yan"
+        "wenlong yan",
+        "irving hernandez"
 	];
 
 
@@ -60,7 +61,8 @@ class ReportController extends Controller
         "Peng Goldstein",
         "Simon Wu",
         "Vincent Cuaresma",
-        "wenlong yan"
+        "wenlong yan",
+        "irving hernandez"
 	];
 
     public function __construct()
