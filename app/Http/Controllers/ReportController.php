@@ -15,7 +15,9 @@ class ReportController extends Controller
         "Jesus Gaona",
         // "Michael Sommermeyer",
         "William Cervantes",
-        "zhiqiang zhou"
+        "zhiqiang zhou",
+        "Bakari Criss",
+        "Ricky Espinosa"
 	];
 
     protected $group_retail_pack = [
