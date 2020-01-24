@@ -17,7 +17,8 @@ class ReportController extends Controller
         "William Cervantes",
         "zhiqiang zhou",
         "Bakari Criss",
-        "Ricky Espinosa"
+        "Ricky Espinosa",
+        "Marlai Gborkorquellie"
 	];
 
     protected $group_retail_pack = [
@@ -28,7 +29,8 @@ class ReportController extends Controller
         "xinli wu",
         "Yan Foster",
         "yanchun li",
-        "Zhong Li"
+        "Zhong Li",
+        "Daniela Vega"
     ];
 
 
