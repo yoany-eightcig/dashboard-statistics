@@ -202,9 +202,6 @@ class ReportController extends Controller
     				$_name = $line[0];
     				$max_length = 20;
     				$_name = ucwords(strtolower($_name));
-    				if (strlen($_name) > $max_length) {
-    					$_name = substr($_name, 0, $max_length).'...';
-    				}
 
 	    			$pick[$_name] = $line[2];
 	    			if (in_array((strtolower($line[0])), $this->group_retail_pick)) {
@@ -231,7 +228,7 @@ class ReportController extends Controller
         	// $groups_data['w'] = array_splice($groups_data['w'], 0, 7);
         	// $this->shuffle_assoc($groups_data['w']);
         }
-
+        
     	return $groups_data;
     }
 
