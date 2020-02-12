@@ -13,24 +13,25 @@ class ReportController extends Controller
         "Cedrick Holloway",
         "Janice Cruz",
         "Jesus Gaona",
-        // "Michael Sommermeyer",
         "William Cervantes",
         "zhiqiang zhou",
-        "Bakari Criss",
-        "Ricky Espinosa",
-        "Marlai Gborkorquellie"
+        //"Michael Sommermeyer",
+        //"Bakari Criss",
+        //"Ricky Espinosa",
+        //"Marlai Gborkorquellie"
 	];
 
     protected $group_retail_pack = [
         "Hongxi Feng",
         "Claudia Ponce",
-        "Ferdinand Furino",
-        "Shulin Lu",
+        //"Ferdinand Furino",
+        //"Shulin Lu",
         "xinli wu",
-        "Yan Foster",
-        "yanchun li",
+        //"Yan Foster",
+        //"yanchun li",
         "Zhong Li",
-        "Daniela Vega"
+        "Daniela Vega",
+        "qingdong liu",
     ];
 
 
@@ -40,15 +41,16 @@ class ReportController extends Controller
         "Annie Wang",
         "Betty Peng",
         "Bo Lai",
-        "Chuck Zhang",
+        //"Chuck Zhang",
         "Francisco Rosario",
-        "Joccelyn Favela",
+        //"Joccelyn Favela",
         "Keen Lam",
-        "Peng Goldstein",
+        //"Peng Goldstein",
         "Simon Wu",
         "Vincent Cuaresma",
         "wenlong yan",
-        "irving hernandez"
+        "irving hernandez",
+        "yanchun li"
 	];
 
 
@@ -58,15 +60,16 @@ class ReportController extends Controller
         "Annie Wang",
         "Betty Peng",
         "Bo Lai",
-        "Chuck Zhang",
+        //"Chuck Zhang",
         "Francisco Rosario",
-        "Joccelyn Favela",
+        //"Joccelyn Favela",
         "Keen Lam",
-        "Peng Goldstein",
+        //"Peng Goldstein",
         "Simon Wu",
         "Vincent Cuaresma",
         "wenlong yan",
-        "irving hernandez"
+        "irving hernandez",
+        "yanchun li"
 	];
 
     public function __construct()
