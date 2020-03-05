@@ -71,7 +71,7 @@ class ReportController extends Controller
         "wenlong yan",
         "irving hernandez",
         "yanchun li",
-        "yanling Zhang"
+        //"yanling Zhang"
 	];
 
     public function __construct()
