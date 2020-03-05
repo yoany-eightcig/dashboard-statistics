@@ -32,6 +32,7 @@ class ReportController extends Controller
         "Zhong Li",
         "Daniela Vega",
         "qingdong liu",
+        "yanling Zhang"
     ];
 
 
@@ -69,7 +70,8 @@ class ReportController extends Controller
         "Vincent Cuaresma",
         "wenlong yan",
         "irving hernandez",
-        "yanchun li"
+        "yanchun li",
+        "yanling Zhang"
 	];
 
     public function __construct()
