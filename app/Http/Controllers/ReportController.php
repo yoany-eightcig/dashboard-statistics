@@ -15,6 +15,9 @@ class ReportController extends Controller
         "Jesus Gaona",
         "William Cervantes",
         "zhiqiang zhou",
+        "Jay Ruiz",
+        "Maria Osborne",
+        "Joshua Schoon"
         //"Michael Sommermeyer",
         //"Bakari Criss",
         //"Ricky Espinosa",
@@ -32,7 +35,10 @@ class ReportController extends Controller
         "Zhong Li",
         "Daniela Vega",
         "qingdong liu",
-        "yanling Zhang"
+        //"yanling Zhang",
+        "Kalvyn Moreno",
+        "Chuanqiu Yu",
+        "Qianghua Chen"
     ];
 
 
@@ -41,17 +47,18 @@ class ReportController extends Controller
         "Amy Radigan",
         "Annie Wang",
         "Betty Peng",
-        "Bo Lai",
+        //"Bo Lai",
         //"Chuck Zhang",
         "Francisco Rosario",
         //"Joccelyn Favela",
-        "Keen Lam",
+        //"Keen Lam",
         //"Peng Goldstein",
         "Simon Wu",
         "Vincent Cuaresma",
-        "wenlong yan",
+        //"wenlong yan",
         "irving hernandez",
-        "yanchun li"
+        "yanchun li",
+        "Runfa Wei"
 	];
 
 
@@ -60,17 +67,18 @@ class ReportController extends Controller
         "Amy Radigan",
         "Annie Wang",
         "Betty Peng",
-        "Bo Lai",
+        //"Bo Lai",
         //"Chuck Zhang",
         "Francisco Rosario",
         //"Joccelyn Favela",
-        "Keen Lam",
+        //"Keen Lam",
         //"Peng Goldstein",
         "Simon Wu",
         "Vincent Cuaresma",
-        "wenlong yan",
+        //"wenlong yan",
         "irving hernandez",
         "yanchun li",
+        "Runfa Wei"
         //"yanling Zhang"
 	];
 
