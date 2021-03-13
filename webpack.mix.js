@@ -11,5 +11,12 @@ const mix = require('laravel-mix');
  |
  */
 
-mix.js('resources/js/app.js', 'public/js')
-   .sass('resources/sass/app.scss', 'public/css');
+mix.autoload({
+        jquery: ['$', 'window.jQuery', 'jQuery'],
+        'popper.js/dist/umd/popper.js': ['Popper']
+    })
+	.js('resources/js/app.js', 'public/js')
+	//.js('node_modules/fullcalendar/main.js', 'public/js/fullcalendar')
+	//.styles('node_modules/fullcalendar/main.css', 'public/css/fullcalendar/main.css')
+   	.sass('resources/sass/app.scss', 'public/css')
+   	.version();	

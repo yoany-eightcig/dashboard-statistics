@@ -4,6 +4,7 @@ Ste #1002
 North Las Vegas, NV 89030
 (702) 415-5263  
 info@eightcig.com",,,,,,,,,,,,
+<<<<<<< HEAD
 ,,,,,,Issued Date Range: 01/13/2021 - 01/13/2021,,,,,,,,
 Line Item Status,,,,,,,Order Count by Customer Group,,,,Order Value by Customer Group,,,
    ,,,,,,,,,,,,,,
@@ -3096,3 +3097,2101 @@ Issued,,,,,,,,,
  ,1519507,Cynthia Woolverton,H08914,Sale,Inventory,Ready to Pick,2,North,29
  ,1519507,Cynthia Woolverton,H09451,Sale,Inventory,Ready to Pick,3,North,134
  ,1519507,Cynthia Woolverton,H03011,Shipping,Shipping,,1,North,0
+=======
+,,,,,,Issued Date Range: 02/22/2021 - 02/22/2021,,,,,,,,
+Line Item Status,,,,,,,Order Count by Customer Group,,,,Order Value by Customer Group,,,
+   ,,,,,,,,,,,,,,
+,Sales Order #,,Customer Name,,Part #,,,Line Type,Part Type,Line Status,,Qty Ordered,Site,Avail. to Pick
+Issued: ,,,,02/22/2021,,,,,,,,,,
+Complete,,,,,,,,,,,,,,
+,1565664,,Perry Everzon,,J00742,,,Sale,Inventory,Fulfilled,,1,North,45
+,1565664,,Perry Everzon,,H03718,,,Sale,Inventory,Fulfilled,,1,North,39
+,1565664,,Perry Everzon,,H03712,,,Sale,Inventory,Fulfilled,,1,North,45
+,1565664,,Perry Everzon,,ROUTEINS,,,Shipping,Shipping,,,1,North,0
+,1565664,,Perry Everzon,,H03011,,,Shipping,Shipping,,,1,North,0
+ ,1565665,,Perry Everzon,,J03426,,,Sale,Inventory,Fulfilled,,1,North,96
+ ,1565665,,Perry Everzon,,J00967,,,Sale,Inventory,Fulfilled,,3,North,86
+ ,1565665,,Perry Everzon,,ROUTEINS,,,Shipping,Shipping,,,1,North,0
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+ ,1565665,Perry Everzon,H03011,Shipping,Shipping,,1,North,0
+,1567063,Perry Everzon,H01543,Sale,Inventory,Fulfilled,2,North,129
+,1567063,Perry Everzon,J00967,Sale,Inventory,Fulfilled,2,North,86
+,1567063,Perry Everzon,J04492,Sale,Inventory,Fulfilled,2,North,20
+,1567063,Perry Everzon,ROUTEINS,Shipping,Shipping,,1,North,0
+,1567063,Perry Everzon,H03011,Shipping,Shipping,,1,North,0
+ ,1567108,Jongseol Lee,J05607,Sale,Inventory,Fulfilled,10,North,7
+ ,1567108,Jongseol Lee,H09281,Sale,Inventory,Fulfilled,1,North,50
+ ,1567108,Jongseol Lee,H09282,Sale,Inventory,Fulfilled,1,North,1
+ ,1567108,Jongseol Lee,H01110,Sale,Inventory,Fulfilled,2,North,199
+ ,1567108,Jongseol Lee,H09525,Sale,Inventory,Fulfilled,2,North,501
+ ,1567108,Jongseol Lee,H07972,Sale,Inventory,Fulfilled,1,North,23
+ ,1567108,Jongseol Lee,H07970,Sale,Inventory,Fulfilled,1,North,14
+ ,1567108,Jongseol Lee,H02440,Sale,Inventory,Fulfilled,1,North,17
+ ,1567108,Jongseol Lee,J01294,Sale,Inventory,Fulfilled,1,North,54
+ ,1567108,Jongseol Lee,J01391,Sale,Inventory,Fulfilled,1,North,30
+ ,1567108,Jongseol Lee,H02207,Sale,Inventory,Fulfilled,5,North,47
+ ,1567108,Jongseol Lee,H02620,Sale,Inventory,Fulfilled,5,North,34
+ ,1567108,Jongseol Lee,H02384,Sale,Inventory,Fulfilled,3,North,19
+ ,1567108,Jongseol Lee,J00896,Sale,Inventory,Fulfilled,2,North,26
+ ,1567108,Jongseol Lee,J05608,Sale,Inventory,Fulfilled,5,North,32
+ ,1567108,Jongseol Lee,J05622,Sale,Inventory,Fulfilled,5,North,70
+ ,1567108,Jongseol Lee,J05610,Sale,Inventory,Fulfilled,5,North,66
+ ,1567108,Jongseol Lee,J05611,Sale,Inventory,Fulfilled,5,North,86
+ ,1567108,Jongseol Lee,H07850,Sale,Inventory,Fulfilled,4,North,170
+ ,1567108,Jongseol Lee,H09730,Sale,Inventory,Fulfilled,1,North,18
+ ,1567108,Jongseol Lee,H09734,Sale,Inventory,Fulfilled,1,North,17
+ ,1567108,Jongseol Lee,H09739,Sale,Inventory,Fulfilled,1,North,46
+ ,1567108,Jongseol Lee,H03011,Shipping,Shipping,,1,North,0
+,1567133,Perry Everzon,J03253,Sale,Inventory,Fulfilled,4,North,307
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+,1567133,Perry Everzon,H05497,Sale,Inventory,Fulfilled,1,North,101
+,1567133,Perry Everzon,H08442,Sale,Inventory,Fulfilled,1,North,166
+,1567133,Perry Everzon,ROUTEINS,Shipping,Shipping,,1,North,0
+,1567133,Perry Everzon,H03011,Shipping,Shipping,,1,North,0
+ ,1568325,Blazed Vapes,H10186,Sale,Inventory,Fulfilled,2,North,23
+ ,1568325,Blazed Vapes,H09941,Sale,Inventory,Fulfilled,2,North,338
+ ,1568325,Blazed Vapes,J02228,Sale,Inventory,Fulfilled,2,North,79
+ ,1568325,Blazed Vapes,J02227,Sale,Inventory,Fulfilled,2,North,22
+ ,1568325,Blazed Vapes,J05238,Sale,Inventory,Fulfilled,2,North,115
+ ,1568325,Blazed Vapes,H03011,Shipping,Shipping,,1,North,0
+,1568971,Perry Everzon,J00967,Sale,Inventory,Fulfilled,1,North,86
+,1568971,Perry Everzon,J03021,Sale,Inventory,Fulfilled,1,North,14
+,1568971,Perry Everzon,J03606,Sale,Inventory,Fulfilled,1,North,14
+,1568971,Perry Everzon,J04252,Sale,Inventory,Fulfilled,1,North,44
+,1568971,Perry Everzon,J04255,Sale,Inventory,Fulfilled,1,North,51
+,1568971,Perry Everzon,J04261,Sale,Inventory,Fulfilled,1,North,72
+,1568971,Perry Everzon,ROUTEINS,Shipping,Shipping,,1,North,0
+,1568971,Perry Everzon,H03011,Shipping,Shipping,,1,North,0
+ ,1568991,Perry Everzon,ROUTEINS,Shipping,Shipping,,1,North,0
+ ,1568991,Perry Everzon,J05205,Sale,Inventory,Fulfilled,3,North,240
+ ,1568991,Perry Everzon,H03011,Shipping,Shipping,,1,North,0
+,1568992,Perry Everzon,H09825,Sale,Inventory,Fulfilled,1,North,24
+,1568992,Perry Everzon,ROUTEINS,Shipping,Shipping,,1,North,0
+,1568992,Perry Everzon,H03011,Shipping,Shipping,,1,North,0
+ ,1569232,Effrem Phillips,H04295,Sale,Service,,1,North,0
+,1569233,Devin Pressley,H04295,Sale,Service,,1,North,0
+ ,1569234,Pam Padilla,H04295,Sale,Service,,1,North,0
+,1569235,Jenette Killough,H04295,Sale,Service,,1,North,0
+ ,1569236,Alilyn Quinn,H04295,Sale,Service,,1,North,0
+,1569237,Sherry Schnooberger,H04295,Sale,Service,,1,North,0
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+ ,1569238,Josh Pezold,H04295,Sale,Service,,1,North,0
+,1569239,NICHOLE WILLIAMS,H04295,Sale,Service,,1,North,0
+ ,1569240,Andrew Daskalas,H04295,Sale,Service,,1,North,0
+,1569241,Jenna Karow,H04295,Sale,Service,,2,North,0
+ ,1569242,Adam Kolessar,H04295,Sale,Service,,1,North,0
+,1569243,Jeff Decker,H04295,Sale,Service,,1,North,0
+ ,1569244,Thomas LaChance,H04295,Sale,Service,,1,North,0
+,1569245,Dawn Pesa,H04295,Sale,Service,,1,North,0
+ ,1569246,Robert Stevenson,H04295,Sale,Service,,1,North,0
+,1569247,Tyler Deleon,H04295,Sale,Service,,1,North,0
+ ,1569248,RHONDA DOWNS,H04295,Sale,Service,,1,North,0
+,1569249,Matt Thomas,H04295,Sale,Service,,1,North,0
+ ,1569250,Russell Hoffmann,H04295,Sale,Service,,1,North,0
+,1569251,Christopher Denton,H04295,Sale,Service,,1,North,0
+ ,1569252,Jonathan Hawkins,H04295,Sale,Service,,1,North,0
+,1569253,Tyson Wald,H04295,Sale,Service,,1,North,0
+ ,1569255,Dawn Weller,H04295,Sale,Service,,1,North,0
+,1569256,Tillman Charles,H04295,Sale,Service,,1,North,0
+ ,1569257,Mackinsey Rodebaugh,H04295,Sale,Service,,1,North,0
+,1569258,Rachael Beccue,H04295,Sale,Service,,1,North,0
+ ,1569259,Ivan Yu,H04295,Sale,Service,,1,North,0
+,1569260,Crystal Cunningham,H04295,Sale,Service,,1,North,0
+ ,1569261,Molly Maushard,H04295,Sale,Service,,1,North,0
+,1569262,Natalie Bowie,H04295,Sale,Service,,1,North,0
+ ,1569263,Toure Johnson,H04295,Sale,Service,,1,North,0
+,1569264,Alyssa Cryz,H04295,Sale,Service,,1,North,0
+ ,1569265,Isaac White,H04295,Sale,Service,,1,North,0
+,1569266,Bobby Jackson,H04295,Sale,Service,,1,North,0
+ ,1569267,Jasmine Henke,H04295,Sale,Service,,1,North,0
+,1569268,Mark Davenport,H04295,Sale,Service,,1,North,0
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+ ,1569269,Brandon Hall,H04295,Sale,Service,,1,North,0
+,1569270,Joel Long,H04295,Sale,Service,,1,North,0
+ ,1569271,crystal polomski,H04295,Sale,Service,,1,North,0
+,1569272,Leesa Bloom,H04295,Sale,Service,,1,North,0
+ ,1569273,Shaka Smith,H04295,Sale,Service,,1,North,0
+,1569274,Josh Pezold,H04295,Sale,Service,,1,North,0
+ ,1569275,Kevin Sanford,H04295,Sale,Service,,1,North,0
+,1569276,mark young,H04295,Sale,Service,,1,North,0
+ ,1569383,Blazed Vapes,H10218,Sale,Inventory,Fulfilled,1,North,66
+ ,1569383,Blazed Vapes,H00604,Sale,Inventory,Fulfilled,1,North,0
+ ,1569383,Blazed Vapes,H03011,Shipping,Shipping,,1,North,0
+,1569544,Taryn Gemmell,H10249,Credit,Inventory,,1,North,276
+Issued,,,,,,,,,
+ ,1566166,Blazed Vapes,H09660,Sale,Inventory,Ready to Ship,2,North,55
+ ,1566166,Blazed Vapes,H03011,Shipping,Shipping,,1,North,0
+,1566454,Arslane Qazi,H10216,Sale,Inventory,Ready to Pack,1,North,8
+,1566454,Arslane Qazi,H10219,Sale,Inventory,Ready to Pack,1,North,32
+,1566454,Arslane Qazi,H10220,Sale,Inventory,Ready to Pack,1,North,43
+,1566454,Arslane Qazi,H10131,Sale,Inventory,Ready to Pack,1,North,36
+,1566454,Arslane Qazi,H10132,Sale,Inventory,Ready to Pack,1,North,39
+,1566454,Arslane Qazi,H10133,Sale,Inventory,Ready to Pack,1,North,36
+,1566454,Arslane Qazi,H10134,Sale,Inventory,Ready to Pack,1,North,23
+,1566454,Arslane Qazi,H10135,Sale,Inventory,Ready to Pack,1,North,34
+,1566454,Arslane Qazi,H10168,Sale,Inventory,Ready to Pack,3,North,346
+,1566454,Arslane Qazi,H10167,Sale,Inventory,Ready to Pack,3,North,360
+,1566454,Arslane Qazi,H10109,Sale,Inventory,Ready to Pack,2,North,17
+,1566454,Arslane Qazi,H10110,Sale,Inventory,Ready to Pack,2,North,22
+,1566454,Arslane Qazi,H10111,Sale,Inventory,Ready to Pack,2,North,4
+,1566454,Arslane Qazi,H09998,Sale,Inventory,Ready to Pack,1,North,44
+,1566454,Arslane Qazi,H09999,Sale,Inventory,Ready to Pack,1,North,48
+Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+1566454,Arslane Qazi,H10000,Sale,Inventory,Ready to Pack,1,North,24
+1566454,Arslane Qazi,H10001,Sale,Inventory,Ready to Pack,1,North,61
+1566454,Arslane Qazi,H10002,Sale,Inventory,Ready to Pack,1,North,2
+1566454,Arslane Qazi,H10003,Sale,Inventory,Ready to Pack,1,North,54
+1566454,Arslane Qazi,H09974,Sale,Inventory,Ready to Pack,1,North,67
+1566454,Arslane Qazi,H09976,Sale,Inventory,Ready to Pack,1,North,16
+1566454,Arslane Qazi,H09977,Sale,Inventory,Ready to Pack,1,North,9
+1566454,Arslane Qazi,H09980,Sale,Inventory,Ready to Pack,1,North,54
+1566454,Arslane Qazi,H09981,Sale,Inventory,Ready to Pack,1,North,16
+1566454,Arslane Qazi,H09983,Sale,Inventory,Ready to Pack,1,North,28
+1566454,Arslane Qazi,H09842,Sale,Inventory,Ready to Pack,1,North,96
+1566454,Arslane Qazi,H09843,Sale,Inventory,Ready to Pack,1,North,41
+1566454,Arslane Qazi,H09844,Sale,Inventory,Ready to Pack,1,North,47
+1566454,Arslane Qazi,H09845,Sale,Inventory,Ready to Pack,1,North,61
+1566454,Arslane Qazi,H09846,Sale,Inventory,Ready to Pack,1,North,49
+1566454,Arslane Qazi,H09408,Sale,Inventory,Ready to Pack,1,North,12
+1566454,Arslane Qazi,H09409,Sale,Inventory,Ready to Pack,1,North,23
+1566454,Arslane Qazi,H09410,Sale,Inventory,Ready to Pack,1,North,20
+1566454,Arslane Qazi,H09412,Sale,Inventory,Ready to Pack,1,North,18
+1566454,Arslane Qazi,H09413,Sale,Inventory,Ready to Pack,1,North,19
+1566454,Arslane Qazi,H09723,Sale,Inventory,Ready to Pack,2,North,21
+1566454,Arslane Qazi,H09725,Sale,Inventory,Ready to Pack,3,North,36
+1566454,Arslane Qazi,H09726,Sale,Inventory,Ready to Pack,2,North,2
+1566454,Arslane Qazi,H09727,Sale,Inventory,Ready to Pack,2,North,10
+1566454,Arslane Qazi,H09713,Sale,Inventory,Ready to Pack,2,North,42
+1566454,Arslane Qazi,H09714,Sale,Inventory,Ready to Pack,2,North,43
+1566454,Arslane Qazi,H09715,Sale,Inventory,Ready to Pack,2,North,24
+1566454,Arslane Qazi,H09706,Sale,Inventory,Ready to Pack,5,North,164
+1566454,Arslane Qazi,H09707,Sale,Inventory,Ready to Pack,5,North,143
+1566454,Arslane Qazi,H09708,Sale,Inventory,Ready to Pack,5,North,232
+Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+1566454,Arslane Qazi,H09709,Sale,Inventory,Ready to Pack,5,North,330
+1566454,Arslane Qazi,H09710,Sale,Inventory,Ready to Pack,10,North,225
+1566454,Arslane Qazi,H09689,Sale,Inventory,Ready to Pack,2,North,72
+1566454,Arslane Qazi,H09690,Sale,Inventory,Ready to Pack,1,North,40
+1566454,Arslane Qazi,H09691,Sale,Inventory,Ready to Pack,1,North,37
+1566454,Arslane Qazi,H09692,Sale,Inventory,Ready to Pack,1,North,80
+1566454,Arslane Qazi,H10266,Sale,Inventory,Ready to Pack,2,North,54
+1566454,Arslane Qazi,H09646,Sale,Inventory,Ready to Pack,1,North,45
+1566454,Arslane Qazi,H09648,Sale,Inventory,Ready to Pack,1,North,11
+1566454,Arslane Qazi,H09651,Sale,Inventory,Ready to Pack,1,North,34
+1566454,Arslane Qazi,H09649,Sale,Inventory,Ready to Pack,1,North,30
+1566454,Arslane Qazi,H09573,Sale,Inventory,Ready to Pack,1,North,6
+1566454,Arslane Qazi,H09574,Sale,Inventory,Ready to Pack,1,North,19
+1566454,Arslane Qazi,H09575,Sale,Inventory,Ready to Pack,2,North,4
+1566454,Arslane Qazi,H09576,Sale,Inventory,Ready to Pack,1,North,108
+1566454,Arslane Qazi,H09577,Sale,Inventory,Ready to Pack,1,North,19
+1566454,Arslane Qazi,H09578,Sale,Inventory,Ready to Pack,1,North,4
+1566454,Arslane Qazi,H09579,Sale,Inventory,Ready to Pack,1,North,29
+1566454,Arslane Qazi,H00494,Sale,Inventory,Ready to Pack,24,North,33
+1566454,Arslane Qazi,H05446,Sale,Inventory,Ready to Pack,10,North,173
+1566454,Arslane Qazi,H06895,Sale,Inventory,Ready to Pack,20,North,142
+1566454,Arslane Qazi,H07976,Sale,Inventory,Ready to Pack,5,North,41
+1566454,Arslane Qazi,H07134,Sale,Inventory,Ready to Pack,20,North,84
+1566454,Arslane Qazi,H07135,Sale,Inventory,Ready to Pack,20,North,9
+1566454,Arslane Qazi,H09643,Sale,Inventory,Ready to Pack,10,North,175
+1566454,Arslane Qazi,H09342,Sale,Inventory,Ready to Pack,5,North,163
+1566454,Arslane Qazi,H09716,Sale,Inventory,Ready to Pack,4,North,70
+1566454,Arslane Qazi,H09717,Sale,Inventory,Ready to Pack,4,North,267
+1566454,Arslane Qazi,H09730,Sale,Inventory,Ready to Pack,2,North,18
+1566454,Arslane Qazi,H09733,Sale,Inventory,Ready to Pack,2,North,25
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+,1566454,Arslane Qazi,H09734,Sale,Inventory,Ready to Pack,2,North,17
+,1566454,Arslane Qazi,H09737,Sale,Inventory,Ready to Pack,2,North,172
+,1566454,Arslane Qazi,H09738,Sale,Inventory,Ready to Pack,2,North,92
+,1566454,Arslane Qazi,H09739,Sale,Inventory,Ready to Pack,2,North,46
+,1566454,Arslane Qazi,H09740,Sale,Inventory,Ready to Pack,2,North,92
+,1566454,Arslane Qazi,H06084,Sale,Inventory,Ready to Pack,5,North,55
+,1566454,Arslane Qazi,H03778,Sale,Inventory,Ready to Pack,10,North,85
+,1566454,Arslane Qazi,H06085,Sale,Inventory,Ready to Pack,4,North,49
+,1566454,Arslane Qazi,H09525,Sale,Inventory,Ready to Pack,6,North,501
+,1566454,Arslane Qazi,H08248,Sale,Inventory,Ready to Pack,1,North,16
+,1566454,Arslane Qazi,H09417,Sale,Inventory,Ready to Pack,1,North,5
+,1566454,Arslane Qazi,H09421,Sale,Inventory,Ready to Pack,1,North,15
+ ,1566858,John Losoncy,J04670,Sale,Inventory,Ready to Ship,1,North,13
+ ,1566858,John Losoncy,J04673,Sale,Inventory,Ready to Ship,2,North,43
+ ,1566858,John Losoncy,J04892,Sale,Inventory,Ready to Ship,2,North,22
+ ,1566858,John Losoncy,J04891,Sale,Inventory,Ready to Ship,1,North,44
+ ,1566858,John Losoncy,J06431,Sale,Inventory,Ready to Ship,3,North,50
+ ,1566858,John Losoncy,J06430,Sale,Inventory,Ready to Ship,2,North,23
+ ,1566858,John Losoncy,J03800,Sale,Inventory,Ready to Ship,1,North,22
+ ,1566858,John Losoncy,J05660,Sale,Inventory,Ready to Ship,7,North,59
+ ,1566858,John Losoncy,J04888,Sale,Inventory,Ready to Ship,4,North,115
+ ,1566858,John Losoncy,J04887,Sale,Inventory,Ready to Ship,3,North,15
+ ,1566858,John Losoncy,J04897,Sale,Inventory,Ready to Ship,4,North,145
+ ,1566858,John Losoncy,J04896,Sale,Inventory,Ready to Ship,3,North,35
+ ,1566858,John Losoncy,J04889,Sale,Inventory,Ready to Ship,3,North,169
+ ,1566858,John Losoncy,J03458,Sale,Inventory,Ready to Ship,3,North,96
+ ,1566858,John Losoncy,J03457,Sale,Inventory,Ready to Ship,3,North,31
+ ,1566858,John Losoncy,J03460,Sale,Inventory,Ready to Ship,3,North,87
+ ,1566858,John Losoncy,J03459,Sale,Inventory,Ready to Ship,3,North,29
+ ,1566858,John Losoncy,J03456,Sale,Inventory,Ready to Ship,2,North,50
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+ ,1566858,John Losoncy,J03455,Sale,Inventory,Ready to Ship,2,North,65
+ ,1566858,John Losoncy,J03452,Sale,Inventory,Ready to Ship,2,North,41
+ ,1566858,John Losoncy,H09520,Sale,Inventory,Ready to Ship,5,North,53
+ ,1566858,John Losoncy,H09522,Sale,Inventory,Ready to Ship,3,North,31
+ ,1566858,John Losoncy,H09517,Sale,Inventory,Ready to Ship,1,North,22
+ ,1566858,John Losoncy,H09648,Sale,Inventory,Ready to Ship,2,North,11
+ ,1566858,John Losoncy,H02498,Sale,Inventory,Ready to Ship,3,North,122
+ ,1566858,John Losoncy,H02664,Sale,Inventory,Ready to Ship,2,North,9
+ ,1566858,John Losoncy,H04838,Sale,Inventory,Ready to Ship,1,North,24
+ ,1566858,John Losoncy,H06357,Sale,Inventory,Ready to Ship,1,North,41
+ ,1566858,John Losoncy,H03284,Sale,Inventory,Ready to Ship,2,North,15
+ ,1566858,John Losoncy,H09527,Sale,Inventory,Ready to Ship,3,North,80
+ ,1566858,John Losoncy,H00526,Sale,Inventory,Ready to Ship,6,North,23
+ ,1566858,John Losoncy,H09663,Sale,Inventory,Ready to Ship,2,North,197
+ ,1566858,John Losoncy,H06932,Sale,Inventory,Ready to Ship,3,North,248
+ ,1566858,John Losoncy,H08851,Sale,Inventory,Ready to Ship,8,North,145
+ ,1566858,John Losoncy,H04560,Sale,Inventory,Ready to Ship,6,North,23
+ ,1566858,John Losoncy,H04559,Sale,Inventory,Ready to Ship,6,North,78
+ ,1566858,John Losoncy,H07805,Sale,Inventory,Ready to Pick,2,North,0
+ ,1566858,John Losoncy,H07806,Sale,Inventory,Ready to Pick,2,North,0
+ ,1566858,John Losoncy,H03011,Shipping,Shipping,,1,North,0
+,1567122,Perry Everzon,J05205,Sale,Inventory,Ready for Pickup,3,North,240
+,1567122,Perry Everzon,ROUTEINS,Shipping,Shipping,,1,North,0
+,1567122,Perry Everzon,H03011,Shipping,Shipping,,1,North,0
+ ,1567450,exhale smoke and vape,H08272,Sale,Inventory,Ready for Pickup,4,North,10
+ ,1567450,exhale smoke and vape,H09710,Sale,Inventory,Ready for Pickup,10,North,225
+ ,1567450,exhale smoke and vape,J08047,Sale,Inventory,Ready for Pickup,1,North,16
+ ,1567450,exhale smoke and vape,J08046,Sale,Inventory,Ready for Pickup,1,North,29
+ ,1567450,exhale smoke and vape,J08044,Sale,Inventory,Ready for Pickup,1,North,26
+ ,1567450,exhale smoke and vape,H10098,Sale,Inventory,Ready for Pickup,1,North,7
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+ ,1567450,exhale smoke and vape,H10100,Sale,Inventory,Ready for Pickup,1,North,0
+ ,1567450,exhale smoke and vape,J07773,Sale,Inventory,Ready for Pickup,1,North,3
+ ,1567450,exhale smoke and vape,J07771,Sale,Inventory,Ready for Pickup,1,North,8
+ ,1567450,exhale smoke and vape,J07769,Sale,Inventory,Ready for Pickup,1,North,10
+ ,1567450,exhale smoke and vape,J04258,Sale,Inventory,Ready for Pickup,4,North,60
+ ,1567450,exhale smoke and vape,J04257,Sale,Inventory,Ready for Pickup,4,North,33
+ ,1567450,exhale smoke and vape,H09819,Sale,Inventory,Ready for Pickup,1,North,46
+ ,1567450,exhale smoke and vape,H09821,Sale,Inventory,Ready for Pickup,1,North,7
+ ,1567450,exhale smoke and vape,H09823,Sale,Inventory,Ready for Pickup,1,North,16
+ ,1567450,exhale smoke and vape,H07687,Sale,Inventory,Ready for Pickup,1,North,27
+ ,1567450,exhale smoke and vape,H08095,Sale,Inventory,Ready for Pickup,1,North,56
+ ,1567450,exhale smoke and vape,H03160,Sale,Inventory,Ready for Pickup,3,North,374
+ ,1567450,exhale smoke and vape,H09346,Sale,Inventory,Ready for Pickup,1,North,15
+ ,1567450,exhale smoke and vape,H08109,Sale,Inventory,Ready to Pick,1,North,0
+ ,1567450,exhale smoke and vape,J00218,Sale,Inventory,Ready for Pickup,2,North,37
+ ,1567450,exhale smoke and vape,H02432,Sale,Inventory,Ready for Pickup,1,North,315
+ ,1567450,exhale smoke and vape,J05627,Sale,Inventory,Ready for Pickup,4,North,50
+,1567598,Vape CIty LLC,J06941,Sale,Inventory,Ready to Pick,2,North,44
+,1567598,Vape CIty LLC,J06946,Sale,Inventory,Ready to Pick,4,North,22
+,1567598,Vape CIty LLC,J06947,Sale,Inventory,Ready to Pick,3,North,65
+,1567598,Vape CIty LLC,H09580,Sale,Inventory,Ready to Pick,1,North,8
+,1567598,Vape CIty LLC,H09581,Sale,Inventory,Ready to Pick,1,North,38
+,1567598,Vape CIty LLC,H09582,Sale,Inventory,Ready to Pick,1,North,100
+,1567598,Vape CIty LLC,H09583,Sale,Inventory,Ready to Pick,1,North,38
+,1567598,Vape CIty LLC,H09584,Sale,Inventory,Ready to Pick,1,North,19
+,1567598,Vape CIty LLC,H09730,Sale,Inventory,Ready to Pick,2,North,18
+,1567598,Vape CIty LLC,H09733,Sale,Inventory,Ready to Pick,2,North,25
+,1567598,Vape CIty LLC,H09734,Sale,Inventory,Ready to Pick,2,North,17
+,1567598,Vape CIty LLC,H09737,Sale,Inventory,Ready to Pick,2,North,172
+,1567598,Vape CIty LLC,H09738,Sale,Inventory,Ready to Pick,1,North,92
+Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+1567598,Vape CIty LLC,H09739,Sale,Inventory,Ready to Pick,2,North,46
+1567598,Vape CIty LLC,H10074,Sale,Inventory,Ready to Pick,2,North,2
+1567598,Vape CIty LLC,J00891,Sale,Inventory,Ready to Pick,2,North,45
+1567598,Vape CIty LLC,J00892,Sale,Inventory,Ready to Pick,2,North,42
+1567598,Vape CIty LLC,J00898,Sale,Inventory,Ready to Pick,3,North,32
+1567598,Vape CIty LLC,J00900,Sale,Inventory,Ready to Pick,2,North,91
+1567598,Vape CIty LLC,J02421,Sale,Inventory,Ready to Pick,3,North,44
+1567598,Vape CIty LLC,H09157,Sale,Inventory,Ready to Pick,10,North,71
+1567598,Vape CIty LLC,J06850,Sale,Inventory,Ready to Pick,2,North,12
+1567598,Vape CIty LLC,J05205,Sale,Inventory,Ready to Pick,5,North,240
+1567598,Vape CIty LLC,J05206,Sale,Inventory,Ready to Pick,3,North,140
+1567598,Vape CIty LLC,J01923,Sale,Inventory,Ready to Pick,3,North,54
+1567598,Vape CIty LLC,J01924,Sale,Inventory,Ready to Pick,3,North,34
+1567598,Vape CIty LLC,J01925,Sale,Inventory,Ready to Pick,1,North,38
+1567598,Vape CIty LLC,J00646,Sale,Inventory,Ready to Pick,4,North,100
+1567598,Vape CIty LLC,J03210,Sale,Inventory,Ready to Pick,3,North,15
+1567598,Vape CIty LLC,J03211,Sale,Inventory,Ready to Pick,3,North,88
+1567598,Vape CIty LLC,J03212,Sale,Inventory,Ready to Pick,3,North,103
+1567598,Vape CIty LLC,J03213,Sale,Inventory,Ready to Pick,3,North,22
+1567598,Vape CIty LLC,J03214,Sale,Inventory,Ready to Pick,7,North,52
+1567598,Vape CIty LLC,J03215,Sale,Inventory,Ready to Pick,2,North,117
+1567598,Vape CIty LLC,J02651,Sale,Inventory,Ready to Pick,4,North,77
+1567598,Vape CIty LLC,J07160,Sale,Inventory,Ready to Pick,2,North,24
+1567598,Vape CIty LLC,J07161,Sale,Inventory,Ready to Pick,3,North,24
+1567598,Vape CIty LLC,J07162,Sale,Inventory,Ready to Pick,2,North,40
+1567598,Vape CIty LLC,J08304,Sale,Inventory,Ready to Pick,3,North,25
+1567598,Vape CIty LLC,J08305,Sale,Inventory,Ready to Pick,3,North,92
+1567598,Vape CIty LLC,J08306,Sale,Inventory,Ready to Pick,2,North,49
+1567598,Vape CIty LLC,J07328,Sale,Inventory,Ready to Pick,2,North,51
+1567598,Vape CIty LLC,J07329,Sale,Inventory,Ready to Pick,2,North,46
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+,1567598,Vape CIty LLC,J07330,Sale,Inventory,Ready to Pick,1,North,34
+,1567598,Vape CIty LLC,J06936,Sale,Inventory,Ready to Pick,2,North,13
+,1567598,Vape CIty LLC,J06945,Sale,Inventory,Ready to Pick,3,North,27
+,1567598,Vape CIty LLC,J01930,Sale,Inventory,Ready to Pick,3,North,74
+,1567598,Vape CIty LLC,J01931,Sale,Inventory,Ready to Pick,2,North,47
+,1567598,Vape CIty LLC,J01933,Sale,Inventory,Ready to Pick,3,North,22
+,1567598,Vape CIty LLC,J01934,Sale,Inventory,Ready to Pick,1,North,71
+,1567598,Vape CIty LLC,J04594,Sale,Inventory,Ready to Pick,3,North,12
+,1567598,Vape CIty LLC,J04595,Sale,Inventory,Ready to Pick,2,North,70
+,1567598,Vape CIty LLC,J04160,Sale,Inventory,Ready to Pick,4,North,52
+,1567598,Vape CIty LLC,J04161,Sale,Inventory,Ready to Pick,2,North,22
+,1567598,Vape CIty LLC,J04163,Sale,Inventory,Ready to Pick,2,North,19
+,1567598,Vape CIty LLC,J00719,Sale,Inventory,Ready to Pick,4,North,78
+,1567598,Vape CIty LLC,J03624,Sale,Inventory,Ready to Pick,3,North,66
+,1567598,Vape CIty LLC,J04437,Sale,Inventory,Ready to Pick,2,North,18
+,1567598,Vape CIty LLC,J05671,Sale,Inventory,Ready to Pick,2,North,72
+,1567598,Vape CIty LLC,J05674,Sale,Inventory,Ready to Pick,2,North,39
+,1567598,Vape CIty LLC,H03011,Shipping,Shipping,,1,North,0
+ ,1568624,Weston Jarvis,J00732,Sale,Inventory,Ready to Ship,15,North,32
+ ,1568624,Weston Jarvis,J00727,Sale,Inventory,Ready to Ship,5,North,18
+ ,1568624,Weston Jarvis,H09715,Sale,Inventory,Ready to Ship,4,North,24
+ ,1568624,Weston Jarvis,H09714,Sale,Inventory,Ready to Ship,4,North,43
+ ,1568624,Weston Jarvis,H09713,Sale,Inventory,Ready to Ship,4,North,42
+ ,1568624,Weston Jarvis,H09716,Sale,Inventory,Ready to Ship,10,North,70
+ ,1568624,Weston Jarvis,H09717,Sale,Inventory,Ready to Ship,10,North,267
+ ,1568624,Weston Jarvis,H07134,Sale,Inventory,Ready to Ship,20,North,84
+ ,1568624,Weston Jarvis,H09346,Sale,Inventory,Ready to Ship,4,North,15
+ ,1568624,Weston Jarvis,H09624,Sale,Inventory,Ready to Ship,4,North,38
+ ,1568624,Weston Jarvis,H06357,Sale,Inventory,Ready to Ship,4,North,41
+ ,1568624,Weston Jarvis,H06358,Sale,Inventory,Ready to Ship,4,North,28
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+ ,1568624,Weston Jarvis,H06359,Sale,Inventory,Ready to Ship,4,North,24
+,1568803,emile bahdi,H09527,Sale,Inventory,Ready to Pack,10,North,80
+,1568803,emile bahdi,H09725,Sale,Inventory,Ready to Pack,2,North,36
+,1568803,emile bahdi,H09726,Sale,Inventory,Ready to Pack,2,North,2
+,1568803,emile bahdi,J01450,Sale,Inventory,Ready to Pack,4,North,74
+,1568803,emile bahdi,H02688,Sale,Inventory,Ready to Pack,4,North,39
+,1568803,emile bahdi,J01456,Sale,Inventory,Ready to Pack,4,North,31
+,1568803,emile bahdi,J01457,Sale,Inventory,Ready to Pack,4,North,19
+,1568803,emile bahdi,J01462,Sale,Inventory,Ready to Pack,4,North,27
+,1568803,emile bahdi,J01463,Sale,Inventory,Ready to Pack,4,North,19
+,1568803,emile bahdi,J01465,Sale,Inventory,Ready to Pack,4,North,33
+,1568803,emile bahdi,J01466,Sale,Inventory,Ready to Pack,4,North,19
+,1568803,emile bahdi,J05231,Sale,Inventory,Ready to Pack,10,North,73
+,1568803,emile bahdi,J05232,Sale,Inventory,Ready to Pack,10,North,84
+,1568803,emile bahdi,J05235,Sale,Inventory,Ready to Pack,10,North,104
+,1568803,emile bahdi,J05236,Sale,Inventory,Ready to Pack,10,North,53
+,1568803,emile bahdi,H09733,Sale,Inventory,Ready to Pack,3,North,25
+,1568803,emile bahdi,H09522,Sale,Inventory,Ready to Pack,4,North,31
+,1568803,emile bahdi,H01543,Sale,Inventory,Ready to Pack,3,North,129
+,1568803,emile bahdi,H02533,Sale,Inventory,Ready to Pack,3,North,202
+,1568803,emile bahdi,H00183,Sale,Inventory,Ready to Pack,1,North,180
+,1568803,emile bahdi,H05446,Sale,Inventory,Ready to Pack,2,North,173
+,1568803,emile bahdi,H09342,Sale,Inventory,Ready to Pack,5,North,163
+,1568803,emile bahdi,H09281,Sale,Inventory,Ready to Pack,1,North,50
+,1568803,emile bahdi,H09282,Sale,Inventory,Ready to Pack,1,North,1
+,1568803,emile bahdi,H07363,Sale,Inventory,Ready to Pack,10,North,153
+,1568803,emile bahdi,H05497,Sale,Inventory,Ready to Pack,10,North,101
+,1568803,emile bahdi,H08776,Sale,Inventory,Ready to Pack,4,North,31
+,1568803,emile bahdi,H09723,Sale,Inventory,Ready to Pack,2,North,21
+,1568803,emile bahdi,J05241,Sale,Inventory,Ready to Pack,10,North,53
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+,1568803,emile bahdi,J05242,Sale,Inventory,Ready to Pack,10,North,61
+,1568803,emile bahdi,J05423,Sale,Inventory,Ready to Pack,2,North,144
+,1568803,emile bahdi,J05137,Sale,Inventory,Ready to Pack,4,North,122
+,1568803,emile bahdi,J05136,Sale,Inventory,Ready to Pack,4,North,131
+,1568803,emile bahdi,J00896,Sale,Inventory,Ready to Pack,6,North,26
+,1568803,emile bahdi,H00498,Sale,Inventory,Ready to Pack,3,North,39
+,1568803,emile bahdi,J01803,Sale,Inventory,Ready to Pack,4,North,59
+,1568803,emile bahdi,J02404,Sale,Inventory,Ready to Pack,2,North,18
+,1568803,emile bahdi,J02395,Sale,Inventory,Ready to Pack,2,North,38
+,1568803,emile bahdi,J02394,Sale,Inventory,Ready to Pack,3,North,43
+,1568803,emile bahdi,J03635,Sale,Inventory,Ready to Pack,4,North,82
+ ,1568900,Vape CIty LLC,J00423,Sale,Inventory,Ready to Ship,3,North,69
+ ,1568900,Vape CIty LLC,J00420,Sale,Inventory,Ready to Ship,2,North,28
+ ,1568900,Vape CIty LLC,J07388,Sale,Inventory,Ready to Ship,7,North,20
+ ,1568900,Vape CIty LLC,J07392,Sale,Inventory,Ready to Ship,4,North,5
+ ,1568900,Vape CIty LLC,J07393,Sale,Inventory,Ready to Ship,5,North,49
+ ,1568900,Vape CIty LLC,J07992,Sale,Inventory,Ready to Ship,2,North,64
+ ,1568900,Vape CIty LLC,J04654,Sale,Inventory,Ready to Ship,2,North,71
+ ,1568900,Vape CIty LLC,J04655,Sale,Inventory,Ready to Ship,3,North,97
+ ,1568900,Vape CIty LLC,J04656,Sale,Inventory,Ready to Ship,1,North,77
+ ,1568900,Vape CIty LLC,J04657,Sale,Inventory,Ready to Ship,1,North,83
+ ,1568900,Vape CIty LLC,J05691,Sale,Inventory,Ready to Ship,1,North,76
+ ,1568900,Vape CIty LLC,J05692,Sale,Inventory,Ready to Ship,1,North,111
+ ,1568900,Vape CIty LLC,J05694,Sale,Inventory,Ready to Ship,1,North,42
+ ,1568900,Vape CIty LLC,J04825,Sale,Inventory,Ready to Ship,3,North,8
+ ,1568900,Vape CIty LLC,H02645,Sale,Inventory,Ready to Ship,3,North,160
+ ,1568900,Vape CIty LLC,H09157,Sale,Inventory,Ready to Ship,10,North,71
+ ,1568900,Vape CIty LLC,H07362,Sale,Inventory,Ready to Ship,10,North,315
+ ,1568900,Vape CIty LLC,J07925,Sale,Inventory,Ready to Ship,2,North,8
+ ,1568900,Vape CIty LLC,J07926,Sale,Inventory,Ready to Ship,3,North,47
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+ ,1568900,Vape CIty LLC,J07927,Sale,Inventory,Ready to Ship,2,North,47
+ ,1568900,Vape CIty LLC,J07943,Sale,Inventory,Ready to Ship,2,North,1
+ ,1568900,Vape CIty LLC,J00637,Sale,Inventory,Ready to Ship,2,North,20
+ ,1568900,Vape CIty LLC,J07919,Sale,Inventory,Ready to Ship,2,North,5
+ ,1568900,Vape CIty LLC,J07920,Sale,Inventory,Ready to Ship,2,North,43
+ ,1568900,Vape CIty LLC,J00639,Sale,Inventory,Ready to Ship,1,North,22
+ ,1568900,Vape CIty LLC,J00401,Sale,Inventory,Ready to Ship,4,North,140
+ ,1568900,Vape CIty LLC,J00402,Sale,Inventory,Ready to Ship,4,North,49
+ ,1568900,Vape CIty LLC,J00892,Sale,Inventory,Ready to Ship,4,North,42
+ ,1568900,Vape CIty LLC,J00894,Sale,Inventory,Ready to Ship,2,North,89
+ ,1568900,Vape CIty LLC,J00898,Sale,Inventory,Ready to Ship,4,North,32
+ ,1568900,Vape CIty LLC,J04133,Sale,Inventory,Ready to Ship,5,North,30
+ ,1568900,Vape CIty LLC,J02421,Sale,Inventory,Ready to Ship,3,North,44
+ ,1568900,Vape CIty LLC,J02424,Sale,Inventory,Ready to Ship,2,North,35
+ ,1568900,Vape CIty LLC,J02425,Sale,Inventory,Ready to Ship,2,North,45
+ ,1568900,Vape CIty LLC,J07258,Sale,Inventory,Ready to Ship,3,North,16
+ ,1568900,Vape CIty LLC,J07259,Sale,Inventory,Ready to Ship,3,North,49
+ ,1568900,Vape CIty LLC,J07260,Sale,Inventory,Ready to Ship,3,North,14
+ ,1568900,Vape CIty LLC,J02347,Sale,Inventory,Ready to Ship,3,North,72
+ ,1568900,Vape CIty LLC,J02348,Sale,Inventory,Ready to Ship,2,North,46
+ ,1568900,Vape CIty LLC,J04206,Sale,Inventory,Ready to Ship,3,North,112
+ ,1568900,Vape CIty LLC,J04207,Sale,Inventory,Ready to Ship,2,North,76
+ ,1568900,Vape CIty LLC,J04209,Sale,Inventory,Ready to Ship,3,North,109
+ ,1568900,Vape CIty LLC,J04210,Sale,Inventory,Ready to Ship,1,North,30
+ ,1568900,Vape CIty LLC,J06527,Sale,Inventory,Ready to Ship,2,North,10
+ ,1568900,Vape CIty LLC,J06528,Sale,Inventory,Ready to Ship,2,North,82
+ ,1568900,Vape CIty LLC,J06529,Sale,Inventory,Ready to Ship,1,North,60
+ ,1568900,Vape CIty LLC,J04212,Sale,Inventory,Ready to Ship,3,North,55
+ ,1568900,Vape CIty LLC,J04213,Sale,Inventory,Ready to Ship,1,North,70
+ ,1568900,Vape CIty LLC,J04218,Sale,Inventory,Ready to Ship,4,North,115
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+ ,1568900,Vape CIty LLC,J04348,Sale,Inventory,Ready to Ship,2,North,50
+ ,1568900,Vape CIty LLC,J04351,Sale,Inventory,Ready to Ship,3,North,93
+ ,1568900,Vape CIty LLC,J04354,Sale,Inventory,Ready to Ship,3,North,67
+ ,1568900,Vape CIty LLC,J04355,Sale,Inventory,Ready to Ship,3,North,21
+ ,1568900,Vape CIty LLC,H04254,Sale,Inventory,Ready to Ship,1,North,34
+ ,1568900,Vape CIty LLC,H10349,Sale,Inventory,Ready to Ship,10,North,31
+ ,1568900,Vape CIty LLC,H10241,Sale,Inventory,Ready to Ship,10,North,138
+ ,1568900,Vape CIty LLC,H10245,Sale,Inventory,Ready to Ship,10,North,144
+ ,1568900,Vape CIty LLC,H03011,Shipping,Shipping,,1,North,0
+,1569205,Taryn Caruso,J00438,Sale,Inventory,Ready to Pick,1,North,35
+,1569205,Taryn Caruso,H03011,Shipping,Shipping,,1,North,0
+ ,1569206,Thanh Le,H09446,Sale,Inventory,Ready to Pick,1,North,278
+ ,1569206,Thanh Le,H03011,Shipping,Shipping,,1,North,0
+,1569207,Vanessa Cruz,H09366,Sale,Inventory,Ready to Pick,1,North,3
+,1569207,Vanessa Cruz,H07694,Sale,Inventory,Ready to Pick,1,North,251
+,1569207,Vanessa Cruz,J03381,Sale,Inventory,Ready to Pick,1,North,96
+,1569207,Vanessa Cruz,J07393,Sale,Inventory,Ready to Pick,1,North,49
+,1569207,Vanessa Cruz,H03011,Shipping,Shipping,,1,North,0
+ ,1569208,Dayna Valle,A0-AEDSB-3y,Sale,Service,,1,North,0
+ ,1569208,Dayna Valle,H02240,Sale,Inventory,Ready to Pick,1,North,104
+ ,1569208,Dayna Valle,J03374,Sale,Inventory,Ready to Pick,2,North,42
+ ,1569208,Dayna Valle,H03284,Sale,Inventory,Ready to Pick,1,North,15
+ ,1569208,Dayna Valle,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569208,Dayna Valle,H03011,Shipping,Shipping,,1,North,0
+,1569209,Hope Colson,J03253,Sale,Inventory,Ready to Pick,3,North,307
+,1569209,Hope Colson,J07927,Sale,Inventory,Ready to Pick,1,North,47
+,1569209,Hope Colson,H03798,Sale,Inventory,Ready to Pick,1,North,29
+,1569209,Hope Colson,J01168,Sale,Inventory,Ready to Pick,1,North,99
+,1569209,Hope Colson,H03011,Shipping,Shipping,,1,North,0
+ ,1569210,cory crook,J00082,Sale,Inventory,Ready to Pick,4,North,10
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+ ,1569210,cory crook,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569210,cory crook,H03011,Shipping,Shipping,,1,North,0
+,1569211,Andrew Trana,J04641,Sale,Inventory,Ready to Pick,1,North,83
+,1569211,Andrew Trana,J07986,Sale,Inventory,Ready to Pick,1,North,76
+,1569211,Andrew Trana,J06117,Sale,Inventory,Ready to Pick,1,North,90
+,1569211,Andrew Trana,J06147,Sale,Inventory,Ready to Pick,1,North,14
+,1569211,Andrew Trana,J08292,Sale,Inventory,Ready to Pick,1,North,46
+,1569211,Andrew Trana,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569211,Andrew Trana,H03011,Shipping,Shipping,,1,North,0
+ ,1569212,John Vincent Lagman,J06468,Sale,Inventory,Ready to Pick,1,North,123
+ ,1569212,John Vincent Lagman,J07392,Sale,Inventory,Ready to Pick,1,North,5
+ ,1569212,John Vincent Lagman,J00422,Sale,Inventory,Ready to Pick,1,North,49
+ ,1569212,John Vincent Lagman,H03011,Shipping,Shipping,,1,North,0
+,1569213,LeAnna Bolinger,J08109,Sale,Inventory,Ready to Pick,1,North,96
+,1569213,LeAnna Bolinger,H09859,Sale,Inventory,Ready to Pick,1,North,42
+,1569213,LeAnna Bolinger,H03011,Shipping,Shipping,,1,North,0
+ ,1569214,Jake Peralta,H05497,Sale,Inventory,Ready to Pick,1,North,101
+ ,1569214,Jake Peralta,J01480,Sale,Inventory,Ready to Pick,2,North,54
+ ,1569214,Jake Peralta,J00008,Sale,Inventory,Ready to Pick,1,North,39
+ ,1569214,Jake Peralta,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569214,Jake Peralta,H03011,Shipping,Shipping,,1,North,0
+,1569215,John Vincent Lagman,J00002,Sale,Inventory,Ready to Pick,1,North,127
+,1569215,John Vincent Lagman,J07393,Sale,Inventory,Ready to Pick,1,North,49
+,1569215,John Vincent Lagman,H03011,Shipping,Shipping,,1,North,0
+ ,1569216,Sadie Tapia,J06478,Sale,Inventory,Ready to Pick,1,North,111
+ ,1569216,Sadie Tapia,H09694,Sale,Inventory,Ready to Pick,2,North,72
+ ,1569216,Sadie Tapia,H10266,Sale,Inventory,Ready to Pick,1,North,54
+ ,1569216,Sadie Tapia,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569216,Sadie Tapia,H03011,Shipping,Shipping,,1,North,0
+,1569217,Deborah Harrison,H09438,Sale,Inventory,Ready to Pick,1,North,515
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+,1569217,Deborah Harrison,H05496,Sale,Inventory,Ready to Pick,1,North,70
+,1569217,Deborah Harrison,H09777,Sale,Inventory,Ready to Pick,1,North,14
+,1569217,Deborah Harrison,H07529,Sale,Inventory,Ready to Pick,1,North,58
+,1569217,Deborah Harrison,J02767,Sale,Inventory,Ready to Pick,1,North,66
+,1569217,Deborah Harrison,J01379,Sale,Inventory,Ready to Pick,1,North,72
+,1569217,Deborah Harrison,H09709,Sale,Inventory,Ready to Pick,2,North,330
+,1569217,Deborah Harrison,H03011,Shipping,Shipping,,1,North,0
+ ,1569218,Matthew Spilman,J01213,Sale,Inventory,Ready to Pick,1,North,80
+ ,1569218,Matthew Spilman,J03634,Sale,Inventory,Ready to Pick,1,North,98
+ ,1569218,Matthew Spilman,J03643,Sale,Inventory,Ready to Pick,1,North,180
+ ,1569218,Matthew Spilman,J06363,Sale,Inventory,Ready to Pick,1,North,17
+ ,1569218,Matthew Spilman,J05220,Sale,Inventory,Ready to Pick,1,North,33
+ ,1569218,Matthew Spilman,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569218,Matthew Spilman,H03011,Shipping,Shipping,,1,North,0
+,1569219,Brett Retelsdorf,J03635,Sale,Inventory,Ready to Pick,4,North,82
+,1569219,Brett Retelsdorf,J03277,Sale,Inventory,Ready to Pick,4,North,32
+,1569219,Brett Retelsdorf,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569219,Brett Retelsdorf,H03011,Shipping,Shipping,,1,North,0
+ ,1569220,Austen Parks,H09941,Sale,Inventory,Ready to Pick,3,North,338
+ ,1569220,Austen Parks,H10187,Sale,Inventory,Ready to Pick,3,North,360
+ ,1569220,Austen Parks,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569220,Austen Parks,H03011,Shipping,Shipping,,1,North,0
+,1569221,Nick Patino,J04355,Sale,Inventory,Ready to Pick,1,North,21
+,1569221,Nick Patino,J00035,Sale,Inventory,Ready to Pick,1,North,47
+,1569221,Nick Patino,J00647,Sale,Inventory,Ready to Pick,2,North,93
+,1569221,Nick Patino,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569221,Nick Patino,H03011,Shipping,Shipping,,1,North,0
+ ,1569222,Chris Vallejo,H06358,Sale,Inventory,Ready to Pick,1,North,28
+ ,1569222,Chris Vallejo,H03011,Shipping,Shipping,,1,North,0
+,1569223,Kate Ireland,H09531,Sale,Inventory,Ready to Pick,1,North,279
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+,1569223,Kate Ireland,H09530,Sale,Inventory,Ready to Pick,1,North,194
+,1569223,Kate Ireland,H09264,Sale,Inventory,Ready to Pick,1,North,13
+,1569223,Kate Ireland,J07690,Sale,Inventory,Ready to Pick,1,North,36
+,1569223,Kate Ireland,H03011,Shipping,Shipping,,1,North,0
+ ,1569224,Scott Ostermann,J06526,Sale,Inventory,Ready to Pick,1,North,70
+ ,1569224,Scott Ostermann,J00174,Sale,Inventory,Ready to Pick,1,North,103
+ ,1569224,Scott Ostermann,H01544,Sale,Inventory,Ready to Pick,1,North,67
+ ,1569224,Scott Ostermann,H03011,Shipping,Shipping,,1,North,0
+,1569225,Roxanne Bugarin,J07954,Sale,Inventory,Ready to Pick,1,North,84
+,1569225,Roxanne Bugarin,H09264,Sale,Inventory,Ready to Pick,2,North,13
+,1569225,Roxanne Bugarin,H03011,Shipping,Shipping,,1,North,0
+ ,1569226,Marlene Golden,J01124,Sale,Inventory,Ready to Pick,1,North,25
+ ,1569226,Marlene Golden,J01123,Sale,Inventory,Ready to Pick,1,North,22
+ ,1569226,Marlene Golden,J03536,Sale,Inventory,Ready to Pick,1,North,55
+ ,1569226,Marlene Golden,H03149,Sale,Inventory,Ready to Pick,1,North,22
+ ,1569226,Marlene Golden,H02645,Sale,Inventory,Ready to Pick,1,North,160
+ ,1569226,Marlene Golden,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569226,Marlene Golden,H03011,Shipping,Shipping,,1,North,0
+,1569227,Jawaid Marzi,H09939,Sale,Inventory,Ready to Pick,1,North,47
+,1569227,Jawaid Marzi,H09765,Sale,Inventory,Ready to Pick,1,North,205
+,1569227,Jawaid Marzi,H10186,Sale,Inventory,Ready to Pick,1,North,23
+,1569227,Jawaid Marzi,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569227,Jawaid Marzi,H03011,Shipping,Shipping,,1,North,0
+ ,1569228,Steven Miller,J01339,Sale,Inventory,Ready to Pick,6,North,42
+ ,1569228,Steven Miller,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569228,Steven Miller,H03011,Shipping,Shipping,,1,North,0
+,1569229,clint burke,H03796,Sale,Inventory,Ready to Pick,1,North,23
+,1569229,clint burke,H07850,Sale,Inventory,Ready to Pick,1,North,170
+,1569229,clint burke,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569229,clint burke,H03011,Shipping,Shipping,,1,North,0
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+ ,1569230,kristine jackman,J01925,Sale,Inventory,Ready for Pickup,1,North,38
+ ,1569230,kristine jackman,H09595,Sale,Inventory,Ready for Pickup,1,North,55
+ ,1569230,kristine jackman,H09596,Sale,Inventory,Ready for Pickup,1,North,20
+ ,1569230,kristine jackman,H09597,Sale,Inventory,Ready for Pickup,1,North,57
+ ,1569230,kristine jackman,H09598,Sale,Inventory,Ready for Pickup,1,North,2
+ ,1569230,kristine jackman,H09599,Sale,Inventory,Ready for Pickup,1,North,8
+ ,1569230,kristine jackman,H09646,Sale,Inventory,Ready for Pickup,1,North,45
+ ,1569230,kristine jackman,H09651,Sale,Inventory,Ready for Pickup,1,North,34
+ ,1569230,kristine jackman,H09653,Sale,Inventory,Ready for Pickup,1,North,42
+ ,1569230,kristine jackman,H09652,Sale,Inventory,Ready for Pickup,1,North,3
+ ,1569230,kristine jackman,H09650,Sale,Inventory,Ready for Pickup,1,North,30
+ ,1569230,kristine jackman,H09705,Sale,Inventory,Ready for Pickup,10,North,47
+ ,1569230,kristine jackman,H02240,Sale,Inventory,Ready for Pickup,5,North,104
+ ,1569230,kristine jackman,H03011,Shipping,Shipping,,1,North,0
+,1569231,Jonathan Bancroft,J07492,Sale,Inventory,Ready to Pick,1,North,30
+,1569231,Jonathan Bancroft,J06593,Sale,Inventory,Ready to Pick,1,North,33
+,1569231,Jonathan Bancroft,J06605,Sale,Inventory,Ready to Pick,1,North,24
+,1569231,Jonathan Bancroft,J08295,Sale,Inventory,Ready to Pick,1,North,48
+,1569231,Jonathan Bancroft,J07591,Sale,Inventory,Ready to Pick,2,North,43
+,1569231,Jonathan Bancroft,J07713,Sale,Inventory,Ready to Pick,1,North,46
+,1569231,Jonathan Bancroft,J01885,Sale,Inventory,Ready to Pick,2,North,42
+,1569231,Jonathan Bancroft,J00368,Sale,Inventory,Ready to Pick,2,North,84
+,1569231,Jonathan Bancroft,J06946,Sale,Inventory,Ready to Pick,1,North,22
+,1569231,Jonathan Bancroft,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569231,Jonathan Bancroft,H03011,Shipping,Shipping,,1,North,0
+ ,1569254,breeana ewart,H02240,Sale,Inventory,Ready to Pick,1,North,104
+ ,1569254,breeana ewart,H07850,Sale,Inventory,Ready to Pick,1,North,170
+ ,1569254,breeana ewart,H09308,Sale,Inventory,Ready to Pick,1,North,10
+ ,1569254,breeana ewart,H09281,Sale,Inventory,Ready to Pick,1,North,50
+ ,1569254,breeana ewart,ROUTEINS18,Shipping,Shipping,,1,North,0
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+ ,1569254,breeana ewart,H03011,Shipping,Shipping,,1,North,0
+,1569277,Jessica Bryant,H09157,Sale,Inventory,Ready to Pick,1,North,71
+,1569277,Jessica Bryant,H09282,Sale,Inventory,Ready to Pick,1,North,1
+,1569277,Jessica Bryant,J03498,Sale,Inventory,Ready to Pick,1,North,50
+,1569277,Jessica Bryant,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569277,Jessica Bryant,H03011,Shipping,Shipping,,1,North,0
+ ,1569278,Raphael Tan,J08308,Sale,Inventory,Ready to Pick,1,North,117
+ ,1569278,Raphael Tan,J03384,Sale,Inventory,Ready to Pick,1,North,43
+ ,1569278,Raphael Tan,J04341,Sale,Inventory,Ready to Pick,2,North,49
+ ,1569278,Raphael Tan,J05206,Sale,Inventory,Ready to Pick,3,North,140
+ ,1569278,Raphael Tan,H03011,Shipping,Shipping,,1,North,0
+,1569279,Nissa Winters,H00475,Sale,Inventory,Ready to Pick,12,North,153
+,1569279,Nissa Winters,J06430,Sale,Inventory,Ready to Pick,2,North,23
+,1569279,Nissa Winters,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569279,Nissa Winters,H03011,Shipping,Shipping,,1,North,0
+ ,1569280,Marcos Morales,J08174,Sale,Inventory,Ready to Pick,1,North,91
+ ,1569280,Marcos Morales,J07915,Sale,Inventory,Ready to Pick,1,North,88
+ ,1569280,Marcos Morales,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569280,Marcos Morales,H03011,Shipping,Shipping,,1,North,0
+,1569281,Roger Acklin,J01379,Sale,Inventory,Ready to Pick,3,North,72
+,1569281,Roger Acklin,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569281,Roger Acklin,H03011,Shipping,Shipping,,1,North,0
+ ,1569282,Hannah Angel,H09205,Sale,Inventory,Ready to Pick,1,North,10
+ ,1569282,Hannah Angel,H03011,Shipping,Shipping,,1,North,0
+,1569283,Goiy Phillips,J06874,Sale,Inventory,Ready to Pick,1,North,58
+,1569283,Goiy Phillips,J07139,Sale,Inventory,Ready to Pick,1,North,99
+,1569283,Goiy Phillips,J08242,Sale,Inventory,Ready to Pick,1,North,80
+,1569283,Goiy Phillips,J08238,Sale,Inventory,Ready to Pick,1,North,80
+,1569283,Goiy Phillips,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569283,Goiy Phillips,H03011,Shipping,Shipping,,1,North,0
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+ ,1569284,Matthew Burnett,J03040,Sale,Inventory,Ready to Pick,1,North,109
+ ,1569284,Matthew Burnett,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569284,Matthew Burnett,H03011,Shipping,Shipping,,1,North,0
+,1569285,John Russell,J00087,Sale,Inventory,Ready to Pick,2,North,74
+,1569285,John Russell,J00088,Sale,Inventory,Ready to Pick,1,North,97
+,1569285,John Russell,H08077,Sale,Inventory,Ready to Pick,2,North,250
+,1569285,John Russell,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569285,John Russell,H03011,Shipping,Shipping,,1,North,0
+ ,1569286,Brett Lillie,J07885,Sale,Inventory,Ready to Pick,1,North,11
+ ,1569286,Brett Lillie,J07895,Sale,Inventory,Ready to Pick,1,North,0
+ ,1569286,Brett Lillie,J07956,Sale,Inventory,Ready to Pick,1,North,58
+ ,1569286,Brett Lillie,J06734,Sale,Inventory,Ready to Pick,1,North,9
+ ,1569286,Brett Lillie,J07965,Sale,Inventory,Ready to Pick,1,North,103
+ ,1569286,Brett Lillie,J07136,Sale,Inventory,Ready to Pick,1,North,106
+ ,1569286,Brett Lillie,J02683,Sale,Inventory,Ready to Pick,1,North,55
+ ,1569286,Brett Lillie,H07362,Sale,Inventory,Ready to Pick,2,North,315
+ ,1569286,Brett Lillie,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569286,Brett Lillie,H03011,Shipping,Shipping,,1,North,0
+,1569287,Robert DeLacerda,J08079,Sale,Inventory,Ready to Pick,1,North,3
+,1569287,Robert DeLacerda,H10505,Sale,Inventory,Ready to Pick,2,North,190
+,1569287,Robert DeLacerda,H10506,Sale,Inventory,Ready to Pick,2,North,187
+,1569287,Robert DeLacerda,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569287,Robert DeLacerda,H03011,Shipping,Shipping,,1,North,0
+ ,1569288,Tyron Mckissick,J07329,Sale,Inventory,Ready to Pick,1,North,46
+ ,1569288,Tyron Mckissick,J06433,Sale,Inventory,Ready to Pick,1,North,33
+ ,1569288,Tyron Mckissick,H03011,Shipping,Shipping,,1,North,0
+,1569289,Anthony Longo,J04758,Sale,Inventory,Ready to Pick,1,North,49
+,1569289,Anthony Longo,J07994,Sale,Inventory,Ready to Pick,1,North,61
+,1569289,Anthony Longo,J05437,Sale,Inventory,Ready to Pick,1,North,28
+,1569289,Anthony Longo,ROUTEINS18,Shipping,Shipping,,1,North,0
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+,1569289,Anthony Longo,H03011,Shipping,Shipping,,1,North,0
+ ,1569290,David Klassen,J04836,Sale,Inventory,Ready to Pick,1,North,26
+ ,1569290,David Klassen,J02389,Sale,Inventory,Ready to Pick,1,North,23
+ ,1569290,David Klassen,H03011,Shipping,Shipping,,1,North,0
+,1569291,Luis Nieves,J07029,Sale,Inventory,Ready to Pick,1,North,96
+,1569291,Luis Nieves,J02940,Sale,Inventory,Ready to Pick,1,North,110
+,1569291,Luis Nieves,H07362,Sale,Inventory,Ready to Pick,1,North,315
+,1569291,Luis Nieves,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569291,Luis Nieves,H03011,Shipping,Shipping,,1,North,0
+ ,1569292,Shannon Jackson,J02451,Sale,Inventory,Ready to Pick,1,North,6
+ ,1569292,Shannon Jackson,J04594,Sale,Inventory,Ready to Pick,1,North,12
+ ,1569292,Shannon Jackson,J07388,Sale,Inventory,Ready to Pick,1,North,20
+ ,1569292,Shannon Jackson,J01528,Sale,Inventory,Ready to Pick,1,North,56
+ ,1569292,Shannon Jackson,J01285,Sale,Inventory,Ready to Pick,1,North,43
+ ,1569292,Shannon Jackson,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569292,Shannon Jackson,H03011,Shipping,Shipping,,1,North,0
+,1569293,Dorothy Dunehew,J07252,Sale,Inventory,Ready to Pick,4,North,9
+,1569293,Dorothy Dunehew,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569293,Dorothy Dunehew,H03011,Shipping,Shipping,,1,North,0
+ ,1569294,Michelle Case,J01937,Sale,Inventory,Ready to Pick,2,North,74
+ ,1569294,Michelle Case,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569294,Michelle Case,H03011,Shipping,Shipping,,1,North,0
+,1569295,Mike Florentine,J08225,Sale,Inventory,Ready to Pick,1,North,50
+,1569295,Mike Florentine,J04894,Sale,Inventory,Ready to Pick,1,North,53
+,1569295,Mike Florentine,J03634,Sale,Inventory,Ready to Pick,1,North,98
+,1569295,Mike Florentine,J07811,Sale,Inventory,Ready to Pick,1,North,80
+,1569295,Mike Florentine,H01684,Sale,Inventory,Ready to Pick,3,North,274
+,1569295,Mike Florentine,H09847,Sale,Inventory,Ready to Pick,1,North,13
+,1569295,Mike Florentine,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569295,Mike Florentine,H03011,Shipping,Shipping,,1,North,0
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+ ,1569296,Mathew Milligan,J04083,Sale,Inventory,Ready to Pick,1,North,40
+ ,1569296,Mathew Milligan,J01334,Sale,Inventory,Ready to Pick,2,North,133
+ ,1569296,Mathew Milligan,J01379,Sale,Inventory,Ready to Pick,2,North,72
+ ,1569296,Mathew Milligan,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569296,Mathew Milligan,H03011,Shipping,Shipping,,1,North,0
+,1569297,patrick young,H09157,Sale,Inventory,Ready to Pick,2,North,71
+,1569297,patrick young,H03011,Shipping,Shipping,,1,North,0
+ ,1569298,Patty Rocheville,J01384,Sale,Inventory,Ready to Pick,1,North,71
+ ,1569298,Patty Rocheville,J01250,Sale,Inventory,Ready to Pick,1,North,18
+,1569299,Kevin McGowan,J00034,Sale,Inventory,Ready to Pick,5,North,74
+,1569299,Kevin McGowan,H03011,Shipping,Shipping,,1,North,0
+ ,1569300,Derrick Turrentine,H08610,Sale,Inventory,Ready to Pick,1,North,48
+ ,1569300,Derrick Turrentine,A0-AEDSB-2y,Sale,Service,,1,North,0
+ ,1569300,Derrick Turrentine,H02490,Sale,Inventory,Ready to Pick,1,North,24
+ ,1569300,Derrick Turrentine,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569301,Charles Cole,H09762,Sale,Inventory,Ready to Pick,1,North,63
+,1569301,Charles Cole,H02240,Sale,Inventory,Ready to Pick,1,North,104
+,1569301,Charles Cole,J06975,Sale,Inventory,Ready to Pick,1,North,16
+,1569301,Charles Cole,J01133,Sale,Inventory,Ready to Pick,1,North,26
+,1569301,Charles Cole,J04289,Sale,Inventory,Ready to Pick,1,North,63
+,1569301,Charles Cole,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569301,Charles Cole,H03011,Shipping,Shipping,,1,North,0
+ ,1569302,Kevin Maguire,J06868,Sale,Inventory,Ready to Pick,1,North,99
+ ,1569302,Kevin Maguire,J07149,Sale,Inventory,Ready to Pick,1,North,61
+ ,1569302,Kevin Maguire,J02684,Sale,Inventory,Ready to Pick,1,North,66
+ ,1569302,Kevin Maguire,H03011,Shipping,Shipping,,1,North,0
+,1569303,Patrick Molloy,J01886,Sale,Inventory,Ready to Pick,2,North,90
+,1569303,Patrick Molloy,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569303,Patrick Molloy,H03011,Shipping,Shipping,,1,North,0
+ ,1569304,Matthew Decker,H07854,Sale,Inventory,Ready to Pick,2,North,92
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+ ,1569304,Matthew Decker,H03011,Shipping,Shipping,,1,North,0
+,1569305,Cameron Peck,J07183,Sale,Inventory,Ready to Pick,1,North,22
+,1569305,Cameron Peck,J07180,Sale,Inventory,Ready to Pick,1,North,19
+,1569305,Cameron Peck,J00402,Sale,Inventory,Ready to Pick,2,North,49
+,1569305,Cameron Peck,J07936,Sale,Inventory,Ready to Pick,1,North,40
+,1569305,Cameron Peck,J01302,Sale,Inventory,Ready to Pick,1,North,31
+,1569305,Cameron Peck,J03796,Sale,Inventory,Ready to Pick,1,North,53
+,1569305,Cameron Peck,J02617,Sale,Inventory,Ready to Pick,1,North,30
+,1569305,Cameron Peck,J04460,Sale,Inventory,Ready to Pick,1,North,43
+,1569305,Cameron Peck,J03638,Sale,Inventory,Ready to Pick,1,North,72
+,1569305,Cameron Peck,J02398,Sale,Inventory,Ready to Pick,1,North,24
+,1569305,Cameron Peck,J02401,Sale,Inventory,Ready to Pick,1,North,74
+,1569305,Cameron Peck,J02404,Sale,Inventory,Ready to Pick,1,North,18
+,1569305,Cameron Peck,J02395,Sale,Inventory,Ready to Pick,1,North,38
+,1569305,Cameron Peck,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569305,Cameron Peck,H03011,Shipping,Shipping,,1,North,0
+ ,1569306,Joshua Cambron,J03618,Sale,Inventory,Ready to Pick,1,North,23
+ ,1569306,Joshua Cambron,J05283,Sale,Inventory,Ready to Pick,2,North,37
+ ,1569306,Joshua Cambron,J05282,Sale,Inventory,Ready to Pick,1,North,19
+ ,1569306,Joshua Cambron,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569306,Joshua Cambron,H03011,Shipping,Shipping,,1,North,0
+,1569307,James Conn,J06576,Sale,Inventory,Ready to Pick,1,North,46
+,1569307,James Conn,J03382,Sale,Inventory,Ready to Pick,1,North,46
+,1569307,James Conn,J06573,Sale,Inventory,Ready to Pick,1,North,92
+,1569307,James Conn,J01128,Sale,Inventory,Ready to Pick,1,North,52
+,1569307,James Conn,H03011,Shipping,Shipping,,1,North,0
+ ,1569308,Logan Hensley,J02040,Sale,Inventory,Ready to Pick,1,North,79
+ ,1569308,Logan Hensley,J00178,Sale,Inventory,Ready to Pick,2,North,118
+ ,1569308,Logan Hensley,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569308,Logan Hensley,H03011,Shipping,Shipping,,1,North,0
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+,1569309,Zakir Mahmudov,H10216,Sale,Inventory,Ready to Pick,1,North,8
+,1569309,Zakir Mahmudov,H03011,Shipping,Shipping,,1,North,0
+ ,1569310,Deanna Buler,J04935,Sale,Inventory,Ready to Pick,4,North,40
+ ,1569310,Deanna Buler,J04941,Sale,Inventory,Ready to Pick,3,North,50
+ ,1569310,Deanna Buler,J04939,Sale,Inventory,Ready to Pick,4,North,50
+ ,1569310,Deanna Buler,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569310,Deanna Buler,H03011,Shipping,Shipping,,1,North,0
+,1569311,Brandon Kosatka,H10184,Sale,Inventory,Ready to Pick,1,North,248
+,1569311,Brandon Kosatka,H10185,Sale,Inventory,Ready to Pick,1,North,254
+,1569311,Brandon Kosatka,H10186,Sale,Inventory,Ready to Pick,1,North,23
+,1569311,Brandon Kosatka,H09941,Sale,Inventory,Ready to Pick,1,North,338
+,1569311,Brandon Kosatka,H10497,Sale,Inventory,Ready to Pick,1,North,183
+,1569311,Brandon Kosatka,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569311,Brandon Kosatka,H03011,Shipping,Shipping,,1,North,0
+ ,1569312,Terry Harris,J04121,Sale,Inventory,Ready to Pick,2,North,49
+ ,1569312,Terry Harris,H03011,Shipping,Shipping,,1,North,0
+,1569313,Chance Fredrick,J03379,Sale,Inventory,Ready to Pick,1,North,103
+,1569313,Chance Fredrick,J06705,Sale,Inventory,Ready to Pick,1,North,40
+,1569313,Chance Fredrick,J03280,Sale,Inventory,Ready to Pick,1,North,10
+,1569313,Chance Fredrick,J04895,Sale,Inventory,Ready to Pick,1,North,23
+,1569313,Chance Fredrick,J00720,Sale,Inventory,Ready to Pick,1,North,49
+,1569313,Chance Fredrick,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569313,Chance Fredrick,H03011,Shipping,Shipping,,1,North,0
+ ,1569314,JAMES TAYLOR,J04526,Sale,Inventory,Ready to Pick,4,North,131
+ ,1569314,JAMES TAYLOR,h09997,Sale,Inventory,Ready to Pick,1,North,13
+ ,1569314,JAMES TAYLOR,H07692,Sale,Inventory,Ready to Pick,3,North,35
+ ,1569314,JAMES TAYLOR,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569314,JAMES TAYLOR,H03011,Shipping,Shipping,,1,North,0
+,1569315,Robert Miller,J01885,Sale,Inventory,Ready to Pick,2,North,42
+,1569315,Robert Miller,ROUTEINS18,Shipping,Shipping,,1,North,0
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+,1569315,Robert Miller,H03011,Shipping,Shipping,,1,North,0
+ ,1569316,Thomas Wyland,J05223,Sale,Inventory,Ready to Pick,4,North,58
+ ,1569316,Thomas Wyland,J00635,Sale,Inventory,Ready to Pick,4,North,70
+ ,1569316,Thomas Wyland,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569316,Thomas Wyland,H03011,Shipping,Shipping,,1,North,0
+,1569317,Chris Amandola,J06851,Sale,Inventory,Ready to Pick,1,North,99
+,1569317,Chris Amandola,J04450,Sale,Inventory,Ready to Pick,1,North,35
+ ,1569318,Julie Devore,H06356,Sale,Inventory,Ready to Pick,1,North,8
+ ,1569318,Julie Devore,J02333,Sale,Inventory,Ready to Pick,10,North,27
+ ,1569318,Julie Devore,H03011,Shipping,Shipping,,1,North,0
+,1569319,LYNNA CAMPBELL,H10185,Sale,Inventory,Ready to Ship,3,North,254
+,1569319,LYNNA CAMPBELL,H09463,Sale,Inventory,Ready to Ship,2,North,231
+,1569319,LYNNA CAMPBELL,H09942,Sale,Inventory,Ready to Ship,1,North,271
+,1569319,LYNNA CAMPBELL,H09939,Sale,Inventory,Ready to Ship,2,North,47
+,1569319,LYNNA CAMPBELL,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569319,LYNNA CAMPBELL,H03011,Shipping,Shipping,,1,North,0
+ ,1569320,Britt Griffin,J01941,Sale,Inventory,Ready to Pick,2,North,8
+ ,1569320,Britt Griffin,J03921,Sale,Inventory,Ready to Pick,4,North,24
+ ,1569320,Britt Griffin,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569320,Britt Griffin,H03011,Shipping,Shipping,,1,North,0
+,1569321,Allyson Smith,H02152,Sale,Inventory,Ready to Ship,3,North,16
+,1569321,Allyson Smith,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569321,Allyson Smith,H03011,Shipping,Shipping,,1,North,0
+ ,1569322,Amanda  Marchitto,J07075,Sale,Inventory,Ready to Ship,1,North,55
+ ,1569322,Amanda  Marchitto,J00088,Sale,Inventory,Ready to Ship,1,North,97
+ ,1569322,Amanda  Marchitto,J02490,Sale,Inventory,Ready to Ship,1,North,73
+ ,1569322,Amanda  Marchitto,J07031,Sale,Inventory,Ready to Ship,1,North,97
+ ,1569322,Amanda  Marchitto,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569322,Amanda  Marchitto,H03011,Shipping,Shipping,,1,North,0
+,1569323,John Weisbecker,J04083,Sale,Inventory,Ready to Ship,1,North,40
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+,1569323,John Weisbecker,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569323,John Weisbecker,H03011,Shipping,Shipping,,1,North,0
+ ,1569324,Megan Kennedy,J05214,Sale,Inventory,Ready to Pick,1,North,28
+ ,1569324,Megan Kennedy,J01334,Sale,Inventory,Ready to Pick,1,North,133
+ ,1569324,Megan Kennedy,J04126,Sale,Inventory,Ready to Pick,1,North,54
+ ,1569324,Megan Kennedy,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569324,Megan Kennedy,H03011,Shipping,Shipping,,1,North,0
+,1569325,Travis Barber,J07873,Sale,Inventory,Ready to Pick,1,North,72
+,1569325,Travis Barber,H09737,Sale,Inventory,Ready to Pick,1,North,172
+,1569325,Travis Barber,H07362,Sale,Inventory,Ready to Pick,1,North,315
+,1569325,Travis Barber,J05280,Sale,Inventory,Ready to Pick,1,North,7
+,1569325,Travis Barber,H03011,Shipping,Shipping,,1,North,0
+ ,1569326,Brad Ubelhor,J08118,Sale,Inventory,Ready to Pick,2,North,85
+ ,1569326,Brad Ubelhor,J08251,Sale,Inventory,Ready to Pick,1,North,74
+ ,1569326,Brad Ubelhor,H05497,Sale,Inventory,Ready to Pick,2,North,101
+ ,1569326,Brad Ubelhor,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569326,Brad Ubelhor,H03011,Shipping,Shipping,,1,North,0
+,1569327,Robert Newman,H08851,Sale,Inventory,Ready to Pick,2,North,145
+,1569327,Robert Newman,J08164,Sale,Inventory,Ready to Pick,2,North,40
+,1569327,Robert Newman,J08240,Sale,Inventory,Ready to Pick,2,North,79
+,1569327,Robert Newman,J07893,Sale,Inventory,Ready to Pick,4,North,20
+,1569327,Robert Newman,J07899,Sale,Inventory,Ready to Pick,2,North,0
+,1569327,Robert Newman,J07600,Sale,Inventory,Ready to Pick,2,North,26
+,1569327,Robert Newman,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569327,Robert Newman,H03011,Shipping,Shipping,,1,North,0
+ ,1569328,William Champion,J07253,Sale,Inventory,Ready to Ship,1,North,35
+ ,1569328,William Champion,H09525,Sale,Inventory,Ready to Ship,1,North,501
+ ,1569328,William Champion,J06528,Sale,Inventory,Ready to Ship,3,North,82
+ ,1569328,William Champion,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569328,William Champion,H03011,Shipping,Shipping,,1,North,0
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+,1569329,Asa Walden,H06848,Sale,Inventory,Ready to Pick,1,North,14
+,1569329,Asa Walden,J04655,Sale,Inventory,Ready to Pick,1,North,97
+,1569329,Asa Walden,H03011,Shipping,Shipping,,1,North,0
+ ,1569330,Trenton May,J02608,Sale,Inventory,Ready to Pick,1,North,82
+ ,1569330,Trenton May,J03796,Sale,Inventory,Ready to Pick,1,North,53
+ ,1569330,Trenton May,H02962,Sale,Inventory,Ready to Pick,1,North,343
+ ,1569330,Trenton May,H03011,Shipping,Shipping,,1,North,0
+,1569331,Kevin CoxSubia,B000047,Sale,Inventory - Bundle,Ready to Pick,1,North,0
+,1569331,Kevin CoxSubia,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569331,Kevin CoxSubia,H03011,Shipping,Shipping,,1,North,0
+ ,1569332,Kayla Kemen,J04122,Sale,Inventory,Ready to Pick,1,North,152
+ ,1569332,Kayla Kemen,H10248,Sale,Inventory,Ready to Pick,1,North,287
+ ,1569332,Kayla Kemen,J05760,Sale,Inventory,Ready to Pick,1,North,49
+ ,1569332,Kayla Kemen,H03011,Shipping,Shipping,,1,North,0
+,1569333,Ryan James,J03791,Sale,Inventory,Ready to Pick,1,North,29
+,1569333,Ryan James,J08172,Sale,Inventory,Ready to Pick,1,North,57
+,1569333,Ryan James,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569333,Ryan James,H03011,Shipping,Shipping,,1,North,0
+ ,1569334,Aaron Schmidt,J00404,Sale,Inventory,Ready to Pick,2,North,96
+ ,1569334,Aaron Schmidt,H03011,Shipping,Shipping,,1,North,0
+,1569335,Jaimie Hickok,J00736,Sale,Inventory,Ready to Ship,3,North,145
+,1569335,Jaimie Hickok,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569335,Jaimie Hickok,H03011,Shipping,Shipping,,1,North,0
+ ,1569336,Katee Tobin,J02949,Sale,Inventory,Ready to Pick,1,North,43
+ ,1569336,Katee Tobin,J00088,Sale,Inventory,Ready to Pick,1,North,97
+ ,1569336,Katee Tobin,J00820,Sale,Inventory,Ready to Pick,1,North,105
+ ,1569336,Katee Tobin,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569336,Katee Tobin,H03011,Shipping,Shipping,,1,North,0
+,1569337,Janet Green,H01791,Sale,Inventory,Ready to Pick,2,North,24
+,1569337,Janet Green,ROUTEINS18,Shipping,Shipping,,1,North,0
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+,1569337,Janet Green,H03011,Shipping,Shipping,,1,North,0
+ ,1569338,Tamika Martin,J01883,Sale,Inventory,Ready to Pick,4,North,64
+ ,1569338,Tamika Martin,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569338,Tamika Martin,H03011,Shipping,Shipping,,1,North,0
+,1569339,Gennadiy Shafranovich,J04357,Sale,Inventory,Ready to Pick,1,North,65
+,1569339,Gennadiy Shafranovich,H08077,Sale,Inventory,Ready to Pick,1,North,250
+,1569339,Gennadiy Shafranovich,H03011,Shipping,Shipping,,1,North,0
+ ,1569340,Jodi Rittman,J02314,Sale,Inventory,Ready to Pick,10,North,72
+ ,1569340,Jodi Rittman,H03011,Shipping,Shipping,,1,North,0
+,1569341,Tara Ridings,J00423,Sale,Inventory,Ready to Pick,4,North,69
+,1569341,Tara Ridings,H03011,Shipping,Shipping,,1,North,0
+ ,1569342,Sarah Gillette,J07105,Sale,Inventory,Ready to Ship,2,North,14
+ ,1569342,Sarah Gillette,H03011,Shipping,Shipping,,1,North,0
+,1569343,Anastasia Soukis,H09262,Sale,Inventory,Ready to Pick,1,North,25
+,1569343,Anastasia Soukis,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569343,Anastasia Soukis,H03011,Shipping,Shipping,,1,North,0
+ ,1569344,AARON Bage,J04258,Sale,Inventory,Ready to Pick,2,North,60
+ ,1569344,AARON Bage,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569344,AARON Bage,H03011,Shipping,Shipping,,1,North,0
+,1569345,Tanner Melius,H09734,Sale,Inventory,Ready to Pick,1,North,17
+,1569345,Tanner Melius,H07362,Sale,Inventory,Ready to Pick,1,North,315
+,1569345,Tanner Melius,H03011,Shipping,Shipping,,1,North,0
+ ,1569346,Jorden Dice,H10353,Sale,Inventory,Ready to Ship,1,North,400
+ ,1569346,Jorden Dice,H10482,Sale,Inventory,Ready to Ship,1,North,72
+ ,1569346,Jorden Dice,H09950,Sale,Inventory,Ready to Ship,2,North,24
+ ,1569346,Jorden Dice,H10486,Sale,Inventory,Ready to Ship,1,North,74
+ ,1569346,Jorden Dice,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569346,Jorden Dice,H03011,Shipping,Shipping,,1,North,0
+,1569347,bri sash,J01958,Sale,Inventory,Ready to Pick,2,North,96
+,1569347,bri sash,H03011,Shipping,Shipping,,1,North,0
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+ ,1569348,Samuel Colletti,H09847,Sale,Inventory,Ready to Pick,1,North,13
+ ,1569348,Samuel Colletti,H01684,Sale,Inventory,Ready to Pick,1,North,274
+ ,1569348,Samuel Colletti,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569348,Samuel Colletti,H03011,Shipping,Shipping,,1,North,0
+,1569349,Samantha Everson,J00978,Sale,Inventory,Ready to Ship,2,North,23
+,1569349,Samantha Everson,H06894,Sale,Inventory,Ready to Ship,1,North,26
+,1569349,Samantha Everson,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569349,Samantha Everson,H03011,Shipping,Shipping,,1,North,0
+ ,1569350,Janet Dalton,J00420,Sale,Inventory,Ready to Pick,8,North,28
+ ,1569350,Janet Dalton,J00423,Sale,Inventory,Ready to Pick,8,North,69
+ ,1569350,Janet Dalton,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569350,Janet Dalton,H03011,Shipping,Shipping,,1,North,0
+,1569351,Hubert Blain,J00960,Sale,Inventory,Ready to Ship,10,North,47
+,1569351,Hubert Blain,H03011,Shipping,Shipping,,1,North,0
+ ,1569352,Brian Ammerman,H09450,Sale,Inventory,Ready to Ship,5,North,61
+ ,1569352,Brian Ammerman,H09437,Sale,Inventory,Ready to Ship,5,North,168
+ ,1569352,Brian Ammerman,H09447,Sale,Inventory,Ready to Ship,5,North,331
+ ,1569352,Brian Ammerman,H08914,Sale,Inventory,Ready to Ship,5,North,354
+ ,1569352,Brian Ammerman,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569352,Brian Ammerman,H03011,Shipping,Shipping,,1,North,0
+,1569353,Brady Shepherd,J00978,Sale,Inventory,Ready to Pick,1,North,23
+,1569353,Brady Shepherd,J00975,Sale,Inventory,Ready to Pick,1,North,102
+,1569353,Brady Shepherd,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569353,Brady Shepherd,H03011,Shipping,Shipping,,1,North,0
+ ,1569354,Efren Justine Ariola,H04837,Sale,Inventory,Ready to Ship,1,North,35
+ ,1569354,Efren Justine Ariola,H09710,Sale,Inventory,Ready to Ship,1,North,225
+ ,1569354,Efren Justine Ariola,J05960,Sale,Inventory,Ready to Ship,1,North,10
+ ,1569354,Efren Justine Ariola,H09706,Sale,Inventory,Ready to Ship,2,North,164
+ ,1569354,Efren Justine Ariola,J01882,Sale,Inventory,Ready to Ship,1,North,49
+ ,1569354,Efren Justine Ariola,ROUTEINS19,Shipping,Shipping,,1,North,0
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+ ,1569354,Efren Justine Ariola,H03011,Shipping,Shipping,,1,North,0
+,1569355,Robert May,J01339,Sale,Inventory,Ready to Pick,6,North,42
+,1569355,Robert May,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569355,Robert May,H03011,Shipping,Shipping,,1,North,0
+ ,1569356,Tracie Morgan,H07134,Sale,Inventory,Ready to Pick,2,North,84
+ ,1569356,Tracie Morgan,H03011,Shipping,Shipping,,1,North,0
+,1569357,Libby Yeager,J02302,Sale,Inventory,Ready to Pick,2,North,71
+,1569357,Libby Yeager,J03791,Sale,Inventory,Ready to Pick,1,North,29
+,1569357,Libby Yeager,J04438,Sale,Inventory,Ready to Pick,1,North,18
+,1569357,Libby Yeager,H09307,Sale,Inventory,Ready to Pick,1,North,18
+,1569357,Libby Yeager,H09308,Sale,Inventory,Ready to Pick,1,North,10
+,1569357,Libby Yeager,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569357,Libby Yeager,H03011,Shipping,Shipping,,1,North,0
+ ,1569358,Yvonne Hyatt,H09662,Sale,Inventory,Ready to Ship,1,North,41
+ ,1569358,Yvonne Hyatt,H09663,Sale,Inventory,Ready to Ship,1,North,197
+ ,1569358,Yvonne Hyatt,H09657,Sale,Inventory,Ready to Ship,1,North,57
+ ,1569358,Yvonne Hyatt,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569358,Yvonne Hyatt,H03011,Shipping,Shipping,,1,North,0
+,1569359,Lacie Fuqua,H10354,Sale,Inventory,Ready to Pick,1,North,392
+,1569359,Lacie Fuqua,H10352,Sale,Inventory,Ready to Pick,4,North,265
+,1569359,Lacie Fuqua,H10353,Sale,Inventory,Ready to Pick,4,North,400
+,1569359,Lacie Fuqua,H03011,Shipping,Shipping,,1,North,0
+ ,1569360,Amber Fenwick,J00719,Sale,Inventory,Ready to Pack,1,North,78
+ ,1569360,Amber Fenwick,J00727,Sale,Inventory,Ready to Pack,1,North,18
+ ,1569360,Amber Fenwick,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569360,Amber Fenwick,H03011,Shipping,Shipping,,1,North,0
+,1569361,Carolyn Rief,J02302,Sale,Inventory,Ready to Pick,15,North,71
+,1569361,Carolyn Rief,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569361,Carolyn Rief,H03011,Shipping,Shipping,,1,North,0
+ ,1569362,"Brownhat, INC",H08568,Sale,Inventory,Ready to Pick,1,North,67
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+ ,1569362,"Brownhat, INC",H03011,Shipping,Shipping,,1,North,0
+,1569363,Sera Bottolfson,J07844,Sale,Inventory,Ready to Pick,1,North,40
+ ,1569364,RAJA  ASSAF,J03604,Sale,Inventory,Ready to Pack,2,North,7
+ ,1569364,RAJA  ASSAF,J00727,Sale,Inventory,Ready to Pack,2,North,18
+ ,1569364,RAJA  ASSAF,H03476,Sale,Inventory,Ready to Pack,2,North,131
+ ,1569364,RAJA  ASSAF,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569364,RAJA  ASSAF,H03011,Shipping,Shipping,,1,North,0
+,1569365,Ryan Hoalt,J00728,Sale,Inventory,Ready to Pick,2,North,78
+,1569365,Ryan Hoalt,J00720,Sale,Inventory,Ready to Pick,2,North,49
+,1569365,Ryan Hoalt,J01230,Sale,Inventory,Ready to Pick,2,North,162
+,1569365,Ryan Hoalt,J00979,Sale,Inventory,Ready to Pick,2,North,12
+,1569365,Ryan Hoalt,J06364,Sale,Inventory,Ready to Pick,2,North,82
+,1569365,Ryan Hoalt,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569365,Ryan Hoalt,H03011,Shipping,Shipping,,1,North,0
+ ,1569366,Peter Potter,H07891,Sale,Inventory,Ready to Pick,2,North,11
+ ,1569366,Peter Potter,H03011,Shipping,Shipping,,1,North,0
+,1569367,John Frasier,J01164,Sale,Inventory,Ready to Pick,2,North,95
+,1569367,John Frasier,J00034,Sale,Inventory,Ready to Pick,2,North,74
+,1569367,John Frasier,ROUTEINS19,Shipping,Shipping,,1,North,0
+,1569367,John Frasier,H03011,Shipping,Shipping,,1,North,0
+ ,1569368,Melissa Thatcher,J01379,Sale,Inventory,Ready to Pick,1,North,72
+ ,1569368,Melissa Thatcher,J07388,Sale,Inventory,Ready to Pick,1,North,20
+ ,1569368,Melissa Thatcher,H03011,Shipping,Shipping,,1,North,0
+,1569369,Melinda Hughes,J00423,Sale,Inventory,Ready to Ship,3,North,69
+,1569369,Melinda Hughes,H09706,Sale,Inventory,Ready to Ship,1,North,164
+,1569369,Melinda Hughes,J08225,Sale,Inventory,Ready to Ship,1,North,50
+,1569369,Melinda Hughes,H09709,Sale,Inventory,Ready to Ship,1,North,330
+,1569369,Melinda Hughes,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569369,Melinda Hughes,H03011,Shipping,Shipping,,1,North,0
+ ,1569370,Allison Bradley,J02333,Sale,Inventory,Ready to Ship,2,North,27
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+ ,1569370,Allison Bradley,H03011,Shipping,Shipping,,1,North,0
+,1569371,Frances Fry,J01166,Sale,Inventory,Ready to Pick,4,North,28
+,1569371,Frances Fry,J01167,Sale,Inventory,Ready to Pick,3,North,38
+,1569371,Frances Fry,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569371,Frances Fry,H03011,Shipping,Shipping,,1,North,0
+ ,1569372,Luigi Caso,J00177,Sale,Inventory,Ready to Pick,2,North,27
+ ,1569372,Luigi Caso,J06531,Sale,Inventory,Ready to Pick,1,North,105
+ ,1569372,Luigi Caso,J05677,Sale,Inventory,Ready to Pick,1,North,68
+ ,1569372,Luigi Caso,J07161,Sale,Inventory,Ready to Pick,1,North,24
+ ,1569372,Luigi Caso,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569372,Luigi Caso,H03011,Shipping,Shipping,,1,North,0
+,1569373,Karrie Edmonds,J01354,Sale,Inventory,Ready to Pick,1,North,85
+,1569373,Karrie Edmonds,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569373,Karrie Edmonds,H03011,Shipping,Shipping,,1,North,0
+ ,1569374,Alex Lambert,J04354,Sale,Inventory,Ready to Ship,2,North,67
+ ,1569374,Alex Lambert,J05657,Sale,Inventory,Ready to Ship,1,North,51
+ ,1569374,Alex Lambert,J05683,Sale,Inventory,Ready to Ship,1,North,23
+ ,1569374,Alex Lambert,J02302,Sale,Inventory,Ready to Ship,1,North,71
+ ,1569374,Alex Lambert,J05674,Sale,Inventory,Ready to Ship,1,North,39
+ ,1569374,Alex Lambert,J02299,Sale,Inventory,Ready to Ship,1,North,43
+ ,1569374,Alex Lambert,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569374,Alex Lambert,H03011,Shipping,Shipping,,1,North,0
+,1569375,Jose soto,J04354,Sale,Inventory,Ready to Pick,1,North,67
+,1569375,Jose soto,J04215,Sale,Inventory,Ready to Pick,1,North,54
+,1569375,Jose soto,J07114,Sale,Inventory,Ready to Pick,1,North,38
+,1569375,Jose soto,J07525,Sale,Inventory,Ready to Pick,1,North,51
+,1569375,Jose soto,J03497,Sale,Inventory,Ready to Pick,1,North,35
+,1569375,Jose soto,J06537,Sale,Inventory,Ready to Pick,1,North,28
+,1569375,Jose soto,J03500,Sale,Inventory,Ready to Pick,1,North,80
+,1569375,Jose soto,ROUTEINS18,Shipping,Shipping,,1,North,0
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+,1569375,Jose soto,H03011,Shipping,Shipping,,1,North,0
+ ,1569376,Oscar Enriquez Jr,J02728,Sale,Inventory,Ready to Pick,5,North,15
+ ,1569376,Oscar Enriquez Jr,H03011,Shipping,Shipping,,1,North,0
+,1569377,Amanda Mcclure,J01883,Sale,Inventory,Ready to Pick,8,North,64
+,1569377,Amanda Mcclure,H03011,Shipping,Shipping,,1,North,0
+ ,1569378,courtney Shinall,H10358,Sale,Inventory,Ready to Pick,1,North,48
+ ,1569378,courtney Shinall,H10351,Sale,Inventory,Ready to Pick,1,North,32
+ ,1569378,courtney Shinall,H10354,Sale,Inventory,Ready to Pick,2,North,392
+ ,1569378,courtney Shinall,H08839,Sale,Inventory,Ready to Pick,1,North,365
+ ,1569378,courtney Shinall,H08855,Sale,Inventory,Ready to Pick,1,North,196
+ ,1569378,courtney Shinall,H09941,Sale,Inventory,Ready to Pick,1,North,338
+ ,1569378,courtney Shinall,H09449,Sale,Inventory,Ready to Pick,1,North,495
+ ,1569378,courtney Shinall,H09450,Sale,Inventory,Ready to Pick,2,North,61
+ ,1569378,courtney Shinall,J08256,Sale,Inventory,Ready to Pick,1,North,49
+ ,1569378,courtney Shinall,J04882,Sale,Inventory,Ready to Pick,1,North,16
+ ,1569378,courtney Shinall,H03011,Shipping,Shipping,,1,North,0
+,1569379,Bill Ray,H09157,Sale,Inventory,Ready to Pack,1,North,71
+,1569379,Bill Ray,J02302,Sale,Inventory,Ready to Pack,1,North,71
+,1569379,Bill Ray,J02296,Sale,Inventory,Ready to Pack,1,North,157
+,1569379,Bill Ray,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569379,Bill Ray,H03011,Shipping,Shipping,,1,North,0
+ ,1569380,Brooke Allred,J01379,Sale,Inventory,Ready to Pick,2,North,72
+ ,1569380,Brooke Allred,H03011,Shipping,Shipping,,1,North,0
+,1569381,Blazed Vapes,J00408,Sale,Inventory,Ready to Pick,2,North,58
+,1569381,Blazed Vapes,H03011,Shipping,Shipping,,1,North,0
+ ,1569382,Blazed Vapes,J08181,Sale,Inventory,Ready to Pick,2,North,18
+ ,1569382,Blazed Vapes,H03011,Shipping,Shipping,,1,North,0
+,1569384,Matt Madrid,J01499,Sale,Inventory,Ready to Pick,1,North,25
+,1569384,Matt Madrid,H04433,Sale,Inventory,Ready to Pick,1,North,117
+,1569384,Matt Madrid,ROUTEINS18,Shipping,Shipping,,1,North,0
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+,1569384,Matt Madrid,H03011,Shipping,Shipping,,1,North,0
+ ,1569385,Yisroel halberstam,H10114,Sale,Inventory,Ready to Pack,2,North,75
+ ,1569385,Yisroel halberstam,H10109,Sale,Inventory,Ready to Pack,1,North,17
+ ,1569385,Yisroel halberstam,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569385,Yisroel halberstam,H03011,Shipping,Shipping,,1,North,0
+,1569386,Rachael Stilwell,J00097,Sale,Inventory,Ready to Pick,1,North,31
+,1569386,Rachael Stilwell,H02240,Sale,Inventory,Ready to Pick,2,North,104
+,1569386,Rachael Stilwell,H07850,Sale,Inventory,Ready to Pick,1,North,170
+,1569386,Rachael Stilwell,H09282,Sale,Inventory,Ready to Pick,1,North,1
+,1569386,Rachael Stilwell,J06364,Sale,Inventory,Ready to Pick,1,North,82
+,1569386,Rachael Stilwell,J06582,Sale,Inventory,Ready to Pick,1,North,38
+,1569386,Rachael Stilwell,J00369,Sale,Inventory,Ready to Pick,1,North,97
+,1569386,Rachael Stilwell,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569386,Rachael Stilwell,H03011,Shipping,Shipping,,1,North,0
+ ,1569387,Peter Greene,J00820,Sale,Inventory,Ready to Pick,1,North,105
+ ,1569387,Peter Greene,J06605,Sale,Inventory,Ready to Pick,1,North,24
+ ,1569387,Peter Greene,H07692,Sale,Inventory,Ready to Pick,1,North,35
+ ,1569387,Peter Greene,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569387,Peter Greene,H03011,Shipping,Shipping,,1,North,0
+,1569388,Jay Lux,H02645,Sale,Inventory,Ready to Pick,3,North,160
+,1569388,Jay Lux,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569388,Jay Lux,H03011,Shipping,Shipping,,1,North,0
+ ,1569389,Christine Wells,J00852,Sale,Inventory,Ready to Pick,1,North,36
+ ,1569389,Christine Wells,J01925,Sale,Inventory,Ready to Pick,1,North,38
+ ,1569389,Christine Wells,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569389,Christine Wells,H03011,Shipping,Shipping,,1,North,0
+,1569390,Joseph Houck,H09647,Sale,Inventory,Ready to Pack,1,North,22
+,1569390,Joseph Houck,H09651,Sale,Inventory,Ready to Pack,1,North,34
+,1569390,Joseph Houck,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569390,Joseph Houck,H03011,Shipping,Shipping,,1,North,0
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+ ,1569391,Buck Shifflett,H03160,Sale,Inventory,Ready to Pack,1,North,374
+ ,1569391,Buck Shifflett,H02498,Sale,Inventory,Ready to Pack,1,North,122
+ ,1569391,Buck Shifflett,J00766,Sale,Inventory,Ready to Pack,1,North,13
+ ,1569391,Buck Shifflett,J03497,Sale,Inventory,Ready to Pack,1,North,35
+ ,1569391,Buck Shifflett,J07483,Sale,Inventory,Ready to Pack,1,North,9
+ ,1569391,Buck Shifflett,H06084,Sale,Inventory,Ready to Pack,1,North,55
+ ,1569391,Buck Shifflett,H03284,Sale,Inventory,Ready to Pack,1,North,15
+ ,1569391,Buck Shifflett,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569391,Buck Shifflett,H03011,Shipping,Shipping,,1,North,0
+,1569392,Jose  Matienzo,J03214,Sale,Inventory,Ready to Pack,1,North,52
+,1569392,Jose  Matienzo,H03011,Shipping,Shipping,,1,North,0
+ ,1569393,Tracey Trout,J01938,Sale,Inventory,Ready to Pick,3,North,35
+ ,1569393,Tracey Trout,J02728,Sale,Inventory,Ready to Pick,2,North,15
+ ,1569393,Tracey Trout,H01791,Sale,Inventory,Ready to Pick,2,North,24
+ ,1569393,Tracey Trout,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569393,Tracey Trout,H03011,Shipping,Shipping,,1,North,0
+,1569394,Blazed Vapes,J06942,Sale,Inventory,Ready to Pick,1,North,33
+,1569394,Blazed Vapes,J00523,Sale,Inventory,Ready to Pick,1,North,37
+,1569394,Blazed Vapes,J01949,Sale,Inventory,Ready to Pick,1,North,18
+,1569394,Blazed Vapes,J01798,Sale,Inventory,Ready to Pick,2,North,127
+,1569394,Blazed Vapes,H03011,Shipping,Shipping,,1,North,0
+ ,1569395,Sundance Southern Vapors,J00761,Sale,Inventory,Ready to Pick,30,North,249
+ ,1569395,Sundance Southern Vapors,J00760,Sale,Inventory,Ready to Pick,30,North,138
+ ,1569395,Sundance Southern Vapors,H03011,Shipping,Shipping,,1,North,0
+,1569397,Kathy Reyna,J04869,Sale,Inventory,Ready to Pick,4,North,22
+,1569397,Kathy Reyna,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569397,Kathy Reyna,H03011,Shipping,Shipping,,1,North,0
+ ,1569398,Angela Hicks,J00212,Sale,Inventory,Ready to Pick,1,North,77
+ ,1569398,Angela Hicks,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569398,Angela Hicks,H03011,Shipping,Shipping,,1,North,0
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+,1569399,Alissa Eaton,J00647,Sale,Inventory,Ready to Pick,2,North,93
+,1569399,Alissa Eaton,H03011,Shipping,Shipping,,1,North,0
+ ,1569400,Manuel Diaz,J07259,Sale,Inventory,Ready to Pick,1,North,49
+ ,1569400,Manuel Diaz,J00751,Sale,Inventory,Ready to Pick,1,North,99
+ ,1569400,Manuel Diaz,J07350,Sale,Inventory,Ready to Pick,1,North,2
+ ,1569400,Manuel Diaz,J01465,Sale,Inventory,Ready to Pick,1,North,33
+ ,1569400,Manuel Diaz,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569400,Manuel Diaz,H03011,Shipping,Shipping,,1,North,0
+,1569401,erik brand,J02314,Sale,Inventory,Ready to Pack,1,North,72
+,1569401,erik brand,J07117,Sale,Inventory,Ready to Pack,1,North,58
+,1569401,erik brand,J07275,Sale,Inventory,Ready to Pack,1,North,56
+,1569401,erik brand,J06534,Sale,Inventory,Ready to Pack,1,North,17
+,1569401,erik brand,H03011,Shipping,Shipping,,1,North,0
+ ,1569402,Jess Bruce,J03451,Sale,Inventory,Ready to Pick,1,North,60
+ ,1569402,Jess Bruce,J03379,Sale,Inventory,Ready to Pick,1,North,103
+ ,1569402,Jess Bruce,H07363,Sale,Inventory,Ready to Pick,5,North,153
+ ,1569402,Jess Bruce,J06169,Sale,Inventory,Ready to Pick,1,North,7
+ ,1569402,Jess Bruce,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569402,Jess Bruce,H03011,Shipping,Shipping,,1,North,0
+,1569403,Gina Burns,J04896,Sale,Inventory,Ready to Pick,1,North,35
+,1569403,Gina Burns,J04889,Sale,Inventory,Ready to Pick,2,North,169
+,1569403,Gina Burns,J04887,Sale,Inventory,Ready to Pick,1,North,15
+,1569403,Gina Burns,H03011,Shipping,Shipping,,1,North,0
+ ,1569404,Nicole Paskowski,J04839,Sale,Inventory,Ready to Pick,1,North,43
+ ,1569404,Nicole Paskowski,J07421,Sale,Inventory,Ready to Pick,1,North,18
+ ,1569404,Nicole Paskowski,J08212,Sale,Inventory,Ready to Pick,1,North,42
+ ,1569404,Nicole Paskowski,J08222,Sale,Inventory,Ready to Pick,1,North,38
+ ,1569404,Nicole Paskowski,J07785,Sale,Inventory,Ready to Pick,1,North,36
+ ,1569404,Nicole Paskowski,J06705,Sale,Inventory,Ready to Pick,1,North,40
+ ,1569404,Nicole Paskowski,H03011,Shipping,Shipping,,1,North,0
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+,1569405,Holly Hogan,J08175,Sale,Inventory,Ready to Pick,1,North,68
+,1569405,Holly Hogan,J04826,Sale,Inventory,Ready to Pick,2,North,84
+,1569405,Holly Hogan,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569405,Holly Hogan,H03011,Shipping,Shipping,,1,North,0
+ ,1569406,betty wallace,J07855,Sale,Inventory,Ready to Pick,1,North,104
+ ,1569406,betty wallace,J00117,Sale,Inventory,Ready to Pick,1,North,16
+ ,1569406,betty wallace,J06360,Sale,Inventory,Ready to Pick,1,North,159
+ ,1569406,betty wallace,J07863,Sale,Inventory,Ready to Pick,1,North,19
+ ,1569406,betty wallace,J07857,Sale,Inventory,Ready to Pick,1,North,46
+ ,1569406,betty wallace,J06436,Sale,Inventory,Ready to Pick,2,North,55
+ ,1569406,betty wallace,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569406,betty wallace,H03011,Shipping,Shipping,,1,North,0
+,1569407,Corey Dukes,J06507,Sale,Inventory,Ready to Pack,1,North,23
+,1569407,Corey Dukes,J07496,Sale,Inventory,Ready to Pack,1,North,35
+,1569407,Corey Dukes,J07481,Sale,Inventory,Ready to Pack,1,North,35
+,1569407,Corey Dukes,J00035,Sale,Inventory,Ready to Pack,1,North,47
+,1569407,Corey Dukes,J00633,Sale,Inventory,Ready to Pack,1,North,44
+,1569407,Corey Dukes,H03011,Shipping,Shipping,,1,North,0
+ ,1569408,Julia Mueller,J06946,Sale,Inventory,Ready to Pack,1,North,22
+ ,1569408,Julia Mueller,J07329,Sale,Inventory,Ready to Pack,1,North,46
+ ,1569408,Julia Mueller,J01462,Sale,Inventory,Ready to Pack,1,North,27
+ ,1569408,Julia Mueller,J08305,Sale,Inventory,Ready to Pack,1,North,92
+ ,1569408,Julia Mueller,J00760,Sale,Inventory,Ready to Pack,1,North,138
+ ,1569408,Julia Mueller,J06512,Sale,Inventory,Ready to Pack,1,North,55
+ ,1569408,Julia Mueller,J02299,Sale,Inventory,Ready to Pack,2,North,43
+ ,1569408,Julia Mueller,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569408,Julia Mueller,H03011,Shipping,Shipping,,1,North,0
+,1569409,michael phipps,J04007,Sale,Inventory,Ready to Pick,1,North,41
+,1569409,michael phipps,J07694,Sale,Inventory,Ready to Pick,1,North,68
+,1569409,michael phipps,H03011,Shipping,Shipping,,1,North,0
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+ ,1569410,greg robinson,J02768,Sale,Inventory,Ready to Pick,1,North,46
+ ,1569410,greg robinson,J03498,Sale,Inventory,Ready to Pick,1,North,50
+ ,1569410,greg robinson,H01684,Sale,Inventory,Ready to Pick,2,North,274
+ ,1569410,greg robinson,H07850,Sale,Inventory,Ready to Pick,1,North,170
+ ,1569410,greg robinson,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569410,greg robinson,H03011,Shipping,Shipping,,1,North,0
+,1569411,Gavin Barnes,J00635,Sale,Inventory,Ready to Pick,1,North,70
+,1569411,Gavin Barnes,J00255,Sale,Inventory,Ready to Pick,1,North,46
+,1569411,Gavin Barnes,J02416,Sale,Inventory,Ready to Pick,1,North,45
+,1569411,Gavin Barnes,J00404,Sale,Inventory,Ready to Pick,5,North,96
+,1569411,Gavin Barnes,J07648,Sale,Inventory,Ready to Pick,1,North,76
+,1569411,Gavin Barnes,ROUTEINS19,Shipping,Shipping,,1,North,0
+,1569411,Gavin Barnes,H03011,Shipping,Shipping,,1,North,0
+ ,1569412,Jess Ward,H08017,Sale,Inventory,Ready to Pick,1,North,285
+ ,1569412,Jess Ward,H03011,Shipping,Shipping,,1,North,0
+,1569413,jeremy rushing,J01276,Sale,Inventory,Ready to Pick,1,North,33
+,1569413,jeremy rushing,H09263,Sale,Inventory,Ready to Pick,1,North,11
+,1569413,jeremy rushing,H09264,Sale,Inventory,Ready to Pick,1,North,13
+ ,1569414,Alan Hefner,H02204,Sale,Inventory,Ready to Pack,1,North,268
+ ,1569414,Alan Hefner,J07694,Sale,Inventory,Ready to Pack,1,North,68
+ ,1569414,Alan Hefner,H08699,Sale,Inventory,Ready to Pack,1,North,30
+ ,1569414,Alan Hefner,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569414,Alan Hefner,H03011,Shipping,Shipping,,1,North,0
+,1569415,Alyssa Ghibellini,H08568,Sale,Inventory,Ready to Pick,1,North,67
+,1569415,Alyssa Ghibellini,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569415,Alyssa Ghibellini,H03011,Shipping,Shipping,,1,North,0
+ ,1569416,Danielle Frate,J07029,Sale,Inventory,Ready to Pack,1,North,96
+ ,1569416,Danielle Frate,J07073,Sale,Inventory,Ready to Pack,1,North,70
+ ,1569416,Danielle Frate,H09612,Sale,Inventory,Ready to Pack,1,North,43
+ ,1569416,Danielle Frate,H03011,Shipping,Shipping,,1,North,0
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+,1569417,Stephanie Martinho,J02629,Sale,Inventory,Ready to Pick,4,North,32
+,1569417,Stephanie Martinho,H03011,Shipping,Shipping,,1,North,0
+ ,1569418,Fire Vapor,J04492,Sale,Inventory,Ready for Pickup,1,North,20
+ ,1569418,Fire Vapor,J02630,Sale,Inventory,Ready for Pickup,5,North,71
+ ,1569418,Fire Vapor,H03011,Shipping,Shipping,,1,North,0
+,1569419,Sheila Brierly,J08245,Sale,Inventory,Ready to Pack,1,North,71
+,1569419,Sheila Brierly,J07218,Sale,Inventory,Ready to Pack,1,North,60
+,1569419,Sheila Brierly,H09349,Sale,Inventory,Ready to Pack,1,North,5
+,1569419,Sheila Brierly,H02240,Sale,Inventory,Ready to Pack,1,North,104
+,1569419,Sheila Brierly,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569419,Sheila Brierly,H03011,Shipping,Shipping,,1,North,0
+ ,1569420,Michael Plasman,J00033,Sale,Inventory,Ready to Pick,1,North,53
+ ,1569420,Michael Plasman,J00034,Sale,Inventory,Ready to Pick,1,North,74
+ ,1569420,Michael Plasman,J04437,Sale,Inventory,Ready to Pick,1,North,18
+ ,1569420,Michael Plasman,J04438,Sale,Inventory,Ready to Pick,1,North,18
+ ,1569420,Michael Plasman,J00063,Sale,Inventory,Ready to Pick,1,North,54
+ ,1569420,Michael Plasman,J00064,Sale,Inventory,Ready to Pick,1,North,53
+ ,1569420,Michael Plasman,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569420,Michael Plasman,H03011,Shipping,Shipping,,1,North,0
+,1569421,Talissa Baird,J02297,Sale,Inventory,Ready to Pack,1,North,17
+,1569421,Talissa Baird,J05681,Sale,Inventory,Ready to Pack,1,North,6
+,1569421,Talissa Baird,H09438,Sale,Inventory,Ready to Pack,2,North,515
+,1569421,Talissa Baird,H09530,Sale,Inventory,Ready to Pack,3,North,194
+,1569421,Talissa Baird,H09533,Sale,Inventory,Ready to Pack,3,North,219
+,1569421,Talissa Baird,H09441,Sale,Inventory,Ready to Pack,4,North,355
+,1569421,Talissa Baird,H03011,Shipping,Shipping,,1,North,0
+ ,1569422,Hollin Drane,J08220,Sale,Inventory,Ready to Pick,6,North,51
+ ,1569422,Hollin Drane,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569422,Hollin Drane,H03011,Shipping,Shipping,,1,North,0
+,1569423,Jeffery Adams,H04433,Sale,Inventory,Ready to Pick,3,North,117
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+,1569423,Jeffery Adams,J01379,Sale,Inventory,Ready to Pick,6,North,72
+,1569423,Jeffery Adams,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569423,Jeffery Adams,H03011,Shipping,Shipping,,1,North,0
+ ,1569424,Yevgeniy Loyko,H09430,Sale,Inventory,Ready to Pick,1,North,80
+ ,1569424,Yevgeniy Loyko,H03011,Shipping,Shipping,,1,North,0
+,1569425,Kenny Mason,J00957,Sale,Inventory,Ready to Pick,15,North,58
+,1569425,Kenny Mason,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569425,Kenny Mason,H03011,Shipping,Shipping,,1,North,0
+ ,1569426,Jennie Braman,J06734,Sale,Inventory,Ready to Pick,1,North,9
+ ,1569426,Jennie Braman,J04488,Sale,Inventory,Ready to Pick,2,North,92
+ ,1569426,Jennie Braman,H03011,Shipping,Shipping,,1,North,0
+,1569427,Amy Hotrum,J02616,Sale,Inventory,Ready to Pick,2,North,91
+,1569427,Amy Hotrum,H08274,Sale,Inventory,Ready to Pick,1,North,3
+,1569427,Amy Hotrum,J00978,Sale,Inventory,Ready to Pick,2,North,23
+,1569427,Amy Hotrum,J06363,Sale,Inventory,Ready to Pick,1,North,17
+,1569427,Amy Hotrum,H03011,Shipping,Shipping,,1,North,0
+ ,1569428,Hope Bergman,J07238,Sale,Inventory,Ready to Pick,1,North,42
+ ,1569428,Hope Bergman,J07228,Sale,Inventory,Ready to Pick,1,North,51
+ ,1569428,Hope Bergman,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569428,Hope Bergman,H03011,Shipping,Shipping,,1,North,0
+,1569429,Tara Rackley,J03922,Sale,Inventory,Ready to Pick,1,North,57
+,1569429,Tara Rackley,J08305,Sale,Inventory,Ready to Pick,1,North,92
+,1569429,Tara Rackley,J07994,Sale,Inventory,Ready to Pick,1,North,61
+,1569429,Tara Rackley,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569429,Tara Rackley,H03011,Shipping,Shipping,,1,North,0
+ ,1569430,Ashley Mangrum,J08283,Sale,Inventory,Ready to Pick,1,North,47
+ ,1569430,Ashley Mangrum,H07694,Sale,Inventory,Ready to Pick,1,North,251
+ ,1569430,Ashley Mangrum,J02039,Sale,Inventory,Ready to Pick,4,North,28
+ ,1569430,Ashley Mangrum,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569430,Ashley Mangrum,H03011,Shipping,Shipping,,1,North,0
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+,1569431,Korey Gergans,J00632,Sale,Inventory,Ready to Pack,4,North,46
+,1569431,Korey Gergans,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569431,Korey Gergans,H03011,Shipping,Shipping,,1,North,0
+ ,1569432,Andrew Lessor,J05680,Sale,Inventory,Ready to Pack,1,North,56
+ ,1569432,Andrew Lessor,J07158,Sale,Inventory,Ready to Pack,3,North,21
+ ,1569432,Andrew Lessor,J00799,Sale,Inventory,Ready to Pack,3,North,83
+ ,1569432,Andrew Lessor,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569432,Andrew Lessor,H03011,Shipping,Shipping,,1,North,0
+,1569433,Johnny Ngo,H09580,Sale,Inventory,Ready to Pack,1,North,8
+,1569433,Johnny Ngo,H09643,Sale,Inventory,Ready to Pack,20,North,175
+,1569433,Johnny Ngo,H03011,Shipping,Shipping,,1,North,0
+ ,1569434,Jeff Diehl,H09157,Sale,Inventory,Ready to Pick,1,North,71
+ ,1569434,Jeff Diehl,H09155,Sale,Inventory,Ready to Pick,1,North,30
+ ,1569434,Jeff Diehl,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569434,Jeff Diehl,H03011,Shipping,Shipping,,1,North,0
+,1569435,Eugene Teso,J01924,Sale,Inventory,Ready to Pack,3,North,34
+,1569435,Eugene Teso,J02629,Sale,Inventory,Ready to Pack,5,North,32
+,1569435,Eugene Teso,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569435,Eugene Teso,H03011,Shipping,Shipping,,1,North,0
+ ,1569436,Orlete  Berardelli,J07713,Sale,Inventory,Ready to Pick,2,North,46
+ ,1569436,Orlete  Berardelli,J01337,Sale,Inventory,Ready to Pick,5,North,26
+ ,1569436,Orlete  Berardelli,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569436,Orlete  Berardelli,H03011,Shipping,Shipping,,1,North,0
+,1569437,David Stokes,J04532,Sale,Inventory,Ready to Pick,1,North,16
+,1569437,David Stokes,J03613,Sale,Inventory,Ready to Pick,2,North,199
+,1569437,David Stokes,H08573,Sale,Inventory,Ready to Pick,1,North,78
+,1569437,David Stokes,H05496,Sale,Inventory,Ready to Pick,1,North,70
+,1569437,David Stokes,J02314,Sale,Inventory,Ready to Pick,12,North,72
+,1569437,David Stokes,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569437,David Stokes,H03011,Shipping,Shipping,,1,North,0
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+ ,1569438,elizabeth Durham,J02767,Sale,Inventory,Ready to Pick,7,North,66
+ ,1569438,elizabeth Durham,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569438,elizabeth Durham,H03011,Shipping,Shipping,,1,North,0
+,1569439,Tim Harrington,J07107,Sale,Inventory,Ready to Pick,1,North,16
+,1569439,Tim Harrington,J02220,Sale,Inventory,Ready to Pick,1,North,102
+,1569439,Tim Harrington,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569439,Tim Harrington,H03011,Shipping,Shipping,,1,North,0
+ ,1569440,Kyle Loyd,J07835,Sale,Inventory,Ready to Pick,1,North,49
+ ,1569440,Kyle Loyd,J07863,Sale,Inventory,Ready to Pick,1,North,19
+ ,1569440,Kyle Loyd,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569440,Kyle Loyd,H03011,Shipping,Shipping,,1,North,0
+,1569441,Russell Ross,J03468,Sale,Inventory,Ready to Pack,3,North,77
+,1569441,Russell Ross,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569441,Russell Ross,H03011,Shipping,Shipping,,1,North,0
+ ,1569442,David Fuentes,J00034,Sale,Inventory,Ready to Pick,3,North,74
+ ,1569442,David Fuentes,J02490,Sale,Inventory,Ready to Pick,2,North,73
+ ,1569442,David Fuentes,H03011,Shipping,Shipping,,1,North,0
+,1569443,James Miller,J00107,Sale,Inventory,Ready to Pack,1,North,69
+,1569443,James Miller,J02768,Sale,Inventory,Ready to Pack,1,North,46
+,1569443,James Miller,H03011,Shipping,Shipping,,1,North,0
+ ,1569444,Elizabeth Vance,J08245,Sale,Inventory,Ready to Pack,1,North,71
+ ,1569444,Elizabeth Vance,J07082,Sale,Inventory,Ready to Pack,1,North,28
+ ,1569444,Elizabeth Vance,H09638,Sale,Inventory,Ready to Pack,1,North,45
+ ,1569444,Elizabeth Vance,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569444,Elizabeth Vance,H03011,Shipping,Shipping,,1,North,0
+,1569445,Michael Hawkins,H00163,Sale,Inventory,Ready to Pick,1,North,292
+,1569445,Michael Hawkins,H02533,Sale,Inventory,Ready to Pick,1,North,202
+,1569445,Michael Hawkins,H03011,Shipping,Shipping,,1,North,0
+ ,1569446,Felicia Robinson,H09264,Sale,Inventory,Ready to Pack,4,North,13
+ ,1569446,Felicia Robinson,H09611,Sale,Inventory,Ready to Pack,1,North,11
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+ ,1569446,Felicia Robinson,J06102,Sale,Inventory,Ready to Pack,3,North,4
+ ,1569446,Felicia Robinson,J04459,Sale,Inventory,Ready to Pack,3,North,58
+ ,1569446,Felicia Robinson,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569446,Felicia Robinson,H03011,Shipping,Shipping,,1,North,0
+,1569447,Andrew Wanat,H05496,Sale,Inventory,Ready to Pack,1,North,70
+,1569447,Andrew Wanat,J06429,Sale,Inventory,Ready to Pack,1,North,69
+,1569447,Andrew Wanat,J00035,Sale,Inventory,Ready to Pack,1,North,47
+,1569447,Andrew Wanat,J04887,Sale,Inventory,Ready to Pack,1,North,15
+,1569447,Andrew Wanat,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569447,Andrew Wanat,H03011,Shipping,Shipping,,1,North,0
+ ,1569448,Emily Parris,J00087,Sale,Inventory,Ready to Pick,1,North,74
+ ,1569448,Emily Parris,J01241,Sale,Inventory,Ready to Pick,1,North,12
+ ,1569448,Emily Parris,H03011,Shipping,Shipping,,1,North,0
+,1569449,DAWN RODERIQUES,H09533,Sale,Inventory,Ready to Pack,20,North,219
+,1569449,DAWN RODERIQUES,H03011,Shipping,Shipping,,1,North,0
+ ,1569450,DOUGLAS PRUITT,J04438,Sale,Inventory,Ready to Pack,3,North,18
+ ,1569450,DOUGLAS PRUITT,J05683,Sale,Inventory,Ready to Pack,3,North,23
+ ,1569450,DOUGLAS PRUITT,H03011,Shipping,Shipping,,1,North,0
+,1569451,madvapes,J05502,Sale,Inventory,Ready to Pick,6,North,68
+,1569451,madvapes,J05501,Sale,Inventory,Ready to Pick,6,North,44
+,1569451,madvapes,H05926,Sale,Inventory,Ready to Pick,25,North,319
+,1569451,madvapes,H05590,Sale,Inventory,Ready to Pick,6,North,198
+,1569451,madvapes,H09230,Sale,Inventory,Ready to Pick,16,North,156
+,1569451,madvapes,H03011,Shipping,Shipping,,1,North,0
+ ,1569452,Rolling Fog Vapor Company,J04128,Sale,Inventory,Ready to Pick,6,North,73
+ ,1569452,Rolling Fog Vapor Company,J04129,Sale,Inventory,Ready to Pick,4,North,78
+ ,1569452,Rolling Fog Vapor Company,J01334,Sale,Inventory,Ready to Pick,2,North,133
+ ,1569452,Rolling Fog Vapor Company,J01379,Sale,Inventory,Ready to Pick,4,North,72
+ ,1569452,Rolling Fog Vapor Company,J06521,Sale,Inventory,Ready to Pick,1,North,29
+ ,1569452,Rolling Fog Vapor Company,J06522,Sale,Inventory,Ready to Pick,3,North,114
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+ ,1569452,Rolling Fog Vapor Company,J00088,Sale,Inventory,Ready to Pick,3,North,97
+ ,1569452,Rolling Fog Vapor Company,J03789,Sale,Inventory,Ready to Pick,2,North,71
+ ,1569452,Rolling Fog Vapor Company,H03011,Shipping,Shipping,,1,North,0
+,1569453,Jamie Erb,H09516,Sale,Inventory,Ready to Pick,1,North,40
+,1569453,Jamie Erb,H09517,Sale,Inventory,Ready to Pick,1,North,22
+,1569453,Jamie Erb,H09518,Sale,Inventory,Ready to Pick,1,North,27
+,1569453,Jamie Erb,H09519,Sale,Inventory,Ready to Pick,1,North,53
+,1569453,Jamie Erb,H09522,Sale,Inventory,Ready to Pick,1,North,31
+,1569453,Jamie Erb,H07850,Sale,Inventory,Ready to Pick,10,North,170
+,1569453,Jamie Erb,H07181,Sale,Inventory,Ready to Pick,3,North,155
+ ,1569454,Robert Beamon,J02314,Sale,Inventory,Ready to Pack,2,North,72
+ ,1569454,Robert Beamon,J03465,Sale,Inventory,Ready to Pack,1,North,7
+ ,1569454,Robert Beamon,J03468,Sale,Inventory,Ready to Pack,1,North,77
+ ,1569454,Robert Beamon,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569454,Robert Beamon,H03011,Shipping,Shipping,,1,North,0
+,1569455,Wendy Walk,J03644,Sale,Inventory,Ready to Pick,1,North,69
+,1569455,Wendy Walk,J06856,Sale,Inventory,Ready to Pick,1,North,52
+,1569455,Wendy Walk,J03375,Sale,Inventory,Ready to Pick,1,North,51
+,1569455,Wendy Walk,J07320,Sale,Inventory,Ready to Pick,1,North,78
+,1569455,Wendy Walk,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569455,Wendy Walk,H03011,Shipping,Shipping,,1,North,0
+ ,1569456,Rigena Dibra,H03908,Sale,Inventory,Ready to Pick,1,North,3
+ ,1569456,Rigena Dibra,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569456,Rigena Dibra,H03011,Shipping,Shipping,,1,North,0
+,1569457,Jaren Kirkham,J07699,Sale,Inventory,Ready to Pick,1,North,103
+,1569457,Jaren Kirkham,H09614,Sale,Inventory,Ready to Pick,1,North,84
+,1569457,Jaren Kirkham,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569457,Jaren Kirkham,H03011,Shipping,Shipping,,1,North,0
+ ,1569458,Chastity Jones,J08294,Sale,Inventory,Ready to Pick,1,North,9
+ ,1569458,Chastity Jones,J07569,Sale,Inventory,Ready to Pick,1,North,8
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+ ,1569458,Chastity Jones,J08282,Sale,Inventory,Ready to Pick,1,North,10
+ ,1569458,Chastity Jones,H08571,Sale,Inventory,Ready to Pick,1,North,37
+ ,1569458,Chastity Jones,H08568,Sale,Inventory,Ready to Pick,1,North,67
+ ,1569458,Chastity Jones,H08570,Sale,Inventory,Ready to Pick,1,North,16
+ ,1569458,Chastity Jones,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569458,Chastity Jones,H03011,Shipping,Shipping,,1,North,0
+,1569459,Josian Sanchez,H02512,Sale,Inventory,Ready to Pack,1,North,33
+,1569459,Josian Sanchez,J06471,Sale,Inventory,Ready to Pack,1,North,72
+,1569459,Josian Sanchez,J06522,Sale,Inventory,Ready to Pack,2,North,114
+,1569459,Josian Sanchez,J04641,Sale,Inventory,Ready to Pack,1,North,83
+,1569459,Josian Sanchez,J04375,Sale,Inventory,Ready to Pack,1,North,42
+,1569459,Josian Sanchez,J04360,Sale,Inventory,Ready to Pack,1,North,99
+,1569459,Josian Sanchez,J04345,Sale,Inventory,Ready to Pack,1,North,131
+,1569459,Josian Sanchez,H03011,Shipping,Shipping,,1,North,0
+ ,1569460,Denis Marshall,H05350,Sale,Inventory,Ready to Pick,2,North,97
+ ,1569460,Denis Marshall,J01167,Sale,Inventory,Ready to Pick,6,North,38
+ ,1569460,Denis Marshall,H03011,Shipping,Shipping,,1,North,0
+,1569461,Chase Wilmath,J00401,Sale,Inventory,Ready to Pick,1,North,140
+,1569461,Chase Wilmath,H09157,Sale,Inventory,Ready to Pick,1,North,71
+,1569461,Chase Wilmath,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569461,Chase Wilmath,H03011,Shipping,Shipping,,1,North,0
+ ,1569462,Pam Preston,H07363,Sale,Inventory,Ready to Pick,2,North,153
+ ,1569462,Pam Preston,H09521,Sale,Inventory,Ready to Pick,1,North,36
+ ,1569462,Pam Preston,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569462,Pam Preston,H03011,Shipping,Shipping,,1,North,0
+,1569463,Paul J Blackford,H09765,Sale,Inventory,Ready to Pick,4,North,205
+,1569463,Paul J Blackford,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569463,Paul J Blackford,H03011,Shipping,Shipping,,1,North,0
+ ,1569464,Laura Bishop,J06975,Sale,Inventory,Ready to Pick,3,North,16
+ ,1569464,Laura Bishop,J05616,Sale,Inventory,Ready to Pick,3,North,126
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+ ,1569464,Laura Bishop,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569464,Laura Bishop,H03011,Shipping,Shipping,,1,North,0
+,1569465,Leesa Bloom,J07329,Sale,Inventory,Ready to Pick,3,North,46
+ ,1569466,dawn burns,J06579,Sale,Inventory,Ready to Pick,2,North,41
+ ,1569466,dawn burns,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569466,dawn burns,H03011,Shipping,Shipping,,1,North,0
+,1569467,Rachel Hechtle,J02233,Sale,Inventory,Ready to Pick,3,North,46
+,1569467,Rachel Hechtle,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569467,Rachel Hechtle,H03011,Shipping,Shipping,,1,North,0
+ ,1569468,Joseph Glusak,H09763,Sale,Inventory,Ready to Pack,1,North,468
+ ,1569468,Joseph Glusak,H01221,Sale,Inventory,Ready to Pack,4,North,60
+ ,1569468,Joseph Glusak,H06932,Sale,Inventory,Ready to Pack,5,North,248
+ ,1569468,Joseph Glusak,J02949,Sale,Inventory,Ready to Pack,4,North,43
+ ,1569468,Joseph Glusak,J02317,Sale,Inventory,Ready to Pack,3,North,91
+ ,1569468,Joseph Glusak,J00371,Sale,Inventory,Ready to Pack,6,North,95
+ ,1569468,Joseph Glusak,H03011,Shipping,Shipping,,1,North,0
+,1569470,Blazed Vapes,H02216,Sale,Inventory,Ready for Pickup,2,North,3
+,1569470,Blazed Vapes,H03011,Shipping,Shipping,,1,North,0
+ ,1569471,CS - Colin Leung,H06932,Sale,Inventory,Ready to Pick,1,North,248
+ ,1569471,CS - Colin Leung,H06933,Sale,Inventory,Ready to Pick,1,North,195
+ ,1569471,CS - Colin Leung,H03011,Shipping,Shipping,,1,North,0
+,1569472,David Gilchrist,J02314,Sale,Inventory,Ready to Pick,20,North,72
+,1569472,David Gilchrist,J02317,Sale,Inventory,Ready to Pick,20,North,91
+,1569472,David Gilchrist,H07181,Sale,Inventory,Ready to Pick,5,North,155
+,1569472,David Gilchrist,H09646,Sale,Inventory,Ready to Pick,1,North,45
+,1569472,David Gilchrist,H09648,Sale,Inventory,Ready to Pick,2,North,11
+,1569472,David Gilchrist,H09652,Sale,Inventory,Ready to Pick,1,North,3
+,1569472,David Gilchrist,H09649,Sale,Inventory,Ready to Pick,1,North,30
+,1569472,David Gilchrist,H08851,Sale,Inventory,Ready to Pick,2,North,145
+,1569472,David Gilchrist,H09417,Sale,Inventory,Ready to Pick,1,North,5
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+,1569472,David Gilchrist,H09420,Sale,Inventory,Ready to Pick,1,North,41
+,1569472,David Gilchrist,H09422,Sale,Inventory,Ready to Pick,1,North,37
+,1569472,David Gilchrist,J01393,Sale,Inventory,Ready to Pick,50,North,228
+,1569472,David Gilchrist,J01392,Sale,Inventory,Ready to Pick,50,North,53
+,1569472,David Gilchrist,H09801,Sale,Inventory,Ready to Pick,2,North,30
+,1569472,David Gilchrist,H09803,Sale,Inventory,Ready to Pick,2,North,14
+,1569472,David Gilchrist,H09804,Sale,Inventory,Ready to Pick,2,North,25
+,1569472,David Gilchrist,H03011,Shipping,Shipping,,1,North,0
+ ,1569473,CS - Colin Leung,H10221,Sale,Inventory,Ready to Pick,2,North,54
+ ,1569473,CS - Colin Leung,H10231,Sale,Inventory,Ready to Pick,2,North,102
+ ,1569473,CS - Colin Leung,H10232,Sale,Inventory,Ready to Pick,2,North,52
+ ,1569473,CS - Colin Leung,H03011,Shipping,Shipping,,1,North,0
+,1569474,Erica Burch,H08851,Sale,Inventory,Ready to Pick,8,North,145
+,1569474,Erica Burch,H09157,Sale,Inventory,Ready to Pick,3,North,71
+,1569474,Erica Burch,h09997,Sale,Inventory,Ready to Pick,2,North,13
+,1569474,Erica Burch,H09973,Sale,Inventory,Ready to Pick,3,North,26
+,1569474,Erica Burch,H09978,Sale,Inventory,Ready to Pick,1,North,18
+,1569474,Erica Burch,H09983,Sale,Inventory,Ready to Pick,1,North,28
+,1569474,Erica Burch,H09981,Sale,Inventory,Ready to Pick,1,North,16
+,1569474,Erica Burch,H09967,Sale,Inventory,Ready to Pick,1,North,65
+,1569474,Erica Burch,H09971,Sale,Inventory,Ready to Pick,1,North,32
+,1569474,Erica Burch,H09968,Sale,Inventory,Ready to Pick,1,North,81
+,1569474,Erica Burch,H09143,Sale,Inventory,Ready to Pick,1,North,9
+,1569474,Erica Burch,H09145,Sale,Inventory,Ready to Pick,1,North,49
+,1569474,Erica Burch,H09148,Sale,Inventory,Ready to Pick,1,North,51
+,1569474,Erica Burch,H09147,Sale,Inventory,Ready to Pick,1,North,13
+,1569474,Erica Burch,H09142,Sale,Inventory,Ready to Pick,1,North,29
+,1569474,Erica Burch,H08725,Sale,Inventory,Ready to Pick,2,North,0
+,1569474,Erica Burch,H09776,Sale,Inventory,Ready to Pick,1,North,76
+,1569474,Erica Burch,H09777,Sale,Inventory,Ready to Pick,1,North,14
+Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+1569474,Erica Burch,H09778,Sale,Inventory,Ready to Pick,1,North,22
+1569474,Erica Burch,H09779,Sale,Inventory,Ready to Pick,1,North,7
+1569474,Erica Burch,H09723,Sale,Inventory,Ready to Pick,1,North,21
+1569474,Erica Burch,H09725,Sale,Inventory,Ready to Pick,1,North,36
+1569474,Erica Burch,H10431,Sale,Inventory,Ready to Pick,5,North,2
+1569474,Erica Burch,H10428,Sale,Inventory,Ready to Pick,4,North,6
+1569474,Erica Burch,H10424,Sale,Inventory,Ready to Pick,10,North,92
+1569474,Erica Burch,H10349,Sale,Inventory,Ready to Pick,10,North,31
+1569474,Erica Burch,H10241,Sale,Inventory,Ready to Pick,10,North,138
+1569474,Erica Burch,J05961,Sale,Inventory,Ready to Pick,2,North,25
+1569474,Erica Burch,J05962,Sale,Inventory,Ready to Pick,1,North,62
+1569474,Erica Burch,J00404,Sale,Inventory,Ready to Pick,5,North,96
+1569474,Erica Burch,J00405,Sale,Inventory,Ready to Pick,3,North,106
+1569474,Erica Burch,J00406,Sale,Inventory,Ready to Pick,2,North,45
+1569474,Erica Burch,J00401,Sale,Inventory,Ready to Pick,5,North,140
+1569474,Erica Burch,J00402,Sale,Inventory,Ready to Pick,2,North,49
+1569474,Erica Burch,J01938,Sale,Inventory,Ready to Pick,3,North,35
+1569474,Erica Burch,J06562,Sale,Inventory,Ready to Pick,2,North,44
+1569474,Erica Burch,J00430,Sale,Inventory,Ready to Pick,2,North,114
+1569474,Erica Burch,J02649,Sale,Inventory,Ready to Pick,2,North,75
+1569474,Erica Burch,J01481,Sale,Inventory,Ready to Pick,2,North,153
+1569474,Erica Burch,J01284,Sale,Inventory,Ready to Pick,2,North,0
+1569474,Erica Burch,J02651,Sale,Inventory,Ready to Pick,5,North,77
+1569474,Erica Burch,J02652,Sale,Inventory,Ready to Pick,1,North,78
+1569474,Erica Burch,J07128,Sale,Inventory,Ready to Pick,4,North,40
+1569474,Erica Burch,J05333,Sale,Inventory,Ready to Pick,2,North,88
+1569474,Erica Burch,J00408,Sale,Inventory,Ready to Pick,2,North,58
+1569474,Erica Burch,H02490,Sale,Inventory,Ready to Pick,2,North,24
+1569474,Erica Burch,H00498,Sale,Inventory,Ready to Pick,2,North,39
+1569474,Erica Burch,H02207,Sale,Inventory,Ready to Pick,2,North,47
+Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+1569474,Erica Burch,H02620,Sale,Inventory,Ready to Pick,3,North,34
+1569474,Erica Burch,H02512,Sale,Inventory,Ready to Pick,2,North,33
+1569474,Erica Burch,J00808,Sale,Inventory,Ready to Pick,5,North,62
+1569474,Erica Burch,H02373,Sale,Inventory,Ready to Pick,2,North,35
+1569474,Erica Burch,H02350,Sale,Inventory,Ready to Pick,2,North,48
+1569474,Erica Burch,J05124,Sale,Inventory,Ready to Pick,2,North,68
+1569474,Erica Burch,J04825,Sale,Inventory,Ready to Pick,1,North,8
+1569474,Erica Burch,J04826,Sale,Inventory,Ready to Pick,1,North,84
+1569474,Erica Burch,J00752,Sale,Inventory,Ready to Pick,3,North,83
+1569474,Erica Burch,J00088,Sale,Inventory,Ready to Pick,2,North,97
+1569474,Erica Burch,J00089,Sale,Inventory,Ready to Pick,2,North,65
+1569474,Erica Burch,J00212,Sale,Inventory,Ready to Pick,3,North,77
+1569474,Erica Burch,J00213,Sale,Inventory,Ready to Pick,1,North,59
+1569474,Erica Burch,J00230,Sale,Inventory,Ready to Pick,3,North,26
+1569474,Erica Burch,J03169,Sale,Inventory,Ready to Pick,3,North,72
+1569474,Erica Burch,J00215,Sale,Inventory,Ready to Pick,2,North,17
+1569474,Erica Burch,J00216,Sale,Inventory,Ready to Pick,1,North,34
+1569474,Erica Burch,J04761,Sale,Inventory,Ready to Pick,2,North,111
+1569474,Erica Burch,J04894,Sale,Inventory,Ready to Pick,2,North,53
+1569474,Erica Burch,J04895,Sale,Inventory,Ready to Pick,2,North,23
+1569474,Erica Burch,J04881,Sale,Inventory,Ready to Pick,2,North,23
+1569474,Erica Burch,J04882,Sale,Inventory,Ready to Pick,4,North,16
+1569474,Erica Burch,J04885,Sale,Inventory,Ready to Pick,4,North,50
+1569474,Erica Burch,J04886,Sale,Inventory,Ready to Pick,1,North,89
+1569474,Erica Burch,J05657,Sale,Inventory,Ready to Pick,4,North,51
+1569474,Erica Burch,J07152,Sale,Inventory,Ready to Pick,2,North,94
+1569474,Erica Burch,J07160,Sale,Inventory,Ready to Pick,1,North,24
+1569474,Erica Burch,J07161,Sale,Inventory,Ready to Pick,4,North,24
+1569474,Erica Burch,J07162,Sale,Inventory,Ready to Pick,1,North,40
+1569474,Erica Burch,J07330,Sale,Inventory,Ready to Pick,4,North,34
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+,1569474,Erica Burch,J06936,Sale,Inventory,Ready to Pick,3,North,13
+,1569474,Erica Burch,J06937,Sale,Inventory,Ready to Pick,2,North,41
+,1569474,Erica Burch,J06946,Sale,Inventory,Ready to Pick,3,North,22
+,1569474,Erica Burch,J06947,Sale,Inventory,Ready to Pick,2,North,65
+,1569474,Erica Burch,J06940,Sale,Inventory,Ready to Pick,1,North,50
+,1569474,Erica Burch,J03522,Sale,Inventory,Ready to Pick,1,North,52
+,1569474,Erica Burch,J03526,Sale,Inventory,Ready to Pick,2,North,165
+,1569474,Erica Burch,J03527,Sale,Inventory,Ready to Pick,2,North,78
+,1569474,Erica Burch,J05659,Sale,Inventory,Ready to Pick,2,North,37
+,1569474,Erica Burch,J03379,Sale,Inventory,Ready to Pick,2,North,103
+,1569474,Erica Burch,J03384,Sale,Inventory,Ready to Pick,3,North,43
+,1569474,Erica Burch,J06943,Sale,Inventory,Ready to Pick,3,North,49
+,1569474,Erica Burch,J06944,Sale,Inventory,Ready to Pick,1,North,49
+,1569474,Erica Burch,J08267,Sale,Inventory,Ready to Pick,4,North,20
+,1569474,Erica Burch,J08253,Sale,Inventory,Ready to Pick,4,North,12
+,1569474,Erica Burch,J03613,Sale,Inventory,Ready to Pick,2,North,199
+,1569474,Erica Burch,J03614,Sale,Inventory,Ready to Pick,2,North,39
+,1569474,Erica Burch,J03616,Sale,Inventory,Ready to Pick,2,North,99
+,1569474,Erica Burch,J05429,Sale,Inventory,Ready to Pick,1,North,99
+,1569474,Erica Burch,H09823,Sale,Inventory,Ready to Pick,1,North,16
+ ,1569476,Angie Kappetein,J07304,Sale,Inventory,Ready to Pick,3,North,97
+ ,1569476,Angie Kappetein,H10331,Sale,Inventory,Ready to Pick,1,North,352
+ ,1569476,Angie Kappetein,H08077,Sale,Inventory,Ready to Pick,4,North,250
+ ,1569476,Angie Kappetein,J07294,Sale,Inventory,Ready to Pick,4,North,27
+ ,1569476,Angie Kappetein,J00369,Sale,Inventory,Ready to Pick,1,North,97
+ ,1569476,Angie Kappetein,H03778,Sale,Inventory,Ready to Pick,4,North,85
+ ,1569476,Angie Kappetein,J03210,Sale,Inventory,Ready to Pick,3,North,15
+ ,1569476,Angie Kappetein,J03212,Sale,Inventory,Ready to Pick,3,North,103
+ ,1569476,Angie Kappetein,ROUTEINS19,Shipping,Shipping,,1,North,0
+ ,1569476,Angie Kappetein,H03011,Shipping,Shipping,,1,North,0
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+,1569477,Donna Crawford,J06947,Sale,Inventory,Ready to Pick,1,North,65
+,1569477,Donna Crawford,H03011,Shipping,Shipping,,1,North,0
+ ,1569478,Brandy haskins,J03663,Sale,Inventory,Ready to Pick,2,North,4
+ ,1569478,Brandy haskins,J04539,Sale,Inventory,Ready to Pick,2,North,133
+ ,1569478,Brandy haskins,J07141,Sale,Inventory,Ready to Pick,2,North,21
+ ,1569478,Brandy haskins,J04661,Sale,Inventory,Ready to Pick,2,North,18
+ ,1569478,Brandy haskins,H03011,Shipping,Shipping,,1,North,0
+,1569479,Anita Scott,H09706,Sale,Inventory,Ready to Pick,1,North,164
+,1569479,Anita Scott,H09708,Sale,Inventory,Ready to Pick,2,North,232
+,1569479,Anita Scott,J06834,Sale,Inventory,Ready to Pick,1,North,25
+,1569479,Anita Scott,J05137,Sale,Inventory,Ready to Pick,1,North,122
+,1569479,Anita Scott,J05423,Sale,Inventory,Ready to Pick,1,North,144
+,1569479,Anita Scott,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569479,Anita Scott,H03011,Shipping,Shipping,,1,North,0
+ ,1569480,Ricky Lucas,H09441,Sale,Inventory,Ready to Pick,1,North,355
+ ,1569480,Ricky Lucas,H09440,Sale,Inventory,Ready to Pick,1,North,314
+ ,1569480,Ricky Lucas,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569480,Ricky Lucas,H03011,Shipping,Shipping,,1,North,0
+,1569481,Leonardo Cabezas Chaves,H09448,Sale,Inventory,Ready to Pick,1,North,313
+,1569481,Leonardo Cabezas Chaves,H09449,Sale,Inventory,Ready to Pick,2,North,495
+,1569481,Leonardo Cabezas Chaves,H09447,Sale,Inventory,Ready to Pick,2,North,331
+,1569481,Leonardo Cabezas Chaves,H09446,Sale,Inventory,Ready to Pick,2,North,278
+,1569481,Leonardo Cabezas Chaves,H09444,Sale,Inventory,Ready to Pick,2,North,67
+,1569481,Leonardo Cabezas Chaves,H09442,Sale,Inventory,Ready to Pick,2,North,195
+,1569481,Leonardo Cabezas Chaves,H09441,Sale,Inventory,Ready to Pick,2,North,355
+,1569481,Leonardo Cabezas Chaves,H09440,Sale,Inventory,Ready to Pick,2,North,314
+,1569481,Leonardo Cabezas Chaves,H09438,Sale,Inventory,Ready to Pick,2,North,515
+,1569481,Leonardo Cabezas Chaves,H09437,Sale,Inventory,Ready to Pick,2,North,168
+,1569481,Leonardo Cabezas Chaves,H03011,Shipping,Shipping,,1,North,0
+ ,1569482,Loretta Morris,H09644,Sale,Inventory,Ready to Pick,6,North,85
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+ ,1569482,Loretta Morris,J03675,Sale,Inventory,Ready to Pick,6,North,99
+ ,1569482,Loretta Morris,ROUTEINS19,Shipping,Shipping,,1,North,0
+ ,1569482,Loretta Morris,H03011,Shipping,Shipping,,1,North,0
+,1569483,Austin Hooper,J08021,Sale,Inventory,Ready to Pick,1,North,28
+,1569483,Austin Hooper,H07016,Sale,Inventory,Ready to Pick,2,North,52
+,1569483,Austin Hooper,H08573,Sale,Inventory,Ready to Pick,1,North,78
+,1569483,Austin Hooper,J03481,Sale,Inventory,Ready to Pick,1,North,53
+,1569483,Austin Hooper,J02388,Sale,Inventory,Ready to Pick,1,North,30
+,1569483,Austin Hooper,J07131,Sale,Inventory,Ready to Pick,1,North,35
+,1569483,Austin Hooper,J05537,Sale,Inventory,Ready to Pick,1,North,95
+,1569483,Austin Hooper,H03011,Shipping,Shipping,,1,North,0
+ ,1569484,Colin Kohlhaus,J03169,Sale,Inventory,Ready to Pick,2,North,72
+ ,1569484,Colin Kohlhaus,H03011,Shipping,Shipping,,1,North,0
+,1569485,Rita Timm,J03221,Sale,Inventory,Ready to Pick,3,North,77
+,1569485,Rita Timm,H09527,Sale,Inventory,Ready to Pick,4,North,80
+,1569485,Rita Timm,H09520,Sale,Inventory,Ready to Pick,1,North,53
+,1569485,Rita Timm,ROUTEINS19,Shipping,Shipping,,1,North,0
+,1569485,Rita Timm,H03011,Shipping,Shipping,,1,North,0
+ ,1569486,RANDALL TAYLOR,J00646,Sale,Inventory,Ready to Pick,3,North,100
+ ,1569486,RANDALL TAYLOR,H08383,Sale,Inventory,Ready to Pick,4,North,37
+ ,1569486,RANDALL TAYLOR,J02616,Sale,Inventory,Ready to Pick,2,North,91
+ ,1569486,RANDALL TAYLOR,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569486,RANDALL TAYLOR,H03011,Shipping,Shipping,,1,North,0
+,1569487,Nikohl Midkiff,J05598,Sale,Inventory,Ready to Pick,1,North,12
+,1569487,Nikohl Midkiff,J01315,Sale,Inventory,Ready to Pick,1,North,82
+,1569487,Nikohl Midkiff,J01379,Sale,Inventory,Ready to Pick,1,North,72
+,1569487,Nikohl Midkiff,H03011,Shipping,Shipping,,1,North,0
+ ,1569488,Michele Ryan,H10119,Sale,Inventory,Ready to Pick,2,North,200
+ ,1569488,Michele Ryan,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569488,Michele Ryan,H03011,Shipping,Shipping,,1,North,0
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+,1569489,Gregory Manning,J02394,Sale,Inventory,Ready to Pick,3,North,43
+,1569489,Gregory Manning,ROUTEINS19,Shipping,Shipping,,1,North,0
+,1569489,Gregory Manning,H03011,Shipping,Shipping,,1,North,0
+ ,1569490,Leonardo Cabezas Chaves,H09947,Sale,Inventory,Ready to Pick,1,North,283
+ ,1569490,Leonardo Cabezas Chaves,H09453,Sale,Inventory,Ready to Pick,2,North,227
+ ,1569490,Leonardo Cabezas Chaves,H09450,Sale,Inventory,Ready to Pick,2,North,61
+ ,1569490,Leonardo Cabezas Chaves,H09449,Sale,Inventory,Ready to Pick,2,North,495
+ ,1569490,Leonardo Cabezas Chaves,H10032,Sale,Inventory,Ready to Pick,2,North,24
+ ,1569490,Leonardo Cabezas Chaves,H10031,Sale,Inventory,Ready to Pick,2,North,110
+ ,1569490,Leonardo Cabezas Chaves,H10029,Sale,Inventory,Ready to Pick,2,North,7
+ ,1569490,Leonardo Cabezas Chaves,H03011,Shipping,Shipping,,1,North,0
+,1569492,Justine Negaard,H04835,Sale,Inventory,Ready to Pick,1,North,26
+,1569492,Justine Negaard,J08180,Sale,Inventory,Ready to Pick,1,North,27
+,1569492,Justine Negaard,H03011,Shipping,Shipping,,1,North,0
+ ,1569493,DEANNE DIEHL,H09463,Sale,Inventory,Ready to Pick,4,North,231
+ ,1569493,DEANNE DIEHL,H03011,Shipping,Shipping,,1,North,0
+,1569494,Kaiden Cloward,H10354,Sale,Inventory,Ready to Pick,1,North,392
+,1569494,Kaiden Cloward,J04885,Sale,Inventory,Ready to Pick,1,North,50
+,1569494,Kaiden Cloward,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569494,Kaiden Cloward,H03011,Shipping,Shipping,,1,North,0
+ ,1569495,MAX CORDELL,J02617,Sale,Inventory,Ready to Pick,1,North,30
+ ,1569495,MAX CORDELL,J00647,Sale,Inventory,Ready to Pick,1,North,93
+ ,1569495,MAX CORDELL,H09157,Sale,Inventory,Ready to Pick,1,North,71
+ ,1569495,MAX CORDELL,J04463,Sale,Inventory,Ready to Pick,1,North,33
+ ,1569495,MAX CORDELL,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569495,MAX CORDELL,H03011,Shipping,Shipping,,1,North,0
+,1569496,Ben Szikszoy,H10223,Sale,Inventory,Ready to Pick,2,North,93
+,1569496,Ben Szikszoy,J02403,Sale,Inventory,Ready to Pick,1,North,29
+,1569496,Ben Szikszoy,J07315,Sale,Inventory,Ready to Pick,1,North,102
+,1569496,Ben Szikszoy,H03011,Shipping,Shipping,,1,North,0
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+ ,1569497,Tanya Milless,H10242,Sale,Inventory,Ready to Pick,1,North,149
+ ,1569497,Tanya Milless,H10241,Sale,Inventory,Ready to Pick,2,North,138
+ ,1569497,Tanya Milless,H09450,Sale,Inventory,Ready to Pick,2,North,61
+ ,1569497,Tanya Milless,H09438,Sale,Inventory,Ready to Pick,2,North,515
+ ,1569497,Tanya Milless,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569497,Tanya Milless,H03011,Shipping,Shipping,,1,North,0
+,1569498,Donna Miner,H07363,Sale,Inventory,Ready to Pick,2,North,153
+,1569498,Donna Miner,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569498,Donna Miner,H03011,Shipping,Shipping,,1,North,0
+ ,1569499,Alex Noorda,H09663,Sale,Inventory,Ready to Pick,2,North,197
+ ,1569499,Alex Noorda,H09662,Sale,Inventory,Ready to Pick,2,North,41
+ ,1569499,Alex Noorda,J04526,Sale,Inventory,Ready to Pick,2,North,131
+ ,1569499,Alex Noorda,J04120,Sale,Inventory,Ready to Pick,3,North,105
+ ,1569499,Alex Noorda,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569499,Alex Noorda,H03011,Shipping,Shipping,,1,North,0
+,1569500,Johnathon Paille,H07850,Sale,Inventory,Ready to Pick,1,North,170
+,1569500,Johnathon Paille,H06085,Sale,Inventory,Ready to Pick,1,North,49
+,1569500,Johnathon Paille,J06851,Sale,Inventory,Ready to Pick,1,North,99
+,1569500,Johnathon Paille,J01164,Sale,Inventory,Ready to Pick,1,North,95
+,1569500,Johnathon Paille,J03374,Sale,Inventory,Ready to Pick,2,North,42
+,1569500,Johnathon Paille,H09846,Sale,Inventory,Ready to Pick,1,North,49
+,1569500,Johnathon Paille,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569500,Johnathon Paille,H03011,Shipping,Shipping,,1,North,0
+ ,1569501,Leonardo Cabezas Chaves,H09939,Sale,Inventory,Ready to Pick,1,North,47
+ ,1569501,Leonardo Cabezas Chaves,H09942,Sale,Inventory,Ready to Pick,1,North,271
+ ,1569501,Leonardo Cabezas Chaves,H10186,Sale,Inventory,Ready to Pick,1,North,23
+ ,1569501,Leonardo Cabezas Chaves,H09530,Sale,Inventory,Ready to Pick,2,North,194
+ ,1569501,Leonardo Cabezas Chaves,H09531,Sale,Inventory,Ready to Pick,2,North,279
+ ,1569501,Leonardo Cabezas Chaves,H09533,Sale,Inventory,Ready to Pick,2,North,219
+ ,1569501,Leonardo Cabezas Chaves,H10240,Sale,Inventory,Ready to Pick,1,North,157
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+ ,1569501,Leonardo Cabezas Chaves,H10236,Sale,Inventory,Ready to Pick,1,North,488
+ ,1569501,Leonardo Cabezas Chaves,H03011,Shipping,Shipping,,1,North,0
+,1569502,Bob Oberg,H03161,Sale,Inventory,Ready to Pick,2,North,159
+,1569502,Bob Oberg,J00401,Sale,Inventory,Ready to Pick,6,North,140
+,1569502,Bob Oberg,H03011,Shipping,Shipping,,1,North,0
+ ,1569503,Darcey Hammond,H10043,Sale,Inventory,Ready to Pick,4,North,71
+ ,1569503,Darcey Hammond,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569503,Darcey Hammond,H03011,Shipping,Shipping,,1,North,0
+,1569504,Shannon Carney,J00371,Sale,Inventory,Ready to Pick,4,North,95
+,1569504,Shannon Carney,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569504,Shannon Carney,H03011,Shipping,Shipping,,1,North,0
+ ,1569505,Adam Hoxha,J04245,Sale,Inventory,Ready to Pick,3,North,98
+ ,1569505,Adam Hoxha,J07302,Sale,Inventory,Ready to Pick,3,North,192
+ ,1569505,Adam Hoxha,J00727,Sale,Inventory,Ready to Pick,5,North,18
+ ,1569505,Adam Hoxha,J00719,Sale,Inventory,Ready to Pick,7,North,78
+ ,1569505,Adam Hoxha,J02490,Sale,Inventory,Ready to Pick,7,North,73
+ ,1569505,Adam Hoxha,J03624,Sale,Inventory,Ready to Pick,7,North,66
+ ,1569505,Adam Hoxha,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569505,Adam Hoxha,H03011,Shipping,Shipping,,1,North,0
+,1569506,Teresa Alexander,J03643,Sale,Inventory,Ready to Pick,2,North,180
+,1569506,Teresa Alexander,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569506,Teresa Alexander,H03011,Shipping,Shipping,,1,North,0
+ ,1569507,Sonja Flynn,J06605,Sale,Inventory,Ready to Pick,4,North,24
+ ,1569507,Sonja Flynn,H03011,Shipping,Shipping,,1,North,0
+,1569508,Melissa Beal,J02314,Sale,Inventory,Ready to Pick,5,North,72
+,1569508,Melissa Beal,J00438,Sale,Inventory,Ready to Pick,2,North,35
+,1569508,Melissa Beal,J00368,Sale,Inventory,Ready to Pick,2,North,84
+,1569508,Melissa Beal,J01882,Sale,Inventory,Ready to Pick,6,North,49
+,1569508,Melissa Beal,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569508,Melissa Beal,H03011,Shipping,Shipping,,1,North,0
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+ ,1569509,Shannon Cox,J06465,Sale,Inventory,Ready to Pick,1,North,35
+ ,1569509,Shannon Cox,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569509,Shannon Cox,H03011,Shipping,Shipping,,1,North,0
+,1569510,Leandro Miguez,J00088,Sale,Inventory,Ready to Pick,10,North,97
+,1569510,Leandro Miguez,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569510,Leandro Miguez,H03011,Shipping,Shipping,,1,North,0
+ ,1569511,Jeff Hurn,J01127,Sale,Inventory,Ready to Pick,1,North,61
+ ,1569511,Jeff Hurn,J03276,Sale,Inventory,Ready to Pick,1,North,91
+ ,1569511,Jeff Hurn,J02626,Sale,Inventory,Ready to Pick,1,North,51
+ ,1569511,Jeff Hurn,H03011,Shipping,Shipping,,1,North,0
+,1569512,Kathy TULL,H02512,Sale,Inventory,Ready to Pick,7,North,33
+,1569512,Kathy TULL,H03011,Shipping,Shipping,,1,North,0
+ ,1569513,Justin McNew,J00117,Sale,Inventory,Ready to Pick,1,North,16
+ ,1569513,Justin McNew,J08280,Sale,Inventory,Ready to Pick,1,North,7
+ ,1569513,Justin McNew,J04869,Sale,Inventory,Ready to Pick,1,North,22
+ ,1569513,Justin McNew,H03011,Shipping,Shipping,,1,North,0
+,1569514,Mark Pedregal,J03379,Sale,Inventory,Ready to Pick,1,North,103
+,1569514,Mark Pedregal,J02220,Sale,Inventory,Ready to Pick,1,North,102
+,1569514,Mark Pedregal,H07363,Sale,Inventory,Ready to Pick,2,North,153
+,1569514,Mark Pedregal,H03011,Shipping,Shipping,,1,North,0
+ ,1569515,Daniel Moore,J04080,Sale,Inventory,Ready to Pick,4,North,37
+ ,1569515,Daniel Moore,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569515,Daniel Moore,H03011,Shipping,Shipping,,1,North,0
+,1569516,Lynetta Tremoulis,J00035,Sale,Inventory,Ready to Pick,3,North,47
+,1569516,Lynetta Tremoulis,J07784,Sale,Inventory,Ready to Pick,6,North,53
+,1569516,Lynetta Tremoulis,H03011,Shipping,Shipping,,1,North,0
+ ,1569517,ailun zhou,J08250,Sale,Inventory,Ready to Pick,1,North,79
+ ,1569517,ailun zhou,H09662,Sale,Inventory,Ready to Pick,1,North,41
+ ,1569517,ailun zhou,H09663,Sale,Inventory,Ready to Pick,1,North,197
+ ,1569517,ailun zhou,H03011,Shipping,Shipping,,1,North,0
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+,1569518,Adam Beck,H03160,Sale,Inventory,Ready to Pick,2,North,374
+,1569518,Adam Beck,H03011,Shipping,Shipping,,1,North,0
+ ,1569519,justin james,J03523,Sale,Inventory,Ready to Pick,2,North,91
+ ,1569519,justin james,J03460,Sale,Inventory,Ready to Pick,1,North,87
+ ,1569519,justin james,H03011,Shipping,Shipping,,1,North,0
+,1569520,Gerhardt Otto,J04340,Sale,Inventory,Ready to Pick,1,North,41
+,1569520,Gerhardt Otto,J02682,Sale,Inventory,Ready to Pick,1,North,67
+,1569520,Gerhardt Otto,H10331,Sale,Inventory,Ready to Pick,2,North,352
+,1569520,Gerhardt Otto,H08915,Sale,Inventory,Ready to Pick,2,North,385
+,1569520,Gerhardt Otto,H09530,Sale,Inventory,Ready to Pick,1,North,194
+,1569520,Gerhardt Otto,J02491,Sale,Inventory,Ready to Pick,2,North,23
+,1569520,Gerhardt Otto,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569520,Gerhardt Otto,H03011,Shipping,Shipping,,1,North,0
+ ,1569521,Jason Behnke,H09530,Sale,Inventory,Ready to Pick,4,North,194
+ ,1569521,Jason Behnke,H03011,Shipping,Shipping,,1,North,0
+,1569522,Matt Sugabo,H10011,Sale,Inventory,Ready to Pick,1,North,37
+,1569522,Matt Sugabo,H09663,Sale,Inventory,Ready to Pick,1,North,197
+,1569522,Matt Sugabo,H03011,Shipping,Shipping,,1,North,0
+ ,1569523,Jack Smothers,H09661,Sale,Inventory,Ready to Pick,1,North,80
+ ,1569523,Jack Smothers,H09663,Sale,Inventory,Ready to Pick,1,North,197
+ ,1569523,Jack Smothers,H09662,Sale,Inventory,Ready to Pick,1,North,41
+ ,1569523,Jack Smothers,J04101,Sale,Inventory,Ready to Pick,2,North,15
+ ,1569523,Jack Smothers,J04108,Sale,Inventory,Ready to Pick,4,North,4
+ ,1569523,Jack Smothers,J07968,Sale,Inventory,Ready to Pick,2,North,55
+ ,1569523,Jack Smothers,J07428,Sale,Inventory,Ready to Pick,4,North,17
+ ,1569523,Jack Smothers,H03011,Shipping,Shipping,,1,North,0
+,1569524,Richard Stratman,H07134,Sale,Inventory,Ready to Pick,3,North,84
+,1569524,Richard Stratman,J07330,Sale,Inventory,Ready to Pick,3,North,34
+,1569524,Richard Stratman,H03011,Shipping,Shipping,,1,North,0
+ ,1569525,Paula Reinbold,J07994,Sale,Inventory,Ready to Pick,1,North,61
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+ ,1569525,Paula Reinbold,H03011,Shipping,Shipping,,1,North,0
+,1569526,Heather Bunting,H09942,Sale,Inventory,Ready to Pick,10,North,271
+,1569526,Heather Bunting,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569526,Heather Bunting,H03011,Shipping,Shipping,,1,North,0
+ ,1569527,Tristan Staines,J00756,Sale,Inventory,Ready to Pick,2,North,424
+ ,1569527,Tristan Staines,J01393,Sale,Inventory,Ready to Pick,1,North,228
+ ,1569527,Tristan Staines,H03011,Shipping,Shipping,,1,North,0
+,1569528,Kris Golden,H09941,Sale,Inventory,Ready to Pick,2,North,338
+,1569528,Kris Golden,H09531,Sale,Inventory,Ready to Pick,3,North,279
+,1569528,Kris Golden,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569528,Kris Golden,H03011,Shipping,Shipping,,1,North,0
+ ,1569529,Josh Pereira,J03482,Sale,Inventory,Ready to Pick,1,North,39
+ ,1569529,Josh Pereira,H10011,Sale,Inventory,Ready to Pick,2,North,37
+ ,1569529,Josh Pereira,H09662,Sale,Inventory,Ready to Pick,2,North,41
+ ,1569529,Josh Pereira,J03925,Sale,Inventory,Ready to Pick,1,North,29
+ ,1569529,Josh Pereira,H09659,Sale,Inventory,Ready to Pick,1,North,41
+ ,1569529,Josh Pereira,ROUTEINS19,Shipping,Shipping,,1,North,0
+ ,1569529,Josh Pereira,H03011,Shipping,Shipping,,1,North,0
+,1569530,Jesus Martinez,J01462,Sale,Inventory,Ready to Pick,1,North,27
+,1569530,Jesus Martinez,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569530,Jesus Martinez,H03011,Shipping,Shipping,,1,North,0
+ ,1569531,Bazaar International Market,H10356,Sale,Inventory,Ready to Pick,80,North,82
+ ,1569531,Bazaar International Market,H10357,Sale,Inventory,Ready to Pick,20,North,377
+ ,1569531,Bazaar International Market,H10355,Sale,Inventory,Ready to Pick,20,North,37
+ ,1569531,Bazaar International Market,H10354,Sale,Inventory,Ready to Pick,30,North,392
+ ,1569531,Bazaar International Market,H10353,Sale,Inventory,Ready to Pick,20,North,400
+ ,1569531,Bazaar International Market,H10352,Sale,Inventory,Ready to Pick,20,North,265
+ ,1569531,Bazaar International Market,H10360,Sale,Inventory,Ready to Pick,20,North,357
+ ,1569531,Bazaar International Market,H10031,Sale,Inventory,Ready to Pick,50,North,110
+ ,1569531,Bazaar International Market,H10240,Sale,Inventory,Ready to Pick,20,North,157
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+ ,1569531,Bazaar International Market,H10245,Sale,Inventory,Ready to Pick,20,North,144
+ ,1569531,Bazaar International Market,H10243,Sale,Inventory,Ready to Pick,20,North,287
+ ,1569531,Bazaar International Market,H10241,Sale,Inventory,Ready to Pick,20,North,138
+ ,1569531,Bazaar International Market,H10032,Sale,Inventory,Ready to Pick,10,North,24
+,1569532,DownSouth Vapors,H09322,Sale,Inventory,Ready to Pick,1,North,23
+,1569532,DownSouth Vapors,H01684,Sale,Inventory,Ready to Pick,1,North,274
+,1569532,DownSouth Vapors,H04524,Sale,Inventory,Ready to Pick,2,North,17
+,1569532,DownSouth Vapors,H09005,Sale,Inventory,Ready to Pick,2,North,293
+,1569532,DownSouth Vapors,H09157,Sale,Inventory,Ready to Pick,3,North,71
+,1569532,DownSouth Vapors,H04560,Sale,Inventory,Ready to Pick,1,North,23
+,1569532,DownSouth Vapors,J01450,Sale,Inventory,Ready to Pick,2,North,74
+,1569532,DownSouth Vapors,H02688,Sale,Inventory,Ready to Pick,1,North,39
+,1569532,DownSouth Vapors,J01456,Sale,Inventory,Ready to Pick,1,North,31
+,1569532,DownSouth Vapors,J01457,Sale,Inventory,Ready to Pick,1,North,19
+,1569532,DownSouth Vapors,J01462,Sale,Inventory,Ready to Pick,2,North,27
+,1569532,DownSouth Vapors,J01463,Sale,Inventory,Ready to Pick,1,North,19
+,1569532,DownSouth Vapors,J01466,Sale,Inventory,Ready to Pick,2,North,19
+,1569532,DownSouth Vapors,J01465,Sale,Inventory,Ready to Pick,1,North,33
+,1569532,DownSouth Vapors,J00212,Sale,Inventory,Ready to Pick,2,North,77
+,1569532,DownSouth Vapors,J00213,Sale,Inventory,Ready to Pick,2,North,59
+,1569532,DownSouth Vapors,J00218,Sale,Inventory,Ready to Pick,1,North,37
+,1569532,DownSouth Vapors,J02553,Sale,Inventory,Ready to Pick,2,North,141
+,1569532,DownSouth Vapors,J02554,Sale,Inventory,Ready to Pick,1,North,119
+,1569532,DownSouth Vapors,J02556,Sale,Inventory,Ready to Pick,2,North,55
+,1569532,DownSouth Vapors,J02557,Sale,Inventory,Ready to Pick,1,North,38
+,1569532,DownSouth Vapors,J03169,Sale,Inventory,Ready to Pick,1,North,72
+,1569532,DownSouth Vapors,J01800,Sale,Inventory,Ready to Pick,1,North,18
+,1569532,DownSouth Vapors,J01801,Sale,Inventory,Ready to Pick,1,North,89
+,1569532,DownSouth Vapors,J01803,Sale,Inventory,Ready to Pick,1,North,59
+,1569532,DownSouth Vapors,J00406,Sale,Inventory,Ready to Pick,1,North,45
+Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+1569532,DownSouth Vapors,J00401,Sale,Inventory,Ready to Pick,5,North,140
+1569532,DownSouth Vapors,J00402,Sale,Inventory,Ready to Pick,1,North,49
+1569532,DownSouth Vapors,J01938,Sale,Inventory,Ready to Pick,1,North,35
+1569532,DownSouth Vapors,J02394,Sale,Inventory,Ready to Pick,1,North,43
+1569532,DownSouth Vapors,J02403,Sale,Inventory,Ready to Pick,1,North,29
+1569532,DownSouth Vapors,J02398,Sale,Inventory,Ready to Pick,1,North,24
+1569532,DownSouth Vapors,J01124,Sale,Inventory,Ready to Pick,1,North,25
+1569532,DownSouth Vapors,J01125,Sale,Inventory,Ready to Pick,1,North,52
+1569532,DownSouth Vapors,J01133,Sale,Inventory,Ready to Pick,1,North,26
+1569532,DownSouth Vapors,J01134,Sale,Inventory,Ready to Pick,1,North,35
+1569532,DownSouth Vapors,J01127,Sale,Inventory,Ready to Pick,1,North,61
+1569532,DownSouth Vapors,J04491,Sale,Inventory,Ready to Pick,1,North,83
+1569532,DownSouth Vapors,J04492,Sale,Inventory,Ready to Pick,1,North,20
+1569532,DownSouth Vapors,J06433,Sale,Inventory,Ready to Pick,1,North,33
+1569532,DownSouth Vapors,J06434,Sale,Inventory,Ready to Pick,1,North,37
+1569532,DownSouth Vapors,J03634,Sale,Inventory,Ready to Pick,1,North,98
+1569532,DownSouth Vapors,J03635,Sale,Inventory,Ready to Pick,1,North,82
+1569532,DownSouth Vapors,J03643,Sale,Inventory,Ready to Pick,1,North,180
+1569532,DownSouth Vapors,J03640,Sale,Inventory,Ready to Pick,1,North,93
+1569532,DownSouth Vapors,J01924,Sale,Inventory,Ready to Pick,1,North,34
+1569532,DownSouth Vapors,J01925,Sale,Inventory,Ready to Pick,1,North,38
+1569532,DownSouth Vapors,J06404,Sale,Inventory,Ready to Pick,1,North,41
+1569532,DownSouth Vapors,J01111,Sale,Inventory,Ready to Pick,4,North,23
+1569532,DownSouth Vapors,J01110,Sale,Inventory,Ready to Pick,2,North,83
+1569532,DownSouth Vapors,J01113,Sale,Inventory,Ready to Pick,1,North,34
+1569532,DownSouth Vapors,J00975,Sale,Inventory,Ready to Pick,1,North,102
+1569532,DownSouth Vapors,J00977,Sale,Inventory,Ready to Pick,1,North,42
+1569532,DownSouth Vapors,J00978,Sale,Inventory,Ready to Pick,1,North,23
+1569532,DownSouth Vapors,J01379,Sale,Inventory,Ready to Pick,1,North,72
+1569532,DownSouth Vapors,J01230,Sale,Inventory,Ready to Pick,3,North,162
+Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+1569532,DownSouth Vapors,J01370,Sale,Inventory,Ready to Pick,1,North,45
+1569532,DownSouth Vapors,J05668,Sale,Inventory,Ready to Pick,1,North,33
+1569532,DownSouth Vapors,J01223,Sale,Inventory,Ready to Pick,1,North,76
+1569532,DownSouth Vapors,J06360,Sale,Inventory,Ready to Pick,2,North,159
+1569532,DownSouth Vapors,J01291,Sale,Inventory,Ready to Pick,1,North,101
+1569532,DownSouth Vapors,J04125,Sale,Inventory,Ready to Pick,1,North,49
+1569532,DownSouth Vapors,J04126,Sale,Inventory,Ready to Pick,1,North,54
+1569532,DownSouth Vapors,J00356,Sale,Inventory,Ready to Pick,1,North,88
+1569532,DownSouth Vapors,J00720,Sale,Inventory,Ready to Pick,2,North,49
+1569532,DownSouth Vapors,J03625,Sale,Inventory,Ready to Pick,1,North,20
+1569532,DownSouth Vapors,J07710,Sale,Inventory,Ready to Pick,1,North,39
+1569532,DownSouth Vapors,J07702,Sale,Inventory,Ready to Pick,1,North,10
+1569532,DownSouth Vapors,J07704,Sale,Inventory,Ready to Pick,1,North,29
+1569532,DownSouth Vapors,J00088,Sale,Inventory,Ready to Pick,1,North,97
+1569532,DownSouth Vapors,J00089,Sale,Inventory,Ready to Pick,1,North,65
+1569532,DownSouth Vapors,J03789,Sale,Inventory,Ready to Pick,1,North,71
+1569532,DownSouth Vapors,J01164,Sale,Inventory,Ready to Pick,1,North,95
+1569532,DownSouth Vapors,J06976,Sale,Inventory,Ready to Pick,1,North,25
+1569532,DownSouth Vapors,J07783,Sale,Inventory,Ready to Pick,2,North,44
+1569532,DownSouth Vapors,J07784,Sale,Inventory,Ready to Pick,1,North,53
+1569532,DownSouth Vapors,J00035,Sale,Inventory,Ready to Pick,1,North,47
+1569532,DownSouth Vapors,J03922,Sale,Inventory,Ready to Pick,2,North,57
+1569532,DownSouth Vapors,J07994,Sale,Inventory,Ready to Pick,2,North,61
+1569532,DownSouth Vapors,J02296,Sale,Inventory,Ready to Pick,1,North,157
+1569532,DownSouth Vapors,J02299,Sale,Inventory,Ready to Pick,2,North,43
+1569532,DownSouth Vapors,J02295,Sale,Inventory,Ready to Pick,1,North,50
+1569532,DownSouth Vapors,J02302,Sale,Inventory,Ready to Pick,2,North,71
+1569532,DownSouth Vapors,J02303,Sale,Inventory,Ready to Pick,1,North,36
+1569532,DownSouth Vapors,J03791,Sale,Inventory,Ready to Pick,2,North,29
+1569532,DownSouth Vapors,J03792,Sale,Inventory,Ready to Pick,1,North,67
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+,1569532,DownSouth Vapors,J05680,Sale,Inventory,Ready to Pick,1,North,56
+,1569532,DownSouth Vapors,J05681,Sale,Inventory,Ready to Pick,1,North,6
+,1569532,DownSouth Vapors,J05674,Sale,Inventory,Ready to Pick,1,North,39
+,1569532,DownSouth Vapors,J05671,Sale,Inventory,Ready to Pick,1,North,72
+,1569532,DownSouth Vapors,J07031,Sale,Inventory,Ready to Pick,1,North,97
+,1569532,DownSouth Vapors,J07075,Sale,Inventory,Ready to Pick,1,North,55
+,1569532,DownSouth Vapors,J01354,Sale,Inventory,Ready to Pick,1,North,85
+,1569532,DownSouth Vapors,J01303,Sale,Inventory,Ready to Pick,1,North,46
+,1569532,DownSouth Vapors,J01302,Sale,Inventory,Ready to Pick,1,North,31
+,1569532,DownSouth Vapors,J04041,Sale,Inventory,Ready to Pick,1,North,64
+,1569532,DownSouth Vapors,J07025,Sale,Inventory,Ready to Pick,2,North,47
+,1569532,DownSouth Vapors,J03615,Sale,Inventory,Ready to Pick,2,North,45
+,1569532,DownSouth Vapors,H03011,Shipping,Shipping,,1,North,0
+ ,1569533,Mile High Vapors,H09740,Sale,Inventory,Ready to Pick,2,North,92
+ ,1569533,Mile High Vapors,H09733,Sale,Inventory,Ready to Pick,2,North,25
+ ,1569533,Mile High Vapors,H09739,Sale,Inventory,Ready to Pick,2,North,46
+ ,1569533,Mile High Vapors,H09147,Sale,Inventory,Ready to Pick,1,North,13
+ ,1569533,Mile High Vapors,H09143,Sale,Inventory,Ready to Pick,1,North,9
+ ,1569533,Mile High Vapors,H09150,Sale,Inventory,Ready to Pick,1,North,17
+ ,1569533,Mile High Vapors,H09149,Sale,Inventory,Ready to Pick,1,North,59
+ ,1569533,Mile High Vapors,H03011,Shipping,Shipping,,1,North,0
+,1569534,Dan Fortier,J02748,Sale,Inventory,Ready to Ship,8,North,4
+,1569534,Dan Fortier,J02749,Sale,Inventory,Ready to Ship,3,North,35
+,1569534,Dan Fortier,J01549,Sale,Inventory,Ready to Ship,4,North,53
+,1569534,Dan Fortier,J01550,Sale,Inventory,Ready to Ship,2,North,53
+,1569534,Dan Fortier,J06486,Sale,Inventory,Ready to Ship,10,North,36
+,1569534,Dan Fortier,J06485,Sale,Inventory,Ready to Ship,6,North,55
+,1569534,Dan Fortier,J06484,Sale,Inventory,Ready to Ship,10,North,82
+,1569534,Dan Fortier,J06483,Sale,Inventory,Ready to Ship,8,North,50
+,1569534,Dan Fortier,J06482,Sale,Inventory,Ready to Ship,10,North,10
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+,1569534,Dan Fortier,J06481,Sale,Inventory,Ready to Ship,8,North,44
+,1569534,Dan Fortier,J06480,Sale,Inventory,Ready to Ship,8,North,90
+,1569534,Dan Fortier,J06479,Sale,Inventory,Ready to Ship,8,North,59
+,1569534,Dan Fortier,J06934,Sale,Inventory,Ready to Ship,5,North,49
+,1569534,Dan Fortier,J06933,Sale,Inventory,Ready to Ship,5,North,50
+,1569534,Dan Fortier,H03011,Shipping,Shipping,,1,North,0
+ ,1569535,Jeremy Smith,H09762,Sale,Inventory,Ready to Pack,1,North,63
+ ,1569535,Jeremy Smith,H09158,Sale,Inventory,Ready to Pack,5,North,44
+ ,1569535,Jeremy Smith,H09209,Sale,Inventory,Ready to Pack,20,North,227
+ ,1569535,Jeremy Smith,H09230,Sale,Inventory,Ready to Pack,25,North,156
+ ,1569535,Jeremy Smith,H09210,Sale,Inventory,Ready to Pack,25,North,68
+ ,1569535,Jeremy Smith,H03011,Shipping,Shipping,,1,North,0
+,1569537,Sophia Lott,H10237,Sale,Inventory,Ready to Pick,1,North,168
+,1569537,Sophia Lott,H10226,Sale,Inventory,Ready to Pick,5,North,96
+,1569537,Sophia Lott,J07691,Sale,Inventory,Ready to Pick,1,North,111
+,1569537,Sophia Lott,H09208,Sale,Inventory,Ready to Pick,1,North,50
+,1569537,Sophia Lott,H09209,Sale,Inventory,Ready to Pick,1,North,227
+,1569537,Sophia Lott,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569537,Sophia Lott,H03011,Shipping,Shipping,,1,North,0
+ ,1569538,Benjamin Kolek,H09733,Sale,Inventory,Ready to Pick,1,North,25
+ ,1569538,Benjamin Kolek,H07362,Sale,Inventory,Ready to Pick,1,North,315
+ ,1569538,Benjamin Kolek,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569538,Benjamin Kolek,H03011,Shipping,Shipping,,1,North,0
+,1569539,Alexandra Ankele,H07134,Sale,Inventory,Ready to Pick,2,North,84
+,1569539,Alexandra Ankele,J02949,Sale,Inventory,Ready to Pick,1,North,43
+,1569539,Alexandra Ankele,J00719,Sale,Inventory,Ready to Pick,1,North,78
+,1569539,Alexandra Ankele,ROUTEINS18,Shipping,Shipping,,1,North,0
+,1569539,Alexandra Ankele,H03011,Shipping,Shipping,,1,North,0
+ ,1569540,Teresa Hugo,J03879,Sale,Inventory,Ready to Pick,1,North,60
+ ,1569540,Teresa Hugo,J08268,Sale,Inventory,Ready to Pick,1,North,16
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+ ,1569540,Teresa Hugo,J08160,Sale,Inventory,Ready to Pick,1,North,46
+ ,1569540,Teresa Hugo,J08164,Sale,Inventory,Ready to Pick,1,North,40
+ ,1569540,Teresa Hugo,ROUTEINS18,Shipping,Shipping,,1,North,0
+ ,1569540,Teresa Hugo,H03011,Shipping,Shipping,,1,North,0
+,1569541,Traci Imbrogno,J03528,Sale,Inventory,Ready to Pick,1,North,163
+,1569541,Traci Imbrogno,H03011,Shipping,Shipping,,1,North,0
+ ,1569545,Keith Hamilton,J07359,Sale,Inventory,Ready to Pick,5,North,30
+ ,1569545,Keith Hamilton,J07360,Sale,Inventory,Ready to Pick,10,North,27
+ ,1569545,Keith Hamilton,J07361,Sale,Inventory,Ready to Pick,5,North,29
+ ,1569545,Keith Hamilton,J07362,Sale,Inventory,Ready to Pick,5,North,21
+ ,1569545,Keith Hamilton,J07375,Sale,Inventory,Ready to Pick,5,North,6
+ ,1569545,Keith Hamilton,J07377,Sale,Inventory,Ready to Pick,5,North,22
+ ,1569545,Keith Hamilton,J07365,Sale,Inventory,Ready to Pick,15,North,30
+ ,1569545,Keith Hamilton,J07366,Sale,Inventory,Ready to Pick,10,North,30
+ ,1569545,Keith Hamilton,J07368,Sale,Inventory,Ready to Pick,10,North,30
+ ,1569545,Keith Hamilton,H03011,Shipping,Shipping,,1,North,0
+,1569546,Modern Smoking Solutions,H10109,Sale,Inventory,Ready to Pick,1,North,17
+,1569546,Modern Smoking Solutions,H10110,Sale,Inventory,Ready to Pick,1,North,22
+,1569546,Modern Smoking Solutions,H07969,Sale,Inventory,Ready to Pick,1,North,11
+,1569546,Modern Smoking Solutions,H07970,Sale,Inventory,Ready to Pick,1,North,14
+,1569546,Modern Smoking Solutions,H07971,Sale,Inventory,Ready to Pick,1,North,6
+,1569546,Modern Smoking Solutions,H07972,Sale,Inventory,Ready to Pick,1,North,23
+,1569546,Modern Smoking Solutions,H03161,Sale,Inventory,Ready to Pick,6,North,159
+,1569546,Modern Smoking Solutions,H09353,Sale,Inventory,Ready to Pick,1,North,46
+,1569546,Modern Smoking Solutions,H09355,Sale,Inventory,Ready to Pick,1,North,2
+,1569546,Modern Smoking Solutions,J07755,Sale,Inventory,Ready to Pick,3,North,11
+,1569546,Modern Smoking Solutions,J07756,Sale,Inventory,Ready to Pick,1,North,2
+,1569546,Modern Smoking Solutions,J03236,Sale,Inventory,Ready to Pick,3,North,64
+,1569546,Modern Smoking Solutions,J03237,Sale,Inventory,Ready to Pick,2,North,39
+,1569546,Modern Smoking Solutions,J02329,Sale,Inventory,Ready to Pick,2,North,75
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+,1569546,Modern Smoking Solutions,J02330,Sale,Inventory,Ready to Pick,2,North,65
+,1569546,Modern Smoking Solutions,J01445,Sale,Inventory,Ready to Pick,2,North,49
+,1569546,Modern Smoking Solutions,H03011,Shipping,Shipping,,1,North,0
+ ,1569547,Fire Vapor,J06093,Sale,Inventory,Ready to Pick,2,North,0
+ ,1569547,Fire Vapor,H03011,Shipping,Shipping,,1,North,0
+,1569548,Blazed Vapes,J04335,Sale,Inventory,Ready to Pick,1,North,95
+,1569548,Blazed Vapes,J04337,Sale,Inventory,Ready to Pick,1,North,54
+,1569548,Blazed Vapes,H03011,Shipping,Shipping,,1,North,0
+ ,1569549,Matt Rogers,H05590,Sale,Inventory,Ready to Pick,8,North,198
+ ,1569549,Matt Rogers,H05349,Sale,Inventory,Ready to Pick,2,North,79
+ ,1569549,Matt Rogers,H00602,Sale,Inventory,Ready to Pick,1,North,35
+ ,1569549,Matt Rogers,H00604,Sale,Inventory,Ready to Pick,1,North,0
+ ,1569549,Matt Rogers,H00606,Sale,Inventory,Ready to Pick,2,North,17
+ ,1569549,Matt Rogers,H00607,Sale,Inventory,Ready to Pick,1,North,22
+ ,1569549,Matt Rogers,H00608,Sale,Inventory,Ready to Pick,2,North,70
+ ,1569549,Matt Rogers,H03139,Sale,Inventory,Ready to Pick,1,North,21
+ ,1569549,Matt Rogers,H07969,Sale,Inventory,Ready to Pick,2,North,11
+ ,1569549,Matt Rogers,H07970,Sale,Inventory,Ready to Pick,2,North,14
+ ,1569549,Matt Rogers,H07971,Sale,Inventory,Ready to Pick,2,North,6
+ ,1569549,Matt Rogers,H10007,Sale,Inventory,Ready to Pick,2,North,35
+ ,1569549,Matt Rogers,H09660,Sale,Inventory,Ready to Pick,2,North,55
+ ,1569549,Matt Rogers,H09661,Sale,Inventory,Ready to Pick,2,North,80
+ ,1569549,Matt Rogers,H03161,Sale,Inventory,Ready to Pick,10,North,159
+ ,1569549,Matt Rogers,H00586,Sale,Inventory,Ready to Pick,4,North,278
+ ,1569549,Matt Rogers,H01545,Sale,Inventory,Ready to Pick,4,North,66
+ ,1569549,Matt Rogers,H01543,Sale,Inventory,Ready to Pick,2,North,129
+ ,1569549,Matt Rogers,H04433,Sale,Inventory,Ready to Pick,2,North,117
+ ,1569549,Matt Rogers,H04524,Sale,Inventory,Ready to Pick,10,North,17
+ ,1569549,Matt Rogers,H08564,Sale,Inventory,Ready to Pick,2,North,43
+ ,1569549,Matt Rogers,H08566,Sale,Inventory,Ready to Pick,2,North,91
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+ ,1569549,Matt Rogers,H08567,Sale,Inventory,Ready to Pick,2,North,97
+ ,1569549,Matt Rogers,H08570,Sale,Inventory,Ready to Pick,2,North,16
+ ,1569549,Matt Rogers,H09525,Sale,Inventory,Ready to Pick,20,North,501
+ ,1569549,Matt Rogers,H02432,Sale,Inventory,Ready to Pick,20,North,315
+ ,1569549,Matt Rogers,H05446,Sale,Inventory,Ready to Pick,5,North,173
+ ,1569549,Matt Rogers,J01501,Sale,Inventory,Ready to Pick,14,North,68
+ ,1569549,Matt Rogers,J01502,Sale,Inventory,Ready to Pick,14,North,60
+ ,1569549,Matt Rogers,H06085,Sale,Inventory,Ready to Pick,4,North,49
+ ,1569549,Matt Rogers,H00537,Sale,Inventory,Ready to Pick,4,North,55
+ ,1569549,Matt Rogers,H00526,Sale,Inventory,Ready to Pick,10,North,23
+ ,1569549,Matt Rogers,H06895,Sale,Inventory,Ready to Pick,20,North,142
+ ,1569549,Matt Rogers,H07136,Sale,Inventory,Ready to Pick,2,North,240
+,1569550,"Brownhat, INC",J02419,Sale,Inventory,Ready to Pick,1,North,83
+,1569550,"Brownhat, INC",J00892,Sale,Inventory,Ready to Pick,1,North,42
+,1569550,"Brownhat, INC",H07693,Sale,Inventory,Ready to Pick,1,North,183
+,1569550,"Brownhat, INC",H08568,Sale,Inventory,Ready to Pick,1,North,67
+,1569550,"Brownhat, INC",H03011,Shipping,Shipping,,1,North,0
+ ,1569551,"Brownhat, INC",J00961,Sale,Inventory,Ready to Pick,1,North,72
+ ,1569551,"Brownhat, INC",J00958,Sale,Inventory,Ready to Pick,1,North,57
+ ,1569551,"Brownhat, INC",J00728,Sale,Inventory,Ready to Pick,1,North,78
+ ,1569551,"Brownhat, INC",H03011,Shipping,Shipping,,1,North,0
+,1569552,"Brownhat, INC",J00426,Sale,Inventory,Ready to Pick,1,North,61
+,1569552,"Brownhat, INC",J02417,Sale,Inventory,Ready to Pick,1,North,40
+,1569552,"Brownhat, INC",J01359,Sale,Inventory,Ready to Pick,1,North,121
+,1569552,"Brownhat, INC",H03011,Shipping,Shipping,,1,North,0
+ ,1569553,"Brownhat, INC",J02419,Sale,Inventory,Ready to Pick,1,North,83
+ ,1569553,"Brownhat, INC",H03011,Shipping,Shipping,,1,North,0
+,1569554,"Brownhat, INC",H09637,Sale,Inventory,Ready to Pick,1,North,6
+,1569554,"Brownhat, INC",H03011,Shipping,Shipping,,1,North,0
+ ,1569555,"Brownhat, INC",H09637,Sale,Inventory,Ready to Pick,1,North,6
+,Sales Order #,Customer Name,Part #,Line Type,Part Type,Line Status,Qty Ordered,Site,Avail. to Pick
+ ,1569555,"Brownhat, INC",H09636,Sale,Inventory,Ready to Pick,1,North,75
+ ,1569555,"Brownhat, INC",H03011,Shipping,Shipping,,1,North,0
+,1569556,"Brownhat, INC",H09636,Sale,Inventory,Ready to Pick,1,North,75
+,1569556,"Brownhat, INC",H03011,Shipping,Shipping,,1,North,0
+>>>>>>> eb48091f8fa14ec72a762cd61f41f0ee34e3746c
