@@ -2,9 +2,15 @@
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 <head>
     @include('includes.head')
+    
+    <script src="{{ asset('js/app.js') }}" ></script>
+
 </head>
+
+@yield('script')
+
 <body>
-    <div id="app">
+    <div >
         <nav class="navbar navbar-expand-md navbar-light navbar-laravel">
             <div class="container">
                 <a class="navbar-brand" href="{{ url('/') }}">
@@ -56,18 +62,18 @@
             </div>
         </nav>
 
-    <div class="container-fluid mt-3">
-        <div class="row">
-            @include('includes.header')
-        </div>
-        <div id="main" class="row">
-                @yield('content')
-        </div>
+        <div class="container-fluid mt-3">
+            <div class="row">
+                @include('includes.header')
+            </div>
+            <div id="main" class="row">
+                    @yield('content')
+            </div>
 
-        <footer class="row">
-            @include('includes.footer')
-        </footer>
-    </div>
+            <footer class="row">
+                @include('includes.footer')
+            </footer>
+        </div>
 
 
     </div>

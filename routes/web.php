@@ -26,3 +26,4 @@ Route::get('/getyesterdaydata', 'ReportController@getYesterdayData');
 Auth::routes();
 
 Route::get('/home', 'ReportController@dashboard')->name('home');
+Route::get('/statistics', 'ReportController@statistics');

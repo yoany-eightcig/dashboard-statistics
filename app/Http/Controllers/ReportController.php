@@ -3,6 +3,8 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use Carbon\Carbon;
+use App\Employee;
 
 class ReportController extends Controller
 {
@@ -18,24 +20,15 @@ class ReportController extends Controller
         "Jay Ruiz",
         "Maria Osborne",
         "Joshua Schoon"
-        //"Michael Sommermeyer",
-        //"Bakari Criss",
-        //"Ricky Espinosa",
-        //"Marlai Gborkorquellie"
 	];
 
     protected $group_retail_pack = [
         "Hongxi Feng",
         "Claudia Ponce",
-        //"Ferdinand Furino",
-        //"Shulin Lu",
         "xinli wu",
-        //"Yan Foster",
-        //"yanchun li",
         "Zhong Li",
         "Daniela Vega",
         "qingdong liu",
-        //"yanling Zhang",
         "Kalvyn Moreno",
         "Chuanqiu Yu",
         "Qianghua Chen"
@@ -47,18 +40,13 @@ class ReportController extends Controller
         "Amy Radigan",
         "Annie Wang",
         "Betty Peng",
-        //"Bo Lai",
-        //"Chuck Zhang",
         "Francisco Rosario",
-        //"Joccelyn Favela",
-        //"Keen Lam",
-        //"Peng Goldstein",
         "Simon Wu",
         "Vincent Cuaresma",
-        //"wenlong yan",
         "irving hernandez",
         "yanchun li",
-        "Runfa Wei"
+        "Runfa Wei",
+        "yuhao Guan"
 	];
 
 
@@ -67,20 +55,161 @@ class ReportController extends Controller
         "Amy Radigan",
         "Annie Wang",
         "Betty Peng",
-        //"Bo Lai",
-        //"Chuck Zhang",
         "Francisco Rosario",
-        //"Joccelyn Favela",
-        //"Keen Lam",
-        //"Peng Goldstein",
         "Simon Wu",
         "Vincent Cuaresma",
-        //"wenlong yan",
         "irving hernandez",
         "yanchun li",
-        "Runfa Wei"
-        //"yanling Zhang"
+        "Runfa Wei",
+        "yuhao Guan"
 	];
+
+    public function statistics()
+    {
+        date_default_timezone_set('America/Los_Angeles');
+
+        $csv = [];
+        if (file_exists(storage_path().'/pick_today.csv')) {
+            $csv = array_map('str_getcsv', file(storage_path().'/pick_today.csv'));    
+        }
+
+        $today = date('Y-m-d');
+
+
+        foreach ($csv as $key => $line) {   
+            if (count($line) == 6 ) {
+                if ($line[0] <> '' && $line[1] == '') {
+
+                    $_name = ucwords(strtolower($line[0]));
+
+                    $_picks = $line[2];
+                    $_pick_lines = $line[3];
+                    $_pick_lines_qty = $line[4];
+
+                    $employee = Employee::where('name', $_name)
+                        ->where('day', $today)
+                        //->where('group', 'retail')
+                        ->first();
+
+                    if (!$employee) {
+                        //create;
+                        $employee = new employee();
+                        $employee->name = $_name;
+                        if (in_array((strtolower($line[0])), $this->group_retail_pick)) {
+                            $employee->group = 'retail';
+                        }
+                        if (in_array((strtolower($line[0])), $this->group_wholesale_pick)) {
+                            $employee->group = 'wholesale';
+                        }
+                    }
+                    $employee->day = $today;
+
+                    $employee->picks = str_replace(',','',$_picks);
+                    $employee->pick_lines = str_replace(',','',$_pick_lines);
+                    $employee->pick_lines_qty = str_replace(',','',$_pick_lines_qty);
+
+                    $employee->save();
+
+                }
+            }
+        }
+
+        $csv = [];
+        if (file_exists(storage_path().'/pack_today.csv')) {
+            $csv = array_map('str_getcsv', file(storage_path().'/pack_today.csv'));
+        }
+
+        foreach ($csv as $key => $line) {
+            if (count($line) == 6 ) {
+                if ($line[0] <> '' && $line[1] == '') {
+
+                    $_name = ucwords(strtolower($line[0]));
+
+                    $_packs = $line[2];
+                    $_pack_lines = $line[3];
+                    $_pack_lines_qty = $line[4];
+
+                    $employee = Employee::where('name', $_name)
+                        ->where('day', $today)
+                        //->where('group', 'retail')
+                        ->first();
+
+                    if (!$employee) {
+                        //create;
+                        $employee = new employee();
+                        $employee->name = $_name;
+
+                        if (in_array((strtolower($line[0])), $this->group_retail_pick)) {
+                            $employee->group = 'retail';
+                        }
+                        if (in_array((strtolower($line[0])), $this->group_wholesale_pick)) {
+                            $employee->group = 'wholesale';
+                        }
+
+                    }
+
+                    $employee->day = $today;
+
+                    $employee->packs = str_replace(',','',$_packs);
+                    $employee->pack_lines = str_replace(',','',$_pack_lines);
+                    $employee->pack_lines_qty = str_replace(',','',$_pack_lines_qty);
+
+                    $employee->save();
+
+                }
+            }
+        }
+
+        //$currentMonth = Carbon::parse('now')->format('Y-m');
+        $currentMonth = date('Y-m');
+
+        $data = Employee::where('day', 'like', $currentMonth.'%')->get();
+
+        $eList = [];
+        $employeeList = [];
+        $employeeStats = [];
+
+        foreach ($data as $employee) {
+            if (!in_array($employee->name, $employeeList)) {
+                $eList[] = $employee->name;
+            }
+        }
+
+        sort($eList);
+
+        $days = 31;
+
+        $stats = [
+            'picks' => null,
+            'pick_lines'  => null,
+            'pick_lines_qty' => null,
+            'packs' => null,
+            'pack_lines' => null,
+            'pack_lines_qty' => null
+        ];
+
+        foreach ($eList as $eName) {
+            for ($d = 1; $d <= $days; $d++) {
+                $employeeList[$eName][$d] = $stats;
+            }
+        }
+
+        foreach ($data as $record) {
+            $day = (int)substr($record->day, 8, 2);
+            $stats = [
+                'picks' => $record->picks,
+                'pick_lines'  => $record->pick_lines,
+                'pick_lines_qty' => $record->pick_lines_qty,
+                'packs' => $record->packs,
+                'pack_lines' => $record->pack_lines,
+                'pack_lines_qty' => $record->pack_lines_qty
+            ];
+
+            $employeeList[$record->name][$day] = $stats;
+        }
+
+        return view('statistics', ['employeeList' => $employeeList, 'today' => $today]);
+    }
 
     public function __construct()
     {
@@ -101,7 +230,7 @@ class ReportController extends Controller
 
     	$read = false;
     	$sales = array();
-    	foreach ($csv as $key => $line) {	
+    	foreach ($csv as $key => $line) {
     		if (count($line) == 10 ) {
     			if ($line[6] <> '' && $line[6] <> 'Line Status' && $line[6] <> 'Voided') {
 	    			if ($read) {
@@ -138,7 +267,7 @@ class ReportController extends Controller
             $groups_data['w'][ucwords($_name).":"] = 0;
         }
 
-    	foreach ($csv as $key => $line) {	
+    	foreach ($csv as $key => $line) {
     		if (count($line) == 6 ) {
     			if ($line[0] <> '' && $line[1] == '') {
 	    			$_name = $line[0];
@@ -169,6 +298,8 @@ class ReportController extends Controller
         	// $groups_data['w'] = array_splice($groups_data['w'], 0, 7);
         	// $this->shuffle_assoc($groups_data['w']);
         }
+        ksort($groups_data['r']);
+        ksort($groups_data['w']);
 
     	return $groups_data;
     }
@@ -242,6 +373,9 @@ class ReportController extends Controller
         	// $this->shuffle_assoc($groups_data['w']);
         }
         
+        ksort($groups_data['r']);
+        ksort($groups_data['w']);
+
     	return $groups_data;
     }
 
@@ -259,7 +393,6 @@ class ReportController extends Controller
     		if ($key == 'Ready to Pack') $salesBackgroundColor[] = '#2ecc71';
     		if ($key == 'Voided') $salesBackgroundColor[] = '#3498db';
     	}
-    	// $salesBackgroundColor = ["#F7464A", "#46BFBD", "#FDB45C", "#949FB1", "#4D5360", "#3498db", "#9b59b6", "#f1c40f", "#e67e22", "#e67e22"];
 
     	$pack = [];
     	$pack = $this->getPackReport();
@@ -453,7 +586,7 @@ class ReportController extends Controller
         $groups_data['r'] = [];
         $groups_data['w'] = [];
 
-        foreach ($csv as $key => $line) {   
+        foreach ($csv as $key => $line) {
             if (count($line) == 6 ) {
                 if ($line[0] <> '' && $line[1] == '') {
                     $_name = $line[0];
@@ -509,7 +642,7 @@ class ReportController extends Controller
         $groups_data['r'] = [];
         $groups_data['w'] = [];
 
-        foreach ($csv as $key => $line) {   
+        foreach ($csv as $key => $line) {
             if (count($line) == 6 ) {
                 if ($line[0] <> '' && $line[1] == '') {
                     $_name = $line[0];
