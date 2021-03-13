@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 class ReportController extends Controller
 {
-	protected $group_retail_pick = [
+    protected $group_retail_pick = [
         "David Gallegos",
         "Hongxi Feng",   
         "Agustin Gelista",
@@ -15,11 +15,14 @@ class ReportController extends Controller
         "Jesus Gaona",
         "William Cervantes",
         "zhiqiang zhou",
+        "Jay Ruiz",
+        "Maria Osborne",
+        "Joshua Schoon"
         //"Michael Sommermeyer",
         //"Bakari Criss",
         //"Ricky Espinosa",
         //"Marlai Gborkorquellie"
-	];
+    ];
 
     protected $group_retail_pack = [
         "Hongxi Feng",
@@ -32,47 +35,52 @@ class ReportController extends Controller
         "Zhong Li",
         "Daniela Vega",
         "qingdong liu",
-        "yanling Zhang"
+        //"yanling Zhang",
+        "Kalvyn Moreno",
+        "Chuanqiu Yu",
+        "Qianghua Chen"
     ];
 
 
-	protected $group_wholesale_pick = [
+    protected $group_wholesale_pick = [
         "Chee Leong",
         "Amy Radigan",
         "Annie Wang",
         "Betty Peng",
-        "Bo Lai",
+        //"Bo Lai",
         //"Chuck Zhang",
         "Francisco Rosario",
         //"Joccelyn Favela",
-        "Keen Lam",
+        //"Keen Lam",
         //"Peng Goldstein",
         "Simon Wu",
         "Vincent Cuaresma",
-        "wenlong yan",
-        "irving hernandez",
-        "yanchun li"
-	];
-
-
-	protected $group_wholesale_pack = [
-        "Chee Leong",
-        "Amy Radigan",
-        "Annie Wang",
-        "Betty Peng",
-        "Bo Lai",
-        //"Chuck Zhang",
-        "Francisco Rosario",
-        //"Joccelyn Favela",
-        "Keen Lam",
-        //"Peng Goldstein",
-        "Simon Wu",
-        "Vincent Cuaresma",
-        "wenlong yan",
+        //"wenlong yan",
         "irving hernandez",
         "yanchun li",
+        "Runfa Wei"
+    ];
+
+
+    protected $group_wholesale_pack = [
+        "Chee Leong",
+        "Amy Radigan",
+        "Annie Wang",
+        "Betty Peng",
+        //"Bo Lai",
+        //"Chuck Zhang",
+        "Francisco Rosario",
+        //"Joccelyn Favela",
+        //"Keen Lam",
+        //"Peng Goldstein",
+        "Simon Wu",
+        "Vincent Cuaresma",
+        //"wenlong yan",
+        "irving hernandez",
+        "yanchun li",
+        "Runfa Wei"
         //"yanling Zhang"
-	];
+    ];
 
     public function __construct()
     {
